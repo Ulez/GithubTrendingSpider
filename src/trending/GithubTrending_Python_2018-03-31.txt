@@ -1,0 +1,103 @@
+语言：Python
+时间：2018-03-31 10:07:01
+
+1:https://github.com/mdbloice/Augmentor
+  Image augmentation library in Python for machine learning.
+  stars:1,265
+
+2:https://github.com/minimaxir/person-blocker
+  Automatically "block" people in images (like Black Mirror) using a pretrained neural network.
+  stars:417
+
+3:https://github.com/billcccheng/instagram-terminal-news-feed
+  Instagram in terminal <g-emoji class="g-emoji" alias="alien" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f47d.png">👽</g-emoji><g-emoji class="g-emoji" alias="alien" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f47d.png">👽</g-emoji><g-emoji class="g-emoji" alias="fire" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji><g-emoji class="g-emoji" alias="fire" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji>
+  stars:457
+
+4:https://github.com/tensorflow/models
+  Models and examples built with TensorFlow
+  stars:31,855
+
+5:https://github.com/orsinium/textdistance
+  Compute distance between sequences. 30+ algorithms, pure python implementation, common interface.
+  stars:913
+
+6:https://github.com/HFO4/plus1s.live
+  <g-emoji class="g-emoji" alias="frog" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f438.png">🐸</g-emoji>你的服务器除了用来吃灰外，还可以拿来续
+  stars:776
+
+7:https://github.com/kamyu104/LeetCode
+  <g-emoji class="g-emoji" alias="memo" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Python / C++ 11 Solutions of All LeetCode Questions
+  stars:3,865
+
+8:https://github.com/donnemartin/system-design-primer
+  Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+  stars:24,803
+
+9:https://github.com/dchrastil/ScrapedIn
+  A tool to scrape LinkedIn without API restrictions for data reconnaissance
+  stars:86
+
+10:https://github.com/vinta/awesome-python
+  A curated list of awesome Python frameworks, libraries, software and resources
+  stars:47,764
+
+11:https://github.com/salesforce/matchbox
+  Write PyTorch code at the level of individual examples, then run it efficiently on minibatches.
+  stars:270
+
+12:https://github.com/keras-team/keras
+  Deep Learning for humans
+  stars:27,633
+
+13:https://github.com/nh2/strace-pipes-presentation
+  Presentation: Debugging across pipes and sockets with strace
+  stars:85
+
+14:https://github.com/SpiderClub/haipproxy
+  <g-emoji class="g-emoji" alias="sparkling_heart" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f496.png">💖</g-emoji> High available ip proxy pool, powerd by Scrapy and Redis
+  stars:1,454
+
+15:https://github.com/toddmotto/public-apis
+  A collective list of public JSON APIs for use in web development.
+  stars:34,929
+
+16:https://github.com/Ceruleanacg/Personae
+  Personae is a repo of implements and enviorment of Deep Reinforcement Learning &amp; Supervised Learning.
+  stars:230
+
+17:https://github.com/ageitgey/face_recognition
+  The world's simplest facial recognition api for Python and the command line
+  stars:12,293
+
+18:https://github.com/luongvo209/Awesome-Linux-Software
+  <g-emoji class="g-emoji" alias="penguin" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f427.png">🐧</g-emoji> A list of awesome applications, software, tools and other materials for Linux distros.
+  stars:8,983
+
+19:https://github.com/ansible/ansible
+  Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
+  stars:29,305
+
+20:https://github.com/scikit-learn/scikit-learn
+  scikit-learn: machine learning in Python
+  stars:27,008
+
+21:https://github.com/josephmisiti/awesome-machine-learning
+  A curated list of awesome Machine Learning frameworks, libraries and software.
+  stars:31,674
+
+22:https://github.com/rg3/youtube-dl
+  Command-line program to download videos from YouTube.com and other video sites
+  stars:35,436
+
+23:https://github.com/XX-net/XX-Net
+  a web proxy tool
+  stars:21,873
+
+24:https://github.com/Statham-stone/MultiRunner
+  This is a python package for multi-process running.
+  stars:94
+
+25:https://github.com/guohongze/adminset
+  自动化运维平台：CMDB、CD、DevOps、资产管理、任务编排、持续交付、系统监控、运维管理、配置管理
+  stars:694
+

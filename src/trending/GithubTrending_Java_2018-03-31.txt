@@ -1,0 +1,103 @@
+语言：Java
+时间：2018-03-31 10:05:57
+
+1:https://github.com/monkeyWie/proxyee-down
+  http下载工具，基于http代理，支持多连接分块下载
+  stars:4,924
+
+2:https://github.com/linlinjava/litemall
+  又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端
+  stars:240
+
+3:https://github.com/kdn251/interviews
+  Everything you need to know to get the job.
+  stars:21,149
+
+4:https://github.com/ityouknow/spring-boot-examples
+  Spring Boot 技术栈示例代码，快速简单上手教程。
+  stars:2,381
+
+5:https://github.com/Wechat-Group/weixin-java-tools
+  可能是目前最好最全的微信Java开发工具包，支持包括微信支付、开放平台、小程序、企业号和公众号等的开发
+  stars:5,400
+
+6:https://github.com/alibaba/jarslink
+  模块化开发框架
+  stars:2,033
+
+7:https://github.com/apache/incubator-dubbo
+  Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
+  stars:17,598
+
+8:https://github.com/usernameyangyan/Collection-Android
+  Collection aggregates some of the basic modules of the project, saving developer time.
+  stars:68
+
+9:https://github.com/spring-projects/spring-boot
+  Spring Boot
+  stars:22,781
+
+10:https://github.com/iluwatar/java-design-patterns
+  Design patterns implemented in Java
+  stars:31,265
+
+11:https://github.com/hankcs/HanLP
+  自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 新词发现 短语提取 自动摘要 文本分类 拼音简繁
+  stars:6,293
+
+12:https://github.com/paascloud/paascloud-master
+  spring cloud + vue 全家桶实战，模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目
+  stars:781
+
+13:https://github.com/spring-projects/spring-framework
+  Spring Framework
+  stars:20,039
+
+14:https://github.com/vondear/RxTools
+  Android开发人员不得不收集的工具类集合 | 支付宝支付 | 微信支付（统一下单） | 微信分享 | Zip4j压缩（支持分卷压缩与加密） | 一键集成UCrop选择圆形头像 | 一键集成二维码和条形码的扫描与生成 | 常用Dialog | WebView的封装可播放视频 | 仿斗鱼滑动验证码 | Toast封装 | 震动 | GPS | Location定位 | 图片缩放 | Exif 图片添加地理位置信息（经纬度） | 蛛网等级 | 颜色选择器 | 编译运行一下说不定会找到惊喜
+  stars:5,380
+
+15:https://github.com/square/leakcanary
+  A memory leak detection library for Android and Java.
+  stars:18,930
+
+16:https://github.com/Netflix/concurrency-limits
+  A memory leak detection library for Android and Java.
+  stars:18,930
+
+17:https://github.com/scwang90/SmartRefreshLayout
+  <g-emoji class="g-emoji" alias="fire" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji>下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
+  stars:10,821
+
+18:https://github.com/PhilJay/MPAndroidChart
+  A powerful <g-emoji class="g-emoji" alias="rocket" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.
+  stars:21,311
+
+19:https://github.com/eugenp/tutorials
+  The "REST With Spring" Course:
+  stars:4,897
+
+20:https://github.com/elastic/elasticsearch
+  Open Source, Distributed, RESTful Search Engine
+  stars:29,842
+
+21:https://github.com/Blankj/AndroidUtilCode
+  <g-emoji class="g-emoji" alias="fire" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Android developers should collect the following utils(updating).
+  stars:17,049
+
+22:https://github.com/ReactiveX/RxJava
+  RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+  stars:31,900
+
+23:https://github.com/uber/NullAway
+  A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
+  stars:1,851
+
+24:https://github.com/ctripcorp/apollo
+  Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
+  stars:4,316
+
+25:https://github.com/google/guava
+  Google core libraries for Java
+  stars:23,078
+
