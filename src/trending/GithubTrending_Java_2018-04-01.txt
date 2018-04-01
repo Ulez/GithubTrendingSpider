@@ -1,0 +1,103 @@
+语言：Java
+时间：2018-04-01 15:41:27
+
+1:https://github.com/monkeyWie/proxyee-down
+  http下载工具，基于http代理，支持多连接分块下载
+  stars:5,047
+
+2:https://github.com/kdn251/interviews
+  Everything you need to know to get the job.
+  stars:21,196
+
+3:https://github.com/ityouknow/spring-boot-examples
+  Spring Boot 技术栈示例代码，快速简单上手教程。
+  stars:2,424
+
+4:https://github.com/iluwatar/java-design-patterns
+  Design patterns implemented in Java
+  stars:31,293
+
+5:https://github.com/spring-projects/spring-boot
+  Spring Boot
+  stars:22,804
+
+6:https://github.com/linlinjava/litemall
+  又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端
+  stars:272
+
+7:https://github.com/vondear/RxTools
+  Android开发人员不得不收集的工具类集合 | 支付宝支付 | 微信支付（统一下单） | 微信分享 | Zip4j压缩（支持分卷压缩与加密） | 一键集成UCrop选择圆形头像 | 一键集成二维码和条形码的扫描与生成 | 常用Dialog | WebView的封装可播放视频 | 仿斗鱼滑动验证码 | Toast封装 | 震动 | GPS | Location定位 | 图片缩放 | Exif 图片添加地理位置信息（经纬度） | 蛛网等级 | 颜色选择器 | 编译运行一下说不定会找到惊喜
+  stars:5,403
+
+8:https://github.com/square/retrofit
+  Type-safe HTTP client for Android and Java by Square, Inc.
+  stars:27,123
+
+9:https://github.com/alibaba/jarslink
+  模块化开发框架
+  stars:2,049
+
+10:https://github.com/ReactiveX/RxJava
+  RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+  stars:31,924
+
+11:https://github.com/amirzaidi/Launcher3
+  The Launcher3 fork known as "Rootless Pixel Launcher"
+  stars:2,634
+
+12:https://github.com/Wechat-Group/weixin-java-tools
+  可能是目前最好最全的微信Java开发工具包，支持包括微信支付、开放平台、小程序、企业号和公众号等的开发
+  stars:5,421
+
+13:https://github.com/Vedenin/useful-java-links
+  A list of useful Java frameworks, libraries, software and hello worlds examples
+  stars:3,621
+
+14:https://github.com/TheAlgorithms/Java
+  All Algorithms implemented in Java
+  stars:2,966
+
+15:https://github.com/apache/incubator-dubbo
+  Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
+  stars:17,617
+
+16:https://github.com/eugenp/tutorials
+  The "REST With Spring" Course:
+  stars:4,912
+
+17:https://github.com/bumptech/glide
+  An image loading and caching library for Android focused on smooth scrolling
+  stars:20,977
+
+18:https://github.com/apache/hadoop
+  Mirror of Apache Hadoop
+  stars:6,424
+
+19:https://github.com/usernameyangyan/Collection-Android
+  Collection aggregates some of the basic modules of the project, saving developer time.
+  stars:88
+
+20:https://github.com/spring-projects/spring-framework
+  Spring Framework
+  stars:20,055
+
+21:https://github.com/elastic/elasticsearch
+  Open Source, Distributed, RESTful Search Engine
+  stars:29,858
+
+22:https://github.com/Netflix/concurrency-limits
+  Open Source, Distributed, RESTful Search Engine
+  stars:29,858
+
+23:https://github.com/PhilJay/MPAndroidChart
+  A powerful <g-emoji class="g-emoji" alias="rocket" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.
+  stars:21,324
+
+24:https://github.com/hankcs/HanLP
+  自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 新词发现 短语提取 自动摘要 文本分类 拼音简繁
+  stars:6,307
+
+25:https://github.com/google/guava
+  Google core libraries for Java
+  stars:23,086
+

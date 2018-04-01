@@ -1,0 +1,103 @@
+语言：C
+时间：2018-04-01 15:42:46
+
+1:https://github.com/facebook/zstd
+  Zstandard - Fast real-time compression algorithm
+  stars:6,938
+
+2:https://github.com/glouw/tinn
+  The tiny neural network library
+  stars:114
+
+3:https://github.com/torvalds/linux
+  Linux kernel source tree
+  stars:57,065
+
+4:https://github.com/masonicboom/ipscrub
+  IP address anonymizer module for nginx
+  stars:72
+
+5:https://github.com/ziutek/emgo
+  Emgo: Bare metal Go (language for programming embedded systems)
+  stars:243
+
+6:https://github.com/pjreddie/darknet
+  Convolutional Neural Networks
+  stars:6,802
+
+7:https://github.com/antirez/redis
+  Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
+  stars:28,273
+
+8:https://github.com/Genymobile/scrcpy
+  Display and control your Android device
+  stars:4,197
+
+9:https://github.com/firehol/netdata
+  Get control of your servers. Simple. Effective. Awesome! <a href="https://my-netdata.io/" rel="nofollow">https://my-netdata.io/</a>
+  stars:28,536
+
+10:https://github.com/git/git
+  Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+  stars:21,617
+
+11:https://github.com/numpy/numpy
+  Numpy main repository
+  stars:6,828
+
+12:https://github.com/openresty/openresty
+  Turning Nginx into a Full-Fledged Scriptable Web Platform
+  stars:5,006
+
+13:https://github.com/php/php-src
+  The PHP Interpreter
+  stars:16,916
+
+14:https://github.com/FFmpeg/FFmpeg
+  mirror of git://source.ffmpeg.org/ffmpeg.git
+  stars:10,283
+
+15:https://github.com/vim/vim
+  The official Vim repository
+  stars:12,157
+
+16:https://github.com/obsproject/obs-studio
+  OBS - Free and open source software for live streaming and screen recording
+  stars:8,957
+
+17:https://github.com/pervognsen/bitwise
+  Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
+  stars:3,617
+
+18:https://github.com/gentilkiwi/mimikatz
+  A little tool to play with Windows security
+  stars:5,461
+
+19:https://github.com/mpv-player/mpv
+  <g-emoji class="g-emoji" alias="movie_camera" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a5.png">🎥</g-emoji> Video player based on MPlayer/mplayer2
+  stars:7,606
+
+20:https://github.com/radare/radare2
+  unix-like reverse engineering framework and commandline tools
+  stars:7,066
+
+21:https://github.com/timescale/timescaledb
+  An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension.
+  stars:4,389
+
+22:https://github.com/Provenance-Emu/Provenance
+  An iOS/tvOS Frontend for multiple emulators, currently supporting various Sega, Nintendo, Atari, Sony, NEC, SNK and Bandai systems.
+  stars:3,319
+
+23:https://github.com/esp8266/Arduino
+  ESP8266 core for Arduino
+  stars:7,033
+
+24:https://github.com/openssl/openssl
+  TLS/SSL and crypto library
+  stars:6,708
+
+25:https://github.com/nginx/nginx
+  An official read-only mirror of <a href="http://hg.nginx.org/nginx/" rel="nofollow">http://hg.nginx.org/nginx/</a> which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see <a href="http://nginx.org/en/docs/contributing_changes.html" rel="nofollow">http://nginx.org/en/docs/contributing_changes.html</a>
+  stars:5,542
+

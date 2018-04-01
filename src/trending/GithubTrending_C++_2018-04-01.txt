@@ -1,0 +1,103 @@
+语言：C++
+时间：2018-04-01 15:41:27
+
+1:https://github.com/ValveSoftware/GameNetworkingSockets
+  Reliable &amp; unreliable messages over UDP. Message fragmentation &amp; reassembly, bandwidth estimation, encryption.
+  stars:2,337
+
+2:https://github.com/tensorflow/tensorflow
+  Computation using data flow graphs for scalable machine learning
+  stars:94,634
+
+3:https://github.com/bitcoin/bitcoin
+  Bitcoin Core integration/staging tree
+  stars:30,101
+
+4:https://github.com/electron/electron
+  Build cross platform desktop apps with JavaScript, HTML, and CSS
+  stars:58,420
+
+5:https://github.com/opencv/opencv
+  Open Source Computer Vision Library
+  stars:23,391
+
+6:https://github.com/google/protobuf
+  Protocol Buffers - Google's data interchange format
+  stars:24,856
+
+7:https://github.com/20k/game_window_manager
+  Protocol Buffers - Google's data interchange format
+  stars:24,856
+
+8:https://github.com/Microsoft/DirectX-Graphics-Samples
+  This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.
+  stars:1,423
+
+9:https://github.com/pytorch/pytorch
+  Tensors and Dynamic neural networks in Python with strong GPU acceleration
+  stars:13,407
+
+10:https://github.com/Root-lee/Put_Flavors_SA
+  2018华为软件精英挑战赛，采用模拟退火算法+首次适应算法寻找最优化放置虚拟机方法。
+  stars:35
+
+11:https://github.com/apple/swift
+  The Swift Programming Language
+  stars:43,191
+
+12:https://github.com/EOSIO/eos
+  An open source smart contract platform
+  stars:5,727
+
+13:https://github.com/ConfettiFX/The-Forge
+  The Forge Cross-Platform Rendering Framework PC, macOS / iOS, Android, XBOX, PS4
+  stars:324
+
+14:https://github.com/OpenGenus/cosmos
+  Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter
+  stars:7,070
+
+15:https://github.com/godotengine/godot
+  Godot Engine – Multi-platform 2D and 3D game engine
+  stars:14,377
+
+16:https://github.com/nlohmann/json
+  JSON for Modern C++
+  stars:9,036
+
+17:https://github.com/tesseract-ocr/tesseract
+  Tesseract Open Source OCR Engine (main repository)
+  stars:17,361
+
+18:https://github.com/BVLC/caffe
+  Caffe: a fast open framework for deep learning.
+  stars:23,506
+
+19:https://github.com/v8/v8
+  The official mirror of the V8 Git repository
+  stars:8,618
+
+20:https://github.com/Microsoft/WSL-DistroLauncher
+  Sample/reference launcher app for WSL distro Microsoft Store packages.
+  stars:422
+
+21:https://github.com/ethereum/solidity
+  The Solidity Contract-Oriented Programming Language
+  stars:4,299
+
+22:https://github.com/mozilla/rr
+  Record and Replay Framework
+  stars:3,088
+
+23:https://github.com/envoyproxy/envoy
+  C++ front/service proxy
+  stars:4,380
+
+24:https://github.com/CMU-Perceptual-Computing-Lab/openpose
+  OpenPose: Real-time multi-person keypoint detection library for body, face, and hands estimation
+  stars:6,494
+
+25:https://github.com/cmderdev/cmder
+  Lovely console emulator package for Windows
+  stars:13,628
+

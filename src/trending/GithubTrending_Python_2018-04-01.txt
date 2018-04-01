@@ -1,0 +1,103 @@
+语言：Python
+时间：2018-04-01 15:41:29
+
+1:https://github.com/minimaxir/person-blocker
+  Automatically "block" people in images (like Black Mirror) using a pretrained neural network.
+  stars:731
+
+2:https://github.com/ShivamSarodia/ShivyC
+  C compiler created in Python.
+  stars:269
+
+3:https://github.com/google/mozc-devices
+  Automatically exported from code.google.com/p/mozc-morse
+  stars:487
+
+4:https://github.com/mdbloice/Augmentor
+  Image augmentation library in Python for machine learning.
+  stars:1,360
+
+5:https://github.com/tensorflow/models
+  Models and examples built with TensorFlow
+  stars:31,910
+
+6:https://github.com/tensorflow/hub
+  A library for transfer learning by reusing parts of TensorFlow models.
+  stars:97
+
+7:https://github.com/google/nucleus
+  Python and C++ code for reading and writing genomics data.
+  stars:114
+
+8:https://github.com/billcccheng/instagram-terminal-news-feed
+  Instagram in terminal <g-emoji class="g-emoji" alias="alien" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f47d.png">👽</g-emoji><g-emoji class="g-emoji" alias="alien" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f47d.png">👽</g-emoji><g-emoji class="g-emoji" alias="fire" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji><g-emoji class="g-emoji" alias="fire" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji>
+  stars:520
+
+9:https://github.com/keras-team/keras
+  Deep Learning for humans
+  stars:27,678
+
+10:https://github.com/vinta/awesome-python
+  A curated list of awesome Python frameworks, libraries, software and resources
+  stars:47,800
+
+11:https://github.com/dchrastil/ScrapedIn
+  A tool to scrape LinkedIn without API restrictions for data reconnaissance
+  stars:139
+
+12:https://github.com/toddmotto/public-apis
+  A collective list of public JSON APIs for use in web development.
+  stars:34,975
+
+13:https://github.com/orsinium/textdistance
+  Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
+  stars:963
+
+14:https://github.com/donnemartin/system-design-primer
+  Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+  stars:24,844
+
+15:https://github.com/bitcoinbook/bitcoinbook
+  Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
+  stars:8,826
+
+16:https://github.com/pyecharts/pyecharts
+  <g-emoji class="g-emoji" alias="art" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png">🎨</g-emoji> Python Echarts Plotting Library
+  stars:2,579
+
+17:https://github.com/kamyu104/LeetCode
+  <g-emoji class="g-emoji" alias="memo" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Python / C++ 11 Solutions of All LeetCode Questions
+  stars:3,905
+
+18:https://github.com/XX-net/XX-Net
+  a web proxy tool
+  stars:21,905
+
+19:https://github.com/Mr-Un1k0d3r/ClickOnceGenerator
+  Quick Malicious ClickOnceGenerator for Red Team
+  stars:34
+
+20:https://github.com/django/django
+  The Web framework for perfectionists with deadlines.
+  stars:32,864
+
+21:https://github.com/rg3/youtube-dl
+  Command-line program to download videos from YouTube.com and other video sites
+  stars:35,462
+
+22:https://github.com/ansleliu/LightNet
+  LightNet: Light-weight Networks for Semantic Image Segmentation (Cityscapes and Mapillary Vistas Dataset)
+  stars:84
+
+23:https://github.com/python/cpython
+  The Python programming language
+  stars:16,930
+
+24:https://github.com/josephmisiti/awesome-machine-learning
+  A curated list of awesome Machine Learning frameworks, libraries and software.
+  stars:31,697
+
+25:https://github.com/tensorflow/magenta
+  Magenta: Music and Art Generation with Machine Intelligence
+  stars:9,468
+
