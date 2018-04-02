@@ -1,0 +1,103 @@
+语言：C#
+时间：2018-04-02 22:50:36
+
+1:https://github.com/torvalds/linux
+  Linux kernel source tree
+  stars:57,112
+
+2:https://github.com/pjreddie/darknet
+  Convolutional Neural Networks
+  stars:6,842
+
+3:https://github.com/facebook/zstd
+  Zstandard - Fast real-time compression algorithm
+  stars:6,984
+
+4:https://github.com/Genymobile/scrcpy
+  Display and control your Android device
+  stars:4,237
+
+5:https://github.com/ziutek/emgo
+  Emgo: Bare metal Go (language for programming embedded systems)
+  stars:282
+
+6:https://github.com/php/php-src
+  The PHP Interpreter
+  stars:16,936
+
+7:https://github.com/masonicboom/ipscrub
+  IP address anonymizer module for nginx
+  stars:98
+
+8:https://github.com/git/git
+  Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+  stars:21,631
+
+9:https://github.com/goodpaul6/SpriteExtractor
+  Processes images with inconsistent spacing to produce fixed size or tightly packed spritesheets.
+  stars:59
+
+10:https://github.com/glouw/tinn
+  The tiny neural network library
+  stars:144
+
+11:https://github.com/firehol/netdata
+  Get control of your servers. Simple. Effective. Awesome! <a href="https://my-netdata.io/" rel="nofollow">https://my-netdata.io/</a>
+  stars:28,563
+
+12:https://github.com/jiangwenyuan/nuster
+  A web caching proxy server based on HAProxy
+  stars:735
+
+13:https://github.com/curl/curl
+  A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
+  stars:7,904
+
+14:https://github.com/esp8266/Arduino
+  ESP8266 core for Arduino
+  stars:7,048
+
+15:https://github.com/antirez/redis
+  Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
+  stars:28,295
+
+16:https://github.com/numpy/numpy
+  Numpy main repository
+  stars:6,848
+
+17:https://github.com/pervognsen/bitwise
+  Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
+  stars:3,634
+
+18:https://github.com/nginx/nginx
+  An official read-only mirror of <a href="http://hg.nginx.org/nginx/" rel="nofollow">http://hg.nginx.org/nginx/</a> which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see <a href="http://nginx.org/en/docs/contributing_changes.html" rel="nofollow">http://nginx.org/en/docs/contributing_changes.html</a>
+  stars:5,556
+
+19:https://github.com/spacehuhn/esp8266_deauther
+  ESP8266 deauther
+  stars:2,598
+
+20:https://github.com/qmk/qmk_firmware
+  keyboard controller firmware for Atmel AVR and ARM USB families
+  stars:2,197
+
+21:https://github.com/jserv/amacc
+  Small C Compiler generating ELF executable for Arm architecture
+  stars:346
+
+22:https://github.com/wg/wrk
+  Modern HTTP benchmarking tool
+  stars:15,354
+
+23:https://github.com/FFmpeg/FFmpeg
+  mirror of git://source.ffmpeg.org/ffmpeg.git
+  stars:10,297
+
+24:https://github.com/libuv/libuv
+  Cross-platform asynchronous I/O
+  stars:8,826
+
+25:https://github.com/getdnsapi/stubby
+  Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS).
+  stars:131
+

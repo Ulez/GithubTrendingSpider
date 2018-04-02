@@ -1,0 +1,103 @@
+语言：Kotlin
+时间：2018-04-02 22:50:38
+
+1:https://github.com/TonnyL/Spark
+  <g-emoji class="g-emoji" alias="art" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png">🎨</g-emoji> An Android library to create gradient animation like Instagram&amp;Spotify
+  stars:317
+
+2:https://github.com/shadowsocks/shadowsocks-android
+  A shadowsocks client for Android
+  stars:13,593
+
+3:https://github.com/discordapp/SimpleAST
+  Extensible Android library for both parsing text into Abstract Syntax Trees and rendering those trees as rich text.
+  stars:96
+
+4:https://github.com/alibaba/p3c
+  Alibaba Java Coding Guidelines pmd implements and IDE plugin
+  stars:8,256
+
+5:https://github.com/tipsy/profile-summary-for-github
+  Tool for visualizing GitHub profiles
+  stars:18,075
+
+6:https://github.com/inorichi/tachiyomi
+  Free and open source manga reader for Android
+  stars:1,387
+
+7:https://github.com/izhangzhihao/intellij-rainbow-brackets
+  Rainbow Brackets / Rainbow Parentheses for IntelliJ IDEA based IDEs
+  stars:341
+
+8:https://github.com/alexstyl/RadiusTransition
+  Transition between a circle to a square. <g-emoji class="g-emoji" alias="white_circle" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/26aa.png">⚪️</g-emoji>→ <g-emoji class="g-emoji" alias="white_large_square" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b1c.png">⬜️</g-emoji>
+  stars:71
+
+9:https://github.com/JetBrains/kotlin
+  The Kotlin Programming Language
+  stars:21,673
+
+10:https://github.com/kotlintest/kotlintest
+  Powerful, elegant and flexible Kotlin test framework
+  stars:777
+
+11:https://github.com/JetBrains/Exposed
+  Kotlin SQL Framework
+  stars:1,347
+
+12:https://github.com/shyiko/ktlint
+  An anti-bikeshedding Kotlin linter with built-in formatter
+  stars:1,018
+
+13:https://github.com/Kotlin/anko
+  Pleasant Android application development
+  stars:10,517
+
+14:https://github.com/iMeiji/Daily
+  第三方知乎专栏Android App , Android Architecture Components+RxJava+Kotlin/Java两个版本
+  stars:41
+
+15:https://github.com/AkshayChordiya/android-arch-news-sample
+  News app built using new Android Architecture Guidelines and Kotlin
+  stars:219
+
+16:https://github.com/Kotlin/kotlinx.coroutines
+  Library support for Kotlin coroutines
+  stars:1,916
+
+17:https://github.com/android/android-ktx
+  A set of Kotlin extensions for Android app development.
+  stars:5,645
+
+18:https://github.com/Ramotion/fluid-slider-android
+  <img class="emoji" title=":octocat:" alt=":octocat:" src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"><g-emoji class="g-emoji" alias="droplet" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a7.png">💧</g-emoji> A slider widget with a popup bubble displaying the precise value selected. Android library made by <a href="https://github.com/Ramotion" class="user-mention">@Ramotion</a>
+  stars:717
+
+19:https://github.com/Ekito/koin
+  KOIN - a concise and pragmatic dependency injection framework for Kotlin
+  stars:957
+
+20:https://github.com/Gh0u1L5/WechatMagician
+  WechatMagician is a Xposed module written in Kotlin, that allows you to completely control your Wechat.
+  stars:514
+
+21:https://github.com/arturbosch/detekt
+  Static code analysis for Kotlin
+  stars:1,004
+
+22:https://github.com/ktorio/ktor
+  Framework for quickly creating connected applications in Kotlin with minimal effort
+  stars:2,512
+
+23:https://github.com/sourcerer-io/sourcerer-app
+  <g-emoji class="g-emoji" alias="robot" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f916.png">🤖</g-emoji> Sourcerer app makes a visual profile from your GitHub and git repositories.
+  stars:467
+
+24:https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture
+  Android Sample Clean Architecture App written in Kotlin
+  stars:28
+
+25:https://github.com/Kotlin/kotlin-koans
+  Kotlin workshop
+  stars:1,769
+

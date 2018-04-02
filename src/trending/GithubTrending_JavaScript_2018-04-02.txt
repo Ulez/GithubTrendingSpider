@@ -1,0 +1,103 @@
+语言：JavaScript
+时间：2018-04-02 22:50:35
+
+1:https://github.com/tensorflow/tfjs
+  A WebGL accelerated, browser based JavaScript library for training and deploying ML models.
+  stars:2,801
+
+2:https://github.com/yogaboll/react-kanban
+  A Trello-like application built with React and Redux. Take a look at the live website:
+  stars:429
+
+3:https://github.com/nuxt/consola
+  <g-emoji class="g-emoji" alias="koala" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f428.png">🐨</g-emoji> Elegant Console Logger
+  stars:285
+
+4:https://github.com/tensorflow/tfjs-examples
+  Examples built with TensorFlow.js
+  stars:397
+
+5:https://github.com/Popmotion/popmotion
+  A functional, reactive animation library.
+  stars:11,978
+
+6:https://github.com/vuejs/vue
+  <g-emoji class="g-emoji" alias="vulcan_salute" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f596.png">🖖</g-emoji> A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+  stars:89,191
+
+7:https://github.com/justjavac/free-programming-books-zh_CN
+  <g-emoji class="g-emoji" alias="books" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> 免费的计算机编程类中文书籍，欢迎投稿
+  stars:30,083
+
+8:https://github.com/facebook/create-react-app
+  Create React apps with no build configuration.
+  stars:46,253
+
+9:https://github.com/facebook/react
+  A declarative, efficient, and flexible JavaScript library for building user interfaces.
+  stars:92,363
+
+10:https://github.com/jaywcjlove/hotkeys
+  ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
+  stars:1,133
+
+11:https://github.com/dawnlabs/carbon
+  <g-emoji class="g-emoji" alias="art" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png">🎨</g-emoji> Create and share beautiful images of your source code
+  stars:9,430
+
+12:https://github.com/airbnb/javascript
+  JavaScript Style Guide
+  stars:68,713
+
+13:https://github.com/axios/axios
+  Promise based HTTP client for the browser and node.js
+  stars:39,024
+
+14:https://github.com/lijy91/YiLan
+  Promise based HTTP client for the browser and node.js
+  stars:39,024
+
+15:https://github.com/hueitan/made-in-taiwan
+  <g-emoji class="g-emoji" alias="taiwan" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1f9-1f1fc.png">🇹🇼</g-emoji> (NEED CONTRIBUTION) A list of neat projects made in Taiwan (MIT)
+  stars:138
+
+16:https://github.com/slmgc/Nothing
+  A chainable, callable mock object which always returns itself
+  stars:190
+
+17:https://github.com/GoogleChrome/puppeteer
+  Headless Chrome Node API
+  stars:29,536
+
+18:https://github.com/jezen/is-thirteen
+  Check if a number is equal to 13.
+  stars:3,245
+
+19:https://github.com/Tencent/wepy
+  小程序组件化开发框架
+  stars:8,686
+
+20:https://github.com/chaozh/awesome-blockchain-cn
+  收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
+  stars:9,726
+
+21:https://github.com/i5ting/How-to-learn-node-correctly
+  [全文]如何正确的学习Node.js
+  stars:1,973
+
+22:https://github.com/gatsbyjs/gatsby
+  <g-emoji class="g-emoji" alias="atom_symbol" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/269b.png">⚛️</g-emoji><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Blazing fast static site generator for React
+  stars:20,401
+
+23:https://github.com/styled-components/styled-components
+  Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress <g-emoji class="g-emoji" alias="nail_care" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f485.png">💅</g-emoji>
+  stars:15,107
+
+24:https://github.com/photonstorm/phaser
+  Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+  stars:20,629
+
+25:https://github.com/facebook/react-native
+  A framework for building native apps with React.
+  stars:62,010
+

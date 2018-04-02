@@ -1,0 +1,103 @@
+语言：Java
+时间：2018-04-02 22:50:34
+
+1:https://github.com/leinardi/FloatingActionButtonSpeedDial
+  A Floating Action Button Speed Dial implementation for Android of the Material Design specification.
+  stars:178
+
+2:https://github.com/monkeyWie/proxyee-down
+  http下载工具，基于http代理，支持多连接分块下载
+  stars:5,196
+
+3:https://github.com/ityouknow/spring-boot-examples
+  Spring Boot 技术栈示例代码，快速简单上手教程。
+  stars:2,487
+
+4:https://github.com/r17171709/android_demo
+  自己学习的androiddemo合集
+  stars:241
+
+5:https://github.com/spring-projects/spring-boot
+  Spring Boot
+  stars:22,848
+
+6:https://github.com/kdn251/interviews
+  Everything you need to know to get the job.
+  stars:21,252
+
+7:https://github.com/dyc87112/SpringBoot-Learning
+  Spring Boot教程
+  stars:2,688
+
+8:https://github.com/iluwatar/java-design-patterns
+  Design patterns implemented in Java
+  stars:31,337
+
+9:https://github.com/Vedenin/useful-java-links
+  A list of useful Java frameworks, libraries, software and hello worlds examples
+  stars:3,666
+
+10:https://github.com/linlinjava/litemall
+  又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端
+  stars:314
+
+11:https://github.com/alibaba/jarslink
+  模块化开发框架
+  stars:2,088
+
+12:https://github.com/KellenHu/MvpRxRetrofit
+  Android项目框架，使用MVP解耦，使用Rxjava链式调用，使用Retrofit网络请求以及数据缓存
+  stars:76
+
+13:https://github.com/apache/incubator-dubbo
+  Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
+  stars:17,647
+
+14:https://github.com/spring-projects/spring-framework
+  Spring Framework
+  stars:20,082
+
+15:https://github.com/TheAlgorithms/Java
+  All Algorithms implemented in Java
+  stars:3,005
+
+16:https://github.com/Blankj/AndroidUtilCode
+  <g-emoji class="g-emoji" alias="fire" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Android developers should collect the following utils(updating).
+  stars:17,087
+
+17:https://github.com/PhilJay/MPAndroidChart
+  A powerful <g-emoji class="g-emoji" alias="rocket" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.
+  stars:21,347
+
+18:https://github.com/uber/NullAway
+  A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
+  stars:1,887
+
+19:https://github.com/awangdev/LintCode
+  Java Solutions to problems on LintCode/LeetCode
+  stars:1,426
+
+20:https://github.com/mikepenz/FastAdapter
+  The bullet proof, fast and easy to use adapter library, which minimizes developing time to a fraction...
+  stars:2,149
+
+21:https://github.com/ReactiveX/RxJava
+  RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+  stars:31,949
+
+22:https://github.com/rishabh115/Interview-Questions
+  Most comprehensive list <g-emoji class="g-emoji" alias="clipboard" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4cb.png">📋</g-emoji> of interview questions <g-emoji class="g-emoji" alias="blue_book" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d8.png">📘</g-emoji> of companies scraped from Geeksforgeeks, CareerCup and Glassdoor. #Interview_Questions
+  stars:149
+
+23:https://github.com/scwang90/SmartRefreshLayout
+  <g-emoji class="g-emoji" alias="fire" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji>下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
+  stars:10,858
+
+24:https://github.com/RAOE/RunnerManager
+  智慧校园乒乓球裁判管理系统，基于SSM框架一个比赛裁判管理系统，主要技术(SpringMVC + Spring + Mybatis+Hui)
+  stars:31
+
+25:https://github.com/RAOE/java--Expressage
+  快递代取网站，基于javaweb的项目
+  stars:29
+

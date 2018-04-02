@@ -1,0 +1,103 @@
+语言：Python
+时间：2018-04-02 22:50:37
+
+1:https://github.com/minimaxir/person-blocker
+  Automatically "block" people in images (like Black Mirror) using a pretrained neural network.
+  stars:1,024
+
+2:https://github.com/Prodicode/ann-visualizer
+  A python library for visualizing Artificial Neural Networks (ANN)
+  stars:190
+
+3:https://github.com/tensorflow/models
+  Models and examples built with TensorFlow
+  stars:32,021
+
+4:https://github.com/ShivamSarodia/ShivyC
+  C compiler created in Python.
+  stars:406
+
+5:https://github.com/google/mozc-devices
+  Automatically exported from code.google.com/p/mozc-morse
+  stars:585
+
+6:https://github.com/melodyguan/enas
+  TensorFlow Code for paper "Efficient Neural Architecture Search via Parameter Sharing"
+  stars:77
+
+7:https://github.com/karpathy/find-birds
+  Find people you should follow on Twitter based on who the people you follow follow
+  stars:142
+
+8:https://github.com/keras-team/keras
+  Deep Learning for humans
+  stars:27,730
+
+9:https://github.com/danthelion/doc2audiobook
+  Convert text documents to high fidelity audio(books).
+  stars:54
+
+10:https://github.com/vinta/awesome-python
+  A curated list of awesome Python frameworks, libraries, software and resources
+  stars:47,856
+
+11:https://github.com/sharkdp/shell-functools
+  Functional programming tools for the shell
+  stars:377
+
+12:https://github.com/endernewton/iter-reason
+  Code for Iterative Reasoning Paper (CVPR 2018)
+  stars:62
+
+13:https://github.com/pallets/flask
+  The Python micro framework for building web applications.
+  stars:34,362
+
+14:https://github.com/Ceruleanacg/Reinforcement-Learning
+  Implements of Reinforcement Learning algorithms.
+  stars:52
+
+15:https://github.com/django/django
+  The Web framework for perfectionists with deadlines.
+  stars:32,904
+
+16:https://github.com/toddmotto/public-apis
+  A collective list of public JSON APIs for use in web development.
+  stars:35,023
+
+17:https://github.com/ageitgey/face_recognition
+  The world's simplest facial recognition api for Python and the command line
+  stars:12,352
+
+18:https://github.com/rg3/youtube-dl
+  Command-line program to download videos from YouTube.com and other video sites
+  stars:35,506
+
+19:https://github.com/orsinium/textdistance
+  Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
+  stars:1,006
+
+20:https://github.com/tensorflow/hub
+  A library for transfer learning by reusing parts of TensorFlow models.
+  stars:143
+
+21:https://github.com/mdbloice/Augmentor
+  Image augmentation library in Python for machine learning.
+  stars:1,401
+
+22:https://github.com/donnemartin/system-design-primer
+  Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+  stars:24,881
+
+23:https://github.com/iOS-Tips/iOS-tech-set
+  iOS知识小集
+  stars:1,611
+
+24:https://github.com/pyecharts/pyecharts
+  <g-emoji class="g-emoji" alias="art" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png">🎨</g-emoji> Python Echarts Plotting Library
+  stars:2,618
+
+25:https://github.com/littlecodersh/ItChat
+  A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
+  stars:9,814
+

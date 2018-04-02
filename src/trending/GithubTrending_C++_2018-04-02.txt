@@ -1,0 +1,103 @@
+语言：C++
+时间：2018-04-02 22:50:34
+
+1:https://github.com/ValveSoftware/GameNetworkingSockets
+  Reliable &amp; unreliable messages over UDP. Message fragmentation &amp; reassembly, bandwidth estimation, encryption.
+  stars:2,662
+
+2:https://github.com/tensorflow/tensorflow
+  Computation using data flow graphs for scalable machine learning
+  stars:94,782
+
+3:https://github.com/pytorch/pytorch
+  Tensors and Dynamic neural networks in Python with strong GPU acceleration
+  stars:13,517
+
+4:https://github.com/matt-42/moustique
+  C++14 coroutine-based non-blocking read/write operations on linux sockets
+  stars:90
+
+5:https://github.com/opencv/opencv
+  Open Source Computer Vision Library
+  stars:23,429
+
+6:https://github.com/bitcoin/bitcoin
+  Bitcoin Core integration/staging tree
+  stars:30,144
+
+7:https://github.com/electron/electron
+  Build cross platform desktop apps with JavaScript, HTML, and CSS
+  stars:58,463
+
+8:https://github.com/ahupowerdns/hello-dns
+  Hello and welcome to DNS!
+  stars:141
+
+9:https://github.com/google/protobuf
+  Protocol Buffers - Google's data interchange format
+  stars:24,885
+
+10:https://github.com/caffe2/caffe2
+  Caffe2 is a lightweight, modular, and scalable deep learning framework.
+  stars:7,737
+
+11:https://github.com/EOSIO/eos
+  An open source smart contract platform
+  stars:5,758
+
+12:https://github.com/CMU-Perceptual-Computing-Lab/openpose
+  OpenPose: Real-time multi-person keypoint detection library for body, face, and hands estimation
+  stars:6,521
+
+13:https://github.com/grpc/grpc
+  The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+  stars:14,559
+
+14:https://github.com/ApolloAuto/apollo
+  An open autonomous driving platform
+  stars:8,467
+
+15:https://github.com/tesseract-ocr/tesseract
+  Tesseract Open Source OCR Engine (main repository)
+  stars:17,384
+
+16:https://github.com/dmlc/xgboost
+  Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+  stars:11,371
+
+17:https://github.com/apple/swift
+  The Swift Programming Language
+  stars:43,207
+
+18:https://github.com/mazicwong/ACM_code
+  ACM Learning Record.
+  stars:41
+
+19:https://github.com/apache/arrow
+  Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…
+  stars:1,793
+
+20:https://github.com/envoyproxy/envoy
+  C++ front/service proxy
+  stars:4,404
+
+21:https://github.com/brpc/brpc
+  Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called "baidu-rpc" inside Baidu.
+  stars:6,619
+
+22:https://github.com/AudioKit/AudioKit
+  Swift audio synthesis, processing, &amp; analysis platform for iOS, macOS and tvOS
+  stars:5,155
+
+23:https://github.com/NVIDIA/nvvl
+  A library that uses hardware acceleration to load sequences of video frames to facilitate machine learning training
+  stars:184
+
+24:https://github.com/Root-lee/Put_Flavors_SA
+  2018华为软件精英挑战赛，采用模拟退火算法+首次适应算法寻找最优化放置虚拟机方法。
+  stars:57
+
+25:https://github.com/facebook/rocksdb
+  A library that provides an embeddable, persistent key-value store for fast storage.
+  stars:10,203
+
