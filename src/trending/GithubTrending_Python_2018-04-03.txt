@@ -1,0 +1,103 @@
+语言：Python
+时间：2018-04-03 21:40:22
+
+1:https://github.com/Fewbytes/rubber-docker
+  A workshop on Linux containers: Rebuild Docker from Scratch
+  stars:1,379
+
+2:https://github.com/minimaxir/person-blocker
+  Automatically "block" people in images (like Black Mirror) using a pretrained neural network.
+  stars:1,196
+
+3:https://github.com/tensorflow/models
+  Models and examples built with TensorFlow
+  stars:32,130
+
+4:https://github.com/Prodicode/ann-visualizer
+  A python library for visualizing Artificial Neural Networks (ANN)
+  stars:342
+
+5:https://github.com/melodyguan/enas
+  TensorFlow Code for paper "Efficient Neural Architecture Search via Parameter Sharing"
+  stars:160
+
+6:https://github.com/keras-team/keras
+  Deep Learning for humans
+  stars:27,776
+
+7:https://github.com/toddmotto/public-apis
+  A collective list of public JSON APIs for use in web development.
+  stars:35,073
+
+8:https://github.com/localstack/localstack
+  <g-emoji class="g-emoji" alias="computer" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
+  stars:11,363
+
+9:https://github.com/sharkdp/shell-functools
+  Functional programming tools for the shell
+  stars:415
+
+10:https://github.com/rg3/youtube-dl
+  Command-line program to download videos from YouTube.com and other video sites
+  stars:35,543
+
+11:https://github.com/marvis/pytorch-yolo3
+  pytorch yolo3
+  stars:66
+
+12:https://github.com/facebookresearch/Detectron
+  FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
+  stars:13,208
+
+13:https://github.com/pallets/flask
+  The Python micro framework for building web applications.
+  stars:34,389
+
+14:https://github.com/vinta/awesome-python
+  A curated list of awesome Python frameworks, libraries, software and resources
+  stars:47,884
+
+15:https://github.com/salesforce/matchbox
+  Write PyTorch code at the level of individual examples, then run it efficiently on minibatches.
+  stars:336
+
+16:https://github.com/django/django
+  The Web framework for perfectionists with deadlines.
+  stars:32,933
+
+17:https://github.com/ageitgey/face_recognition
+  The world's simplest facial recognition api for Python and the command line
+  stars:12,380
+
+18:https://github.com/karpathy/find-birds
+  Find people you should follow on Twitter based on who the people you follow follow
+  stars:171
+
+19:https://github.com/donnemartin/system-design-primer
+  Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+  stars:24,914
+
+20:https://github.com/XX-net/XX-Net
+  a web proxy tool
+  stars:21,952
+
+21:https://github.com/josephmisiti/awesome-machine-learning
+  A curated list of awesome Machine Learning frameworks, libraries and software.
+  stars:31,752
+
+22:https://github.com/orsinium/textdistance
+  Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
+  stars:1,036
+
+23:https://github.com/pypa/pipenv
+  Python Development Workflow for Humans.
+  stars:9,939
+
+24:https://github.com/IJDykeman/wangTiles
+  Experiments with wang-like tiles
+  stars:61
+
+25:https://github.com/scikit-learn/scikit-learn
+  scikit-learn: machine learning in Python
+  stars:27,067
+

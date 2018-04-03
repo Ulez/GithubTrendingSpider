@@ -1,0 +1,103 @@
+语言：C#
+时间：2018-04-03 21:40:20
+
+1:https://github.com/MagicStack/immutables
+  A high-performance immutable mapping type for Python.
+  stars:102
+
+2:https://github.com/pjreddie/darknet
+  Convolutional Neural Networks
+  stars:6,880
+
+3:https://github.com/torvalds/linux
+  Linux kernel source tree
+  stars:57,140
+
+4:https://github.com/valyala/gozstd
+  go wrapper for zstd
+  stars:45
+
+5:https://github.com/Genymobile/scrcpy
+  Display and control your Android device
+  stars:4,273
+
+6:https://github.com/antirez/redis
+  Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
+  stars:28,316
+
+7:https://github.com/crawshaw/sqlite
+  Go interface to SQLite
+  stars:35
+
+8:https://github.com/php/php-src
+  The PHP Interpreter
+  stars:16,966
+
+9:https://github.com/facebook/zstd
+  Zstandard - Fast real-time compression algorithm
+  stars:7,011
+
+10:https://github.com/firehol/netdata
+  Get control of your servers. Simple. Effective. Awesome! <a href="https://my-netdata.io/" rel="nofollow">https://my-netdata.io/</a>
+  stars:28,585
+
+11:https://github.com/git/git
+  Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+  stars:21,643
+
+12:https://github.com/kovidgoyal/kitty
+  A cross-platform, fast, feature full, GPU based terminal emulator
+  stars:2,443
+
+13:https://github.com/curl/curl
+  A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
+  stars:7,914
+
+14:https://github.com/spacehuhn/esp8266_deauther
+  ESP8266 deauther
+  stars:2,611
+
+15:https://github.com/pervognsen/bitwise
+  Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
+  stars:3,650
+
+16:https://github.com/ziutek/emgo
+  Emgo: Bare metal Go (language for programming embedded systems)
+  stars:297
+
+17:https://github.com/vim/vim
+  The official Vim repository
+  stars:12,178
+
+18:https://github.com/esp8266/Arduino
+  ESP8266 core for Arduino
+  stars:7,056
+
+19:https://github.com/shadowsocks/shadowsocks-libev
+  libev port of shadowsocks
+  stars:7,772
+
+20:https://github.com/tmux/tmux
+  tmux source code
+  stars:9,738
+
+21:https://github.com/kripken/emscripten
+  Emscripten: An LLVM-to-JavaScript Compiler
+  stars:14,366
+
+22:https://github.com/glouw/tinn
+  The tiny neural network library
+  stars:156
+
+23:https://github.com/nginx/nginx
+  An official read-only mirror of <a href="http://hg.nginx.org/nginx/" rel="nofollow">http://hg.nginx.org/nginx/</a> which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see <a href="http://nginx.org/en/docs/contributing_changes.html" rel="nofollow">http://nginx.org/en/docs/contributing_changes.html</a>
+  stars:5,565
+
+24:https://github.com/radare/radare2
+  unix-like reverse engineering framework and commandline tools
+  stars:7,090
+
+25:https://github.com/AlexAltea/orbital
+  Experimental PlayStation 4 emulator
+  stars:342
+

@@ -1,0 +1,103 @@
+语言：Java
+时间：2018-04-03 21:40:18
+
+1:https://github.com/leinardi/FloatingActionButtonSpeedDial
+  A Floating Action Button Speed Dial implementation for Android of the Material Design specification.
+  stars:282
+
+2:https://github.com/monkeyWie/proxyee-down
+  http下载工具，基于http代理，支持多连接分块下载
+  stars:5,279
+
+3:https://github.com/TeamNewPipe/NewPipe
+  A lightweight Youtube frontend for Android.
+  stars:3,252
+
+4:https://github.com/ityouknow/spring-boot-examples
+  Spring Boot 技术栈示例代码，快速简单上手教程。
+  stars:2,538
+
+5:https://github.com/iluwatar/java-design-patterns
+  Design patterns implemented in Java
+  stars:31,383
+
+6:https://github.com/willowtreeapps/Hyperion-Android
+  App Debugging &amp; Inspection Tool for Android
+  stars:82
+
+7:https://github.com/kdn251/interviews
+  Everything you need to know to get the job.
+  stars:21,299
+
+8:https://github.com/spring-projects/spring-boot
+  Spring Boot
+  stars:22,886
+
+9:https://github.com/apache/incubator-dubbo
+  Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
+  stars:17,674
+
+10:https://github.com/r17171709/android_demo
+  自己学习的androiddemo合集
+  stars:278
+
+11:https://github.com/Vedenin/useful-java-links
+  A list of useful Java frameworks, libraries, software and hello worlds examples
+  stars:3,699
+
+12:https://github.com/scwang90/SmartRefreshLayout
+  <g-emoji class="g-emoji" alias="fire" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji>下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
+  stars:10,890
+
+13:https://github.com/spring-projects/spring-framework
+  Spring Framework
+  stars:20,102
+
+14:https://github.com/hankcs/HanLP
+  自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 新词发现 短语提取 自动摘要 文本分类 拼音简繁
+  stars:6,357
+
+15:https://github.com/TheAlgorithms/Java
+  All Algorithms implemented in Java
+  stars:3,031
+
+16:https://github.com/square/okhttp
+  An HTTP+HTTP/2 client for Android and Java applications.
+  stars:25,848
+
+17:https://github.com/linlinjava/litemall
+  又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端
+  stars:337
+
+18:https://github.com/dyc87112/SpringBoot-Learning
+  Spring Boot教程
+  stars:2,713
+
+19:https://github.com/elastic/elasticsearch
+  Open Source, Distributed, RESTful Search Engine
+  stars:29,903
+
+20:https://github.com/PhilJay/MPAndroidChart
+  A powerful <g-emoji class="g-emoji" alias="rocket" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.
+  stars:21,368
+
+21:https://github.com/airbnb/lottie-android
+  Render After Effects animations natively on Android and iOS, Web, and React Native
+  stars:19,802
+
+22:https://github.com/google/guava
+  Google core libraries for Java
+  stars:23,130
+
+23:https://github.com/alibaba/jarslink
+  JarsLink is a modular development framework
+  stars:2,110
+
+24:https://github.com/CymChad/BaseRecyclerViewAdapterHelper
+  BRVAH:Powerful and flexible RecyclerAdapter
+  stars:12,822
+
+25:https://github.com/ReactiveX/RxJava
+  RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+  stars:31,971
+

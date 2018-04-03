@@ -1,0 +1,103 @@
+语言：Kotlin
+时间：2018-04-03 21:40:22
+
+1:https://github.com/TonnyL/Spark
+  <g-emoji class="g-emoji" alias="art" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png">🎨</g-emoji> An Android library to create gradient animation like Instagram&amp;Spotify
+  stars:351
+
+2:https://github.com/shadowsocks/shadowsocks-android
+  A shadowsocks client for Android
+  stars:13,620
+
+3:https://github.com/izhangzhihao/intellij-rainbow-brackets
+  Rainbow Brackets / Rainbow Parentheses for IntelliJ IDEA based IDEs
+  stars:363
+
+4:https://github.com/discordapp/SimpleAST
+  Extensible Android library for both parsing text into Abstract Syntax Trees and rendering those trees as rich text.
+  stars:113
+
+5:https://github.com/alibaba/p3c
+  Alibaba Java Coding Guidelines pmd implements and IDE plugin
+  stars:8,271
+
+6:https://github.com/JetBrains/kotlin
+  The Kotlin Programming Language
+  stars:21,685
+
+7:https://github.com/sourcerer-io/sourcerer-app
+  <g-emoji class="g-emoji" alias="robot" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f916.png">🤖</g-emoji> Sourcerer app makes a visual profile from your GitHub and git repositories.
+  stars:480
+
+8:https://github.com/alexstyl/RadiusTransition
+  Transition between a circle to a square. <g-emoji class="g-emoji" alias="white_circle" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/26aa.png">⚪️</g-emoji>→ <g-emoji class="g-emoji" alias="white_large_square" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b1c.png">⬜️</g-emoji>
+  stars:83
+
+9:https://github.com/tipsy/profile-summary-for-github
+  Tool for visualizing GitHub profiles
+  stars:18,097
+
+10:https://github.com/inorichi/tachiyomi
+  Free and open source manga reader for Android
+  stars:1,402
+
+11:https://github.com/android/android-ktx
+  A set of Kotlin extensions for Android app development.
+  stars:5,660
+
+12:https://github.com/shyiko/ktlint
+  An anti-bikeshedding Kotlin linter with built-in formatter
+  stars:1,032
+
+13:https://github.com/kotlintest/kotlintest
+  Powerful, elegant and flexible Kotlin test framework
+  stars:788
+
+14:https://github.com/Kotlin/anko
+  Pleasant Android application development
+  stars:10,527
+
+15:https://github.com/JetBrains/kotlin-native
+  Kotlin/Native infrastructure
+  stars:3,781
+
+16:https://github.com/JetBrains/Exposed
+  Kotlin SQL Framework
+  stars:1,354
+
+17:https://github.com/Kotlin/kotlinx.coroutines
+  Library support for Kotlin coroutines
+  stars:1,924
+
+18:https://github.com/ktorio/ktor
+  Framework for quickly creating connected applications in Kotlin with minimal effort
+  stars:2,519
+
+19:https://github.com/KotlinBy/awesome-kotlin
+  A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+  stars:4,511
+
+20:https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture
+  Android Sample Clean Architecture App written in Kotlin
+  stars:33
+
+21:https://github.com/JorgeCastilloPrz/hiroaki
+  Write idiomatic API integration tests using Kotlin (Unit and Instrumentation)
+  stars:213
+
+22:https://github.com/Ramotion/fluid-slider-android
+  <img class="emoji" title=":octocat:" alt=":octocat:" src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"><g-emoji class="g-emoji" alias="droplet" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a7.png">💧</g-emoji> A slider widget with a popup bubble displaying the precise value selected. Android library made by <a href="https://github.com/Ramotion" class="user-mention">@Ramotion</a>
+  stars:722
+
+23:https://github.com/JetBrains/swot
+  Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
+  stars:387
+
+24:https://github.com/MyEtherWallet/ethereum-lists
+  A repository for maintaining lists of things like malicious URLs, fake token addresses, and so forth. We love lists.
+  stars:94
+
+25:https://github.com/SimpleMobileTools/Simple-Commons
+  Some helper functions and shared resources to be used only by my simple apps.
+  stars:36
+

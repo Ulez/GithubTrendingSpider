@@ -1,0 +1,103 @@
+语言：JavaScript
+时间：2018-04-03 21:40:18
+
+1:https://github.com/tensorflow/tfjs
+  A WebGL accelerated, browser based JavaScript library for training and deploying ML models.
+  stars:3,600
+
+2:https://github.com/nuxt/consola
+  <g-emoji class="g-emoji" alias="koala" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f428.png">🐨</g-emoji> Elegant Console Logger
+  stars:854
+
+3:https://github.com/mapbox/flamebearer
+  Blazing fast flame graph tool for V8 and Node <g-emoji class="g-emoji" alias="fire" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji>
+  stars:418
+
+4:https://github.com/yogaboll/react-kanban
+  A Trello-like application built with React and Redux. Take a look at the live website:
+  stars:626
+
+5:https://github.com/Popmotion/popmotion
+  A functional, reactive animation library.
+  stars:12,192
+
+6:https://github.com/justjavac/free-programming-books-zh_CN
+  <g-emoji class="g-emoji" alias="books" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> 免费的计算机编程类中文书籍，欢迎投稿
+  stars:30,235
+
+7:https://github.com/withspectrum/spectrum
+  Simple, powerful online communities.
+  stars:352
+
+8:https://github.com/vuejs/vue
+  <g-emoji class="g-emoji" alias="vulcan_salute" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f596.png">🖖</g-emoji> A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+  stars:89,322
+
+9:https://github.com/facebook/react
+  A declarative, efficient, and flexible JavaScript library for building user interfaces.
+  stars:92,473
+
+10:https://github.com/tensorflow/tfjs-examples
+  Examples built with TensorFlow.js
+  stars:525
+
+11:https://github.com/jaywcjlove/hotkeys
+  ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
+  stars:1,242
+
+12:https://github.com/GoogleChrome/puppeteer
+  Headless Chrome Node API
+  stars:29,604
+
+13:https://github.com/facebook/create-react-app
+  Create React apps with no build configuration.
+  stars:46,315
+
+14:https://github.com/vadimdemedes/ink
+  <g-emoji class="g-emoji" alias="rainbow" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f308.png">🌈</g-emoji> React for interactive command-line apps
+  stars:5,344
+
+15:https://github.com/axios/axios
+  Promise based HTTP client for the browser and node.js
+  stars:39,091
+
+16:https://github.com/airbnb/javascript
+  JavaScript Style Guide
+  stars:68,777
+
+17:https://github.com/chaozh/awesome-blockchain-cn
+  收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
+  stars:9,788
+
+18:https://github.com/antvis/f2
+  基于 HTML5 Canvas，开箱即用的移动端可视化解决方案
+  stars:350
+
+19:https://github.com/facebook/react-native
+  A framework for building native apps with React.
+  stars:62,064
+
+20:https://github.com/fengari-lua/fengari
+  <g-emoji class="g-emoji" alias="wolf" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f43a.png">🐺</g-emoji> φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
+  stars:433
+
+21:https://github.com/i5ting/How-to-learn-node-correctly
+  [全文]如何正确的学习Node.js
+  stars:2,029
+
+22:https://github.com/Tencent/wepy
+  小程序组件化开发框架
+  stars:8,737
+
+23:https://github.com/brannondorsey/whonow
+  A malicious DNS server for executing DNS Rebinding attacks on the fly (public instance running on rebind.network:53)
+  stars:97
+
+24:https://github.com/kentcdodds/react-testing-library
+  <g-emoji class="g-emoji" alias="goat" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f410.png">🐐</g-emoji> Simple and complete React DOM testing utilities that encourage good testing practices.
+  stars:1,216
+
+25:https://github.com/nodejs/node
+  Node.js JavaScript runtime <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png">✨</g-emoji><g-emoji class="g-emoji" alias="turtle" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f422.png">🐢</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
+  stars:47,175
+
