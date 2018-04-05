@@ -1,0 +1,103 @@
+语言：Python
+时间：2018-04-05 22:51:38
+
+1:https://github.com/Fewbytes/rubber-docker
+  A workshop on Linux containers: Rebuild Docker from Scratch
+  stars:1,903
+
+2:https://github.com/tensorflow/models
+  Models and examples built with TensorFlow
+  stars:32,354
+
+3:https://github.com/toddmotto/public-apis
+  A collective list of public JSON APIs for use in web development.
+  stars:35,171
+
+4:https://github.com/awslabs/serverless-application-model
+  AWS Serverless Application Model (AWS SAM) prescribes rules for expressing Serverless applications on AWS.
+  stars:2,425
+
+5:https://github.com/vinta/awesome-python
+  A curated list of awesome Python frameworks, libraries, software and resources
+  stars:47,981
+
+6:https://github.com/keras-team/keras
+  Deep Learning for humans
+  stars:27,874
+
+7:https://github.com/minimaxir/person-blocker
+  Automatically "block" people in images (like Black Mirror) using a pretrained neural network.
+  stars:1,318
+
+8:https://github.com/ansible/ansible
+  Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
+  stars:29,405
+
+9:https://github.com/pallets/flask
+  The Python micro framework for building web applications.
+  stars:34,442
+
+10:https://github.com/MindPointGroup/cloudfrunt
+  A tool for identifying misconfigured CloudFront domains
+  stars:59
+
+11:https://github.com/scaelles/DEXTR-PyTorch
+  Deep Extreme Cut <a href="http://www.vision.ee.ethz.ch/~cvlsegmentation/dextr" rel="nofollow">http://www.vision.ee.ethz.ch/~cvlsegmentation/dextr</a>
+  stars:109
+
+12:https://github.com/requests/requests
+  Python HTTP Requests for Humans™ <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png">✨</g-emoji><g-emoji class="g-emoji" alias="cake" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f370.png">🍰</g-emoji><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
+  stars:31,540
+
+13:https://github.com/asciinema/asciinema
+  Terminal session recorder <g-emoji class="g-emoji" alias="video_camera" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png">📹</g-emoji>
+  stars:5,019
+
+14:https://github.com/XX-net/XX-Net
+  a web proxy tool
+  stars:21,996
+
+15:https://github.com/apachecn/scikit-learn-doc-zh
+  scikit-learn（sklearn） 官方文档中文版
+  stars:598
+
+16:https://github.com/scikit-learn/scikit-learn
+  scikit-learn: machine learning in Python
+  stars:27,115
+
+17:https://github.com/bonlime/keras-deeplab-v3-plus
+  Keras implementation of Deeplab v3+ with pretrained weights
+  stars:47
+
+18:https://github.com/django/django
+  The Web framework for perfectionists with deadlines.
+  stars:32,978
+
+19:https://github.com/josephmisiti/awesome-machine-learning
+  A curated list of awesome Machine Learning frameworks, libraries and software.
+  stars:31,816
+
+20:https://github.com/scrapy/scrapy
+  Scrapy, a fast high-level web crawling &amp; scraping framework for Python.
+  stars:26,570
+
+21:https://github.com/ageitgey/face_recognition
+  The world's simplest facial recognition api for Python and the command line
+  stars:12,423
+
+22:https://github.com/endernewton/iter-reason
+  Code for Iterative Reasoning Paper (CVPR 2018)
+  stars:107
+
+23:https://github.com/pypa/pipenv
+  Python Development Workflow for Humans.
+  stars:9,994
+
+24:https://github.com/home-assistant/home-assistant
+  <g-emoji class="g-emoji" alias="house_with_garden" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e1.png">🏡</g-emoji> Open-source home automation platform running on Python 3
+  stars:13,577
+
+25:https://github.com/rg3/youtube-dl
+  Command-line program to download videos from YouTube.com and other video sites
+  stars:35,594
+

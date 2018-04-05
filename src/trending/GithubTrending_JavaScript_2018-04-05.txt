@@ -1,0 +1,103 @@
+语言：JavaScript
+时间：2018-04-05 22:51:36
+
+1:https://github.com/kutlugsahin/react-smooth-dnd
+  react wrapper components for smooth-dnd
+  stars:472
+
+2:https://github.com/withspectrum/spectrum
+  Simple, powerful online communities.
+  stars:1,905
+
+3:https://github.com/tensorflow/tfjs
+  A WebGL accelerated, browser based JavaScript library for training and deploying ML models.
+  stars:4,503
+
+4:https://github.com/chpmrc/zero-width-chrome-extension
+  Replace scary zero-width characters with funny emojis
+  stars:236
+
+5:https://github.com/umpox/zero-width-detection
+  Replace scary zero-width characters with funny emojis
+  stars:236
+
+6:https://github.com/pusher/react-slack-clone
+  Complete chat application, built with Chatkit
+  stars:496
+
+7:https://github.com/nuxt/consola
+  <g-emoji class="g-emoji" alias="koala" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f428.png">🐨</g-emoji> Elegant Console Logger
+  stars:1,493
+
+8:https://github.com/waynecz/dadda-translate-crx
+  <g-emoji class="g-emoji" alias="stuck_out_tongue" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61b.png">😛</g-emoji>比较好看的 Chrome 划词翻译(搜狗)插件，自带生词簿及吐司弹词记忆
+  stars:238
+
+9:https://github.com/Popmotion/popmotion
+  A functional, reactive animation library.
+  stars:12,490
+
+10:https://github.com/facebook/react
+  A declarative, efficient, and flexible JavaScript library for building user interfaces.
+  stars:92,701
+
+11:https://github.com/vuejs/vue
+  <g-emoji class="g-emoji" alias="vulcan_salute" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f596.png">🖖</g-emoji> A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+  stars:89,540
+
+12:https://github.com/facebook/create-react-app
+  Create React apps with no build configuration.
+  stars:46,454
+
+13:https://github.com/ruyadorno/ipt
+  Interactive Pipe To: The Node.js cli interactive workflow
+  stars:531
+
+14:https://github.com/airbnb/javascript
+  JavaScript Style Guide
+  stars:68,898
+
+15:https://github.com/dawnlabs/carbon
+  <g-emoji class="g-emoji" alias="art" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png">🎨</g-emoji> Create and share beautiful images of your source code
+  stars:9,612
+
+16:https://github.com/justjavac/free-programming-books-zh_CN
+  <g-emoji class="g-emoji" alias="books" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> 免费的计算机编程类中文书籍，欢迎投稿
+  stars:30,445
+
+17:https://github.com/glidejs/glide
+  A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more
+  stars:1,892
+
+18:https://github.com/mapbox/flamebearer
+  Blazing fast flame graph tool for V8 and Node <g-emoji class="g-emoji" alias="fire" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji>
+  stars:718
+
+19:https://github.com/axios/axios
+  Promise based HTTP client for the browser and node.js
+  stars:39,225
+
+20:https://github.com/OptimalBits/bull
+  Premium package for handling jobs and messages in NodeJS.
+  stars:2,676
+
+21:https://github.com/reactjs/redux
+  Predictable state container for JavaScript apps
+  stars:39,665
+
+22:https://github.com/GoogleChrome/puppeteer
+  Headless Chrome Node API
+  stars:29,726
+
+23:https://github.com/facebook/react-native
+  A framework for building native apps with React.
+  stars:62,172
+
+24:https://github.com/mui-org/material-ui
+  React components that implement Google's Material Design.
+  stars:34,646
+
+25:https://github.com/nodejs/node
+  Node.js JavaScript runtime <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png">✨</g-emoji><g-emoji class="g-emoji" alias="turtle" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f422.png">🐢</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
+  stars:47,248
+

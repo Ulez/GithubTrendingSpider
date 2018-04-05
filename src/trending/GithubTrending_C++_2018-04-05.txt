@@ -1,0 +1,103 @@
+语言：C++
+时间：2018-04-05 22:51:36
+
+1:https://github.com/tensorflow/tensorflow
+  Computation using data flow graphs for scalable machine learning
+  stars:95,127
+
+2:https://github.com/sayurin/ffftp
+  Computation using data flow graphs for scalable machine learning
+  stars:95,127
+
+3:https://github.com/electron/electron
+  Build cross platform desktop apps with JavaScript, HTML, and CSS
+  stars:58,563
+
+4:https://github.com/opencv/opencv
+  Open Source Computer Vision Library
+  stars:23,513
+
+5:https://github.com/boost-experimental/te
+  Type.Erasure - Run-time polymorphism library
+  stars:45
+
+6:https://github.com/pytorch/pytorch
+  Tensors and Dynamic neural networks in Python with strong GPU acceleration
+  stars:13,716
+
+7:https://github.com/bitcoin/bitcoin
+  Bitcoin Core integration/staging tree
+  stars:30,232
+
+8:https://github.com/ValveSoftware/GameNetworkingSockets
+  Reliable &amp; unreliable messages over UDP. Message fragmentation &amp; reassembly, bandwidth estimation, encryption.
+  stars:2,999
+
+9:https://github.com/MozillaReality/FirefoxReality
+  Simple VR Browser
+  stars:90
+
+10:https://github.com/vczh-libraries/GacUI
+  GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features.
+  stars:1,140
+
+11:https://github.com/apple/swift
+  The Swift Programming Language
+  stars:43,267
+
+12:https://github.com/ahupowerdns/hello-dns
+  Hello and welcome to DNS!
+  stars:206
+
+13:https://github.com/tesseract-ocr/tesseract
+  Tesseract Open Source OCR Engine (main repository)
+  stars:17,459
+
+14:https://github.com/octobanana/asciimation
+  An ASCII animation interpreter for the terminal.
+  stars:30
+
+15:https://github.com/godotengine/godot
+  Godot Engine – Multi-platform 2D and 3D game engine
+  stars:14,463
+
+16:https://github.com/dmlc/xgboost
+  Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+  stars:11,418
+
+17:https://github.com/cmderdev/cmder
+  Lovely console emulator package for Windows
+  stars:13,687
+
+18:https://github.com/EOSIO/eos
+  An open source smart contract platform
+  stars:5,826
+
+19:https://github.com/grpc/grpc
+  The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+  stars:14,610
+
+20:https://github.com/carla-simulator/carla
+  Open-source simulator for autonomous driving research.
+  stars:1,095
+
+21:https://github.com/mpromonet/v4l2rtspserver
+  RTSP Server for V4L2 device capture supporting HEVC/H264/JPEG/VP8/VP9
+  stars:367
+
+22:https://github.com/brpc/brpc
+  Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called "baidu-rpc" inside Baidu.
+  stars:6,657
+
+23:https://github.com/google/protobuf
+  Protocol Buffers - Google's data interchange format
+  stars:24,959
+
+24:https://github.com/ocornut/imgui
+  Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+  stars:10,376
+
+25:https://github.com/ethz-asl/maplab
+  An open visual-inertial mapping framework.
+  stars:552
+

@@ -1,0 +1,103 @@
+语言：Java
+时间：2018-04-05 22:51:36
+
+1:https://github.com/monkeyWie/proxyee-down
+  http下载工具，基于http代理，支持多连接分块下载
+  stars:5,418
+
+2:https://github.com/dlemmermann/PreferencesFX
+  A framework for easily creating a UI for application settings / preferences.
+  stars:75
+
+3:https://github.com/iluwatar/java-design-patterns
+  Design patterns implemented in Java
+  stars:31,457
+
+4:https://github.com/kdn251/interviews
+  Everything you need to know to get the job.
+  stars:21,385
+
+5:https://github.com/willowtreeapps/Hyperion-Android
+  App Debugging &amp; Inspection Tool for Android
+  stars:200
+
+6:https://github.com/spring-projects/spring-boot
+  Spring Boot
+  stars:22,959
+
+7:https://github.com/ityouknow/spring-boot-examples
+  Spring Boot 技术栈示例代码，快速简单上手教程。
+  stars:2,631
+
+8:https://github.com/TheAlgorithms/Java
+  All Algorithms implemented in Java
+  stars:3,091
+
+9:https://github.com/spring-projects/spring-framework
+  Spring Framework
+  stars:20,151
+
+10:https://github.com/eugenp/tutorials
+  The "REST With Spring" Course:
+  stars:4,969
+
+11:https://github.com/elastic/elasticsearch
+  Open Source, Distributed, RESTful Search Engine
+  stars:29,949
+
+12:https://github.com/linlinjava/litemall
+  又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端
+  stars:412
+
+13:https://github.com/shrikanth7698/Custom-Navigation-Drawer
+  Custom Navigation Drawer Library for Android
+  stars:30
+
+14:https://github.com/google/wycheproof
+  Project Wycheproof tests crypto libraries against known attacks.
+  stars:1,833
+
+15:https://github.com/apache/incubator-dubbo
+  Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
+  stars:17,725
+
+16:https://github.com/ReactiveX/RxJava
+  RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+  stars:32,016
+
+17:https://github.com/square/okhttp
+  An HTTP+HTTP/2 client for Android and Java applications.
+  stars:25,888
+
+18:https://github.com/dbeaver/dbeaver
+  Free universal database manager and SQL client
+  stars:4,730
+
+19:https://github.com/apache/hadoop
+  Mirror of Apache Hadoop
+  stars:6,490
+
+20:https://github.com/netty/netty
+  Netty project - an event-driven asynchronous network application framework
+  stars:13,431
+
+21:https://github.com/xuxueli/xxl-sso
+  A distributed single-sign-on framework.（分布式单点登录框架XXL-SSO）
+  stars:35
+
+22:https://github.com/Netflix/Hystrix
+  Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+  stars:13,135
+
+23:https://github.com/google/guava
+  Google core libraries for Java
+  stars:23,169
+
+24:https://github.com/android-hacker/VirtualXposed
+  A Simple App to use Xposed without root or unlock the bootloader(or modify system image etc).
+  stars:1,832
+
+25:https://github.com/wix/react-native-navigation
+  A complete native navigation solution for React Native
+  stars:6,823
+
