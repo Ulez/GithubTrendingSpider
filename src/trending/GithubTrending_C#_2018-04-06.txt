@@ -1,0 +1,103 @@
+语言：C#
+时间：2018-04-06 23:48:26
+
+1:https://github.com/iliasam/OpenSimpleLidar
+  Open Hardware scanning laser rangefinder
+  stars:1,480
+
+2:https://github.com/endrazine/wcc
+  The Witchcraft Compiler Collection
+  stars:1,244
+
+3:https://github.com/torvalds/linux
+  Linux kernel source tree
+  stars:57,263
+
+4:https://github.com/zserge/webview
+  Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows)
+  stars:1,084
+
+5:https://github.com/php/php-src
+  The PHP Interpreter
+  stars:17,050
+
+6:https://github.com/pjreddie/darknet
+  Convolutional Neural Networks
+  stars:6,970
+
+7:https://github.com/ziutek/emgo
+  Emgo: Bare metal Go (language for programming embedded systems)
+  stars:335
+
+8:https://github.com/espressif/esp-adf
+  Espressif Audio Development Framework
+  stars:37
+
+9:https://github.com/git/git
+  Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+  stars:21,716
+
+10:https://github.com/Genymobile/scrcpy
+  Display and control your Android device
+  stars:4,365
+
+11:https://github.com/firehol/netdata
+  Get control of your servers. Simple. Effective. Awesome! <a href="https://my-netdata.io/" rel="nofollow">https://my-netdata.io/</a>
+  stars:28,650
+
+12:https://github.com/linw7/Skill-Tree
+  <g-emoji class="g-emoji" alias="panda_face" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f43c.png">🐼</g-emoji> 准备秋招，欢迎来树上取果实
+  stars:557
+
+13:https://github.com/wargio/r2dec-js
+  radare2 plugin - converts asm to pseudo-C code. (experimental)
+  stars:68
+
+14:https://github.com/ACINQ/eclair-wallet
+  An Android wallet for the Lightning Network
+  stars:38
+
+15:https://github.com/akopytov/sysbench
+  Scriptable database and system performance benchmark
+  stars:1,365
+
+16:https://github.com/maierfelix/glmw
+  WebAssembly powered Matrix and Vector library
+  stars:69
+
+17:https://github.com/vim/vim
+  The official Vim repository
+  stars:12,214
+
+18:https://github.com/tmux/tmux
+  tmux source code
+  stars:9,774
+
+19:https://github.com/kayru/Barycentrics
+  tmux source code
+  stars:9,774
+
+20:https://github.com/antirez/redis
+  Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
+  stars:28,370
+
+21:https://github.com/MagicStack/immutables
+  A high-performance immutable mapping type for Python.
+  stars:192
+
+22:https://github.com/pervognsen/bitwise
+  Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
+  stars:3,689
+
+23:https://github.com/curl/curl
+  A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
+  stars:7,951
+
+24:https://github.com/qmk/qmk_firmware
+  keyboard controller firmware for Atmel AVR and ARM USB families
+  stars:2,218
+
+25:https://github.com/FFmpeg/FFmpeg
+  mirror of git://source.ffmpeg.org/ffmpeg.git
+  stars:10,338
+

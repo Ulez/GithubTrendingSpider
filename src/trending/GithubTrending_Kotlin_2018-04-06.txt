@@ -1,0 +1,103 @@
+语言：Kotlin
+时间：2018-04-06 23:48:30
+
+1:https://github.com/alexstyl/RadiusTransition
+  Transition between a circle to a square. <g-emoji class="g-emoji" alias="white_circle" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/26aa.png">⚪️</g-emoji>→ <g-emoji class="g-emoji" alias="white_large_square" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b1c.png">⬜️</g-emoji>
+  stars:155
+
+2:https://github.com/android/android-ktx
+  A set of Kotlin extensions for Android app development.
+  stars:5,743
+
+3:https://github.com/shadowsocks/shadowsocks-android
+  A shadowsocks client for Android
+  stars:13,693
+
+4:https://github.com/sourcerer-io/sourcerer-app
+  <g-emoji class="g-emoji" alias="robot" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f916.png">🤖</g-emoji> Sourcerer app makes a visual profile from your GitHub and git repositories.
+  stars:540
+
+5:https://github.com/KotlinBy/awesome-kotlin
+  A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+  stars:4,543
+
+6:https://github.com/JetBrains/kotlin
+  The Kotlin Programming Language
+  stars:21,732
+
+7:https://github.com/inorichi/tachiyomi
+  Free and open source manga reader for Android
+  stars:1,424
+
+8:https://github.com/tipsy/profile-summary-for-github
+  Tool for visualizing GitHub profiles
+  stars:18,137
+
+9:https://github.com/Kotlin/anko
+  Pleasant Android application development
+  stars:10,555
+
+10:https://github.com/arrow-kt/arrow
+  Functional companion to Kotlin's Standard Library
+  stars:1,236
+
+11:https://github.com/Kotlin/kotlinx.coroutines
+  Library support for Kotlin coroutines
+  stars:1,946
+
+12:https://github.com/kotlintest/kotlintest
+  Powerful, elegant and flexible Kotlin test framework
+  stars:799
+
+13:https://github.com/izhangzhihao/intellij-rainbow-brackets
+  Rainbow Brackets / Rainbow Parentheses for IntelliJ IDEA based IDEs
+  stars:404
+
+14:https://github.com/vanniktech/gradle-dependency-graph-generator-plugin
+  Gradle plugin that generates dependency graphs from your project.
+  stars:213
+
+15:https://github.com/discordapp/SimpleAST
+  Extensible Android library for both parsing text into Abstract Syntax Trees and rendering those trees as rich text.
+  stars:137
+
+16:https://github.com/alibaba/p3c
+  Alibaba Java Coding Guidelines pmd implements and IDE plugin
+  stars:8,301
+
+17:https://github.com/ktorio/ktor
+  Framework for quickly creating connected applications in Kotlin with minimal effort
+  stars:2,539
+
+18:https://github.com/JetBrains/kotlin-native
+  Kotlin/Native infrastructure
+  stars:3,807
+
+19:https://github.com/LPirro/ConstraintLayoutAnimations
+  A quick example that shows-off how to create awesome animations with ConstraintLayout and ConstraintSet
+  stars:100
+
+20:https://github.com/JetBrains/swot
+  Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
+  stars:388
+
+21:https://github.com/substratum/template
+  The official Substratum Theme Template actively updated by the team!
+  stars:177
+
+22:https://github.com/fabianonline/telegram_backup
+  Java app to download all your telegram data.
+  stars:228
+
+23:https://github.com/MyEtherWallet/ethereum-lists
+  A repository for maintaining lists of things like malicious URLs, fake token addresses, and so forth. We love lists.
+  stars:97
+
+24:https://github.com/AberrantFox/hotbot
+  A kotlin bot for TPH
+  stars:28
+
+25:https://github.com/google/flexbox-layout
+  Flexbox for Android
+  stars:11,084
+

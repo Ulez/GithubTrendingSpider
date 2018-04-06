@@ -1,0 +1,103 @@
+语言：JavaScript
+时间：2018-04-06 23:48:25
+
+1:https://github.com/withspectrum/spectrum
+  Simple, powerful online communities.
+  stars:2,245
+
+2:https://github.com/bluzi/jsonstore
+  <g-emoji class="g-emoji" alias="floppy_disk" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4be.png">💾</g-emoji> <g-emoji class="g-emoji" alias="rocket" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Store your data for free by sending simple HTTP requests
+  stars:381
+
+3:https://github.com/tensorflow/tfjs
+  A WebGL accelerated, browser based JavaScript library for training and deploying ML models.
+  stars:4,733
+
+4:https://github.com/sindresorhus/fkill-cli
+  Fabulously kill processes. Cross-platform.
+  stars:4,766
+
+5:https://github.com/kutlugsahin/react-smooth-dnd
+  react wrapper components for smooth-dnd
+  stars:672
+
+6:https://github.com/avwo/whistle
+  HTTP, HTTPS, WebSocket debugging proxy
+  stars:2,119
+
+7:https://github.com/umpox/zero-width-detection
+  HTTP, HTTPS, WebSocket debugging proxy
+  stars:2,119
+
+8:https://github.com/facebook/react
+  A declarative, efficient, and flexible JavaScript library for building user interfaces.
+  stars:92,798
+
+9:https://github.com/waynecz/dadda-translate-crx
+  <g-emoji class="g-emoji" alias="stuck_out_tongue" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61b.png">😛</g-emoji>比较好看的 Chrome 划词翻译(搜狗)插件，自带生词簿及吐司弹词记忆
+  stars:345
+
+10:https://github.com/vuejs/vue
+  <g-emoji class="g-emoji" alias="vulcan_salute" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f596.png">🖖</g-emoji> A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+  stars:89,633
+
+11:https://github.com/pusher/react-slack-clone
+  Complete chat application, built with Chatkit
+  stars:575
+
+12:https://github.com/nuxt/consola
+  <g-emoji class="g-emoji" alias="koala" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f428.png">🐨</g-emoji> Elegant Console Logger
+  stars:1,571
+
+13:https://github.com/facebook/create-react-app
+  Create React apps with no build configuration.
+  stars:46,511
+
+14:https://github.com/airbnb/javascript
+  JavaScript Style Guide
+  stars:68,956
+
+15:https://github.com/Popmotion/popmotion
+  A functional, reactive animation library.
+  stars:12,550
+
+16:https://github.com/chpmrc/zero-width-chrome-extension
+  Replace scary zero-width characters with funny emojis
+  stars:299
+
+17:https://github.com/yujiosaka/headless-chrome-crawler
+  Distributed crawler powered by Headless Chrome
+  stars:2,708
+
+18:https://github.com/sammacbeth/dat-fox
+  dat:// protocol as a Firefox webextension
+  stars:65
+
+19:https://github.com/dawnlabs/carbon
+  <g-emoji class="g-emoji" alias="art" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png">🎨</g-emoji> Create and share beautiful images of your source code
+  stars:9,665
+
+20:https://github.com/nodejs/node
+  Node.js JavaScript runtime <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png">✨</g-emoji><g-emoji class="g-emoji" alias="turtle" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f422.png">🐢</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
+  stars:47,283
+
+21:https://github.com/GoogleChrome/puppeteer
+  Headless Chrome Node API
+  stars:29,763
+
+22:https://github.com/axios/axios
+  Promise based HTTP client for the browser and node.js
+  stars:39,269
+
+23:https://github.com/storybooks/storybook
+  Interactive UI component dev &amp; test: React, React Native, Vue, Angular
+  stars:22,195
+
+24:https://github.com/mui-org/material-ui
+  React components that implement Google's Material Design.
+  stars:34,684
+
+25:https://github.com/photonstorm/phaser
+  Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+  stars:20,775
+

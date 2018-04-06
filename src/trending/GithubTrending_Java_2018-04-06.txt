@@ -1,0 +1,103 @@
+语言：Java
+时间：2018-04-06 23:48:25
+
+1:https://github.com/iluwatar/java-design-patterns
+  Design patterns implemented in Java
+  stars:31,525
+
+2:https://github.com/monkeyWie/proxyee-down
+  http下载工具，基于http代理，支持多连接分块下载
+  stars:5,468
+
+3:https://github.com/kdn251/interviews
+  Everything you need to know to get the job.
+  stars:21,424
+
+4:https://github.com/TheAlgorithms/Java
+  All Algorithms implemented in Java
+  stars:3,122
+
+5:https://github.com/ityouknow/spring-boot-examples
+  Spring Boot 技术栈示例代码，快速简单上手教程。
+  stars:2,664
+
+6:https://github.com/spring-projects/spring-boot
+  Spring Boot
+  stars:22,985
+
+7:https://github.com/google/guava
+  Google core libraries for Java
+  stars:23,193
+
+8:https://github.com/eugenp/tutorials
+  The "REST With Spring" Course:
+  stars:4,986
+
+9:https://github.com/ReactiveX/RxJava
+  RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+  stars:32,038
+
+10:https://github.com/shrikanth7698/Custom-Navigation-Drawer
+  Custom Navigation Drawer Library for Android
+  stars:51
+
+11:https://github.com/mockito/mockito
+  Most popular Mocking framework for unit tests written in Java
+  stars:6,392
+
+12:https://github.com/TeamNewPipe/NewPipe
+  A lightweight Youtube frontend for Android.
+  stars:3,316
+
+13:https://github.com/spring-projects/spring-framework
+  Spring Framework
+  stars:20,166
+
+14:https://github.com/apache/incubator-dubbo
+  Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
+  stars:17,737
+
+15:https://github.com/elastic/elasticsearch
+  Open Source, Distributed, RESTful Search Engine
+  stars:29,963
+
+16:https://github.com/googlesamples/android-architecture-components
+  Samples for Android Architecture Components.
+  stars:7,427
+
+17:https://github.com/willowtreeapps/Hyperion-Android
+  App Debugging &amp; Inspection Tool for Android
+  stars:218
+
+18:https://github.com/google/wycheproof
+  Project Wycheproof tests crypto libraries against known attacks.
+  stars:1,850
+
+19:https://github.com/xuxueli/xxl-sso
+  A distributed single-sign-on framework.（分布式单点登录框架XXL-SSO）
+  stars:50
+
+20:https://github.com/confluentinc/ksql
+  KSQL - the Streaming SQL Engine for Apache Kafka
+  stars:1,552
+
+21:https://github.com/linlinjava/litemall
+  又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端
+  stars:425
+
+22:https://github.com/square/retrofit
+  Type-safe HTTP client for Android and Java by Square, Inc.
+  stars:27,204
+
+23:https://github.com/apache/hadoop
+  Mirror of Apache Hadoop
+  stars:6,501
+
+24:https://github.com/jenkinsci/jenkins
+  Jenkins automation server
+  stars:10,008
+
+25:https://github.com/Praneet460/Udacity-Scholars-Weekly-Challenges
+  This repository is created for Google Udacity Indian Scholars. It contains the weekly challenges provided to students of Android Intermediate Track. Each weekly challenge contains a set of bugs and students needed to solve it. They can also make it more creative. At the end of each week the list of TOP 10 students who performed well in the chall…
+  stars:32
+
