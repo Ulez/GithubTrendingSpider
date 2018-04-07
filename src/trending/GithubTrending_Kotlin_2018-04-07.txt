@@ -1,0 +1,103 @@
+语言：Kotlin
+时间：2018-04-07 22:32:35
+
+1:https://github.com/shadowsocks/shadowsocks-android
+  A shadowsocks client for Android
+  stars:13,718
+
+2:https://github.com/andyb129/31DaysOfKotlin
+  A summary of all the Kotlin tips from Google's Android Developer #31DaysofKotlin on Twitter
+  stars:29
+
+3:https://github.com/alexstyl/RadiusTransition
+  Transition between a circle to a square. <g-emoji class="g-emoji" alias="white_circle" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/26aa.png">⚪️</g-emoji>→ <g-emoji class="g-emoji" alias="white_large_square" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b1c.png">⬜️</g-emoji>
+  stars:167
+
+4:https://github.com/android/android-ktx
+  A set of Kotlin extensions for Android app development.
+  stars:5,759
+
+5:https://github.com/sourcerer-io/sourcerer-app
+  <g-emoji class="g-emoji" alias="robot" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f916.png">🤖</g-emoji> Sourcerer app makes a visual profile from your GitHub and git repositories.
+  stars:551
+
+6:https://github.com/JetBrains/kotlin
+  The Kotlin Programming Language
+  stars:21,740
+
+7:https://github.com/KotlinBy/awesome-kotlin
+  A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+  stars:4,552
+
+8:https://github.com/Kotlin/anko
+  Pleasant Android application development
+  stars:10,559
+
+9:https://github.com/ktorio/ktor
+  Framework for quickly creating connected applications in Kotlin with minimal effort
+  stars:2,544
+
+10:https://github.com/Kotlin/kotlinx.coroutines
+  Library support for Kotlin coroutines
+  stars:1,953
+
+11:https://github.com/Gh0u1L5/WechatMagician
+  WechatMagician is a Xposed module written in Kotlin, that allows you to completely control your Wechat.
+  stars:528
+
+12:https://github.com/inorichi/tachiyomi
+  Free and open source manga reader for Android
+  stars:1,431
+
+13:https://github.com/alibaba/p3c
+  Alibaba Java Coding Guidelines pmd implements and IDE plugin
+  stars:8,301
+
+14:https://github.com/JetBrains/kotlin-native
+  Kotlin/Native infrastructure
+  stars:3,813
+
+15:https://github.com/Ekito/koin
+  KOIN - a concise and pragmatic dependency injection framework for Kotlin
+  stars:976
+
+16:https://github.com/JetBrains/swot
+  Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
+  stars:388
+
+17:https://github.com/RocketChat/Rocket.Chat.Android
+  Rocket.Chat Native Android Application
+  stars:341
+
+18:https://github.com/MyEtherWallet/ethereum-lists
+  A repository for maintaining lists of things like malicious URLs, fake token addresses, and so forth. We love lists.
+  stars:97
+
+19:https://github.com/SimpleMobileTools/Simple-Gallery
+  A gallery for viewing photos and videos without ads.
+  stars:397
+
+20:https://github.com/heremaps/oss-review-toolkit
+  A suite of tools to assist with reviewing Open Source Software dependencies.
+  stars:58
+
+21:https://github.com/StephenVinouze/KontinuousSpeechRecognizer
+  A Kotlin Speech Recognizer that runs continuously and is triggered with an activation keyword
+  stars:65
+
+22:https://github.com/holgerbrandl/kscript
+  Scripting enhancements for Kotlin
+  stars:383
+
+23:https://github.com/kohesive/kovert
+  The invisible REST and web framework
+  stars:105
+
+24:https://github.com/code-helix/slatekit
+  A mobile-backend and server framework in Kotlin
+  stars:65
+
+25:https://github.com/SimpleMobileTools/Simple-Calculator
+  A calculator with the basic functions and a customizable widget.
+  stars:84
+

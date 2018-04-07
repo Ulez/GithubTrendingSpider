@@ -1,0 +1,103 @@
+语言：Python
+时间：2018-04-07 22:32:34
+
+1:https://github.com/bijection/sistine
+  Turn a MacBook into a Touchscreen with $1 of Hardware
+  stars:271
+
+2:https://github.com/UltimateHackers/Decodify
+  It can detect and decode encoded strings, recursively.
+  stars:161
+
+3:https://github.com/tensorflow/models
+  Models and examples built with TensorFlow
+  stars:32,454
+
+4:https://github.com/GauravBh1010tt/DeepLearn
+  Implementation of research papers on Deep Learning+ NLP+ CV in Python using Keras, Tensorflow and Scikit Learn.
+  stars:174
+
+5:https://github.com/hardikvasa/google-images-download
+  Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
+  stars:607
+
+6:https://github.com/Fewbytes/rubber-docker
+  A workshop on Linux containers: Rebuild Docker from Scratch
+  stars:2,007
+
+7:https://github.com/toddmotto/public-apis
+  A collective list of public JSON APIs for use in web development.
+  stars:35,264
+
+8:https://github.com/keras-team/keras
+  Deep Learning for humans
+  stars:27,947
+
+9:https://github.com/asciinema/asciinema
+  Terminal session recorder <g-emoji class="g-emoji" alias="video_camera" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png">📹</g-emoji>
+  stars:5,089
+
+10:https://github.com/vinta/awesome-python
+  A curated list of awesome Python frameworks, libraries, software and resources
+  stars:48,048
+
+11:https://github.com/apachecn/scikit-learn-doc-zh
+  scikit-learn（sklearn） 官方文档中文版
+  stars:659
+
+12:https://github.com/django/django
+  The Web framework for perfectionists with deadlines.
+  stars:33,020
+
+13:https://github.com/fennerm/flashfocus
+  Simple focus animations for tiling window managers.
+  stars:44
+
+14:https://github.com/Prodicode/ann-visualizer
+  A python library for visualizing Artificial Neural Networks (ANN)
+  stars:484
+
+15:https://github.com/flipkart-incubator/Astra
+  Automated Security Testing For REST API's
+  stars:61
+
+16:https://github.com/evilsocket/opensnitch
+  OpenSnitch is a GNU/Linux port of the Little Snitch application firewall.
+  stars:2,749
+
+17:https://github.com/rg3/youtube-dl
+  Command-line program to download videos from YouTube.com and other video sites
+  stars:35,638
+
+18:https://github.com/ansible/ansible
+  Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
+  stars:29,441
+
+19:https://github.com/josephmisiti/awesome-machine-learning
+  A curated list of awesome Machine Learning frameworks, libraries and software.
+  stars:31,871
+
+20:https://github.com/scikit-learn/scikit-learn
+  scikit-learn: machine learning in Python
+  stars:27,163
+
+21:https://github.com/ShivamSarodia/ShivyC
+  C compiler created in Python.
+  stars:526
+
+22:https://github.com/apachecn/MachineLearning
+  Machine Learning in Action（机器学习实战）
+  stars:3,015
+
+23:https://github.com/donnemartin/system-design-primer
+  Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+  stars:24,989
+
+24:https://github.com/python/cpython
+  The Python programming language
+  stars:17,016
+
+25:https://github.com/pallets/flask
+  The Python micro framework for building web applications.
+  stars:34,472
+

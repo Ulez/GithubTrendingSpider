@@ -1,0 +1,103 @@
+语言：Java
+时间：2018-04-07 22:32:31
+
+1:https://github.com/iluwatar/java-design-patterns
+  Design patterns implemented in Java
+  stars:31,573
+
+2:https://github.com/monkeyWie/proxyee-down
+  http下载工具，基于http代理，支持多连接分块下载
+  stars:5,501
+
+3:https://github.com/kdn251/interviews
+  Everything you need to know to get the job.
+  stars:21,457
+
+4:https://github.com/spring-projects/spring-boot
+  Spring Boot
+  stars:23,007
+
+5:https://github.com/google/guava
+  Google core libraries for Java
+  stars:23,210
+
+6:https://github.com/TheAlgorithms/Java
+  All Algorithms implemented in Java
+  stars:3,141
+
+7:https://github.com/eugenp/tutorials
+  The "REST With Spring" Course:
+  stars:4,997
+
+8:https://github.com/ityouknow/spring-boot-examples
+  Spring Boot 技术栈示例代码，快速简单上手教程。
+  stars:2,679
+
+9:https://github.com/jenkinsci/jenkins
+  Jenkins automation server
+  stars:10,026
+
+10:https://github.com/mockito/mockito
+  Most popular Mocking framework for unit tests written in Java
+  stars:6,408
+
+11:https://github.com/ReactiveX/RxJava
+  RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+  stars:32,049
+
+12:https://github.com/spring-projects/spring-framework
+  Spring Framework
+  stars:20,173
+
+13:https://github.com/xuxueli/xxl-sso
+  A distributed single-sign-on framework.（分布式单点登录框架XXL-SSO）
+  stars:67
+
+14:https://github.com/willowtreeapps/Hyperion-Android
+  App Debugging &amp; Inspection Tool for Android
+  stars:238
+
+15:https://github.com/TeamNewPipe/NewPipe
+  A lightweight Youtube frontend for Android.
+  stars:3,327
+
+16:https://github.com/square/okhttp
+  An HTTP+HTTP/2 client for Android and Java applications.
+  stars:25,909
+
+17:https://github.com/alibaba/jarslink
+  JarsLink is a modular development framework
+  stars:2,152
+
+18:https://github.com/apache/incubator-dubbo
+  Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
+  stars:17,746
+
+19:https://github.com/googlesamples/android-architecture-components
+  Samples for Android Architecture Components.
+  stars:7,435
+
+20:https://github.com/square/retrofit
+  Type-safe HTTP client for Android and Java by Square, Inc.
+  stars:27,214
+
+21:https://github.com/Netflix/Hystrix
+  Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+  stars:13,151
+
+22:https://github.com/bumptech/glide
+  An image loading and caching library for Android focused on smooth scrolling
+  stars:21,060
+
+23:https://github.com/dbeaver/dbeaver
+  Free universal database manager and SQL client
+  stars:4,749
+
+24:https://github.com/antlr/antlr4
+  ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
+  stars:3,792
+
+25:https://github.com/confluentinc/ksql
+  KSQL - the Streaming SQL Engine for Apache Kafka
+  stars:1,556
+
