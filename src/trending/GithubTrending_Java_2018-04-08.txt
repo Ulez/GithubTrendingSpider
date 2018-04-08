@@ -1,0 +1,103 @@
+语言：Java
+时间：2018-04-08 21:38:00
+
+1:https://github.com/iluwatar/java-design-patterns
+  Design patterns implemented in Java
+  stars:31,654
+
+2:https://github.com/JeffLi1993/springboot-learning-example
+  spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
+  stars:3,725
+
+3:https://github.com/monkeyWie/proxyee-down
+  http下载工具，基于http代理，支持多连接分块下载
+  stars:5,562
+
+4:https://github.com/ReactiveX/RxJava
+  RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+  stars:32,095
+
+5:https://github.com/apache/incubator-dubbo
+  Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
+  stars:17,783
+
+6:https://github.com/ityouknow/spring-boot-examples
+  Spring Boot 技术栈示例代码，快速简单上手教程。
+  stars:2,723
+
+7:https://github.com/spring-projects/spring-boot
+  Spring Boot
+  stars:23,041
+
+8:https://github.com/willowtreeapps/Hyperion-Android
+  App Debugging &amp; Inspection Tool for Android
+  stars:279
+
+9:https://github.com/kdn251/interviews
+  Everything you need to know to get the job.
+  stars:21,497
+
+10:https://github.com/FastBootWeixin/FastBootWeixin
+  基于SpringBoot的微信公众号快速开发框架，注解方式处理全部逻辑，重新定义公众号开发
+  stars:314
+
+11:https://github.com/CaledoniaProject/CVE-2018-1270
+  Spring messaging STOMP protocol RCE
+  stars:40
+
+12:https://github.com/apache/systemml
+  Mirror of Apache SystemML
+  stars:662
+
+13:https://github.com/google/guava
+  Google core libraries for Java
+  stars:23,240
+
+14:https://github.com/TheAlgorithms/Java
+  All Algorithms implemented in Java
+  stars:3,177
+
+15:https://github.com/xuxueli/xxl-sso
+  A distributed single-sign-on framework.（分布式单点登录框架XXL-SSO）
+  stars:99
+
+16:https://github.com/Wechat-Group/weixin-java-tools
+  可能是目前最好最全的微信Java开发工具包，支持包括微信支付、开放平台、小程序、企业号和公众号等的开发
+  stars:5,543
+
+17:https://github.com/elastic/elasticsearch
+  Open Source, Distributed, RESTful Search Engine
+  stars:29,987
+
+18:https://github.com/spring-projects/spring-framework
+  Spring Framework
+  stars:20,195
+
+19:https://github.com/scwang90/SmartRefreshLayout
+  <g-emoji class="g-emoji" alias="fire" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji>下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
+  stars:10,966
+
+20:https://github.com/GcsSloop/pager-layoutmanager
+  Android 网格分页布局。
+  stars:275
+
+21:https://github.com/yrjwcharm/PrettyGirls
+  基于gank.io的个人APP应用程序
+  stars:27
+
+22:https://github.com/apache/incubator-weex
+  Mirror of Apache Weex
+  stars:8,767
+
+23:https://github.com/square/okhttp
+  An HTTP+HTTP/2 client for Android and Java applications.
+  stars:25,931
+
+24:https://github.com/Blankj/AndroidUtilCode
+  <g-emoji class="g-emoji" alias="fire" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Android developers should collect the following utils(updating).
+  stars:17,160
+
+25:https://github.com/alibaba/jarslink
+  JarsLink is a modular development framework
+  stars:2,177
+

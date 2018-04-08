@@ -1,0 +1,103 @@
+语言：C#
+时间：2018-04-08 21:38:00
+
+1:https://github.com/NightDiveStudios/shockmac
+  System Shock (PowerMac version / Official GPL Release)
+  stars:1,018
+
+2:https://github.com/iliasam/OpenSimpleLidar
+  Open Hardware scanning laser rangefinder
+  stars:1,598
+
+3:https://github.com/torvalds/linux
+  Linux kernel source tree
+  stars:57,316
+
+4:https://github.com/glouw/tinn
+  The tiny neural network library
+  stars:205
+
+5:https://github.com/vim2meta/keylogger
+  A powerful C keylogger for Windows.
+  stars:58
+
+6:https://github.com/pjreddie/darknet
+  Convolutional Neural Networks
+  stars:7,003
+
+7:https://github.com/Genymobile/scrcpy
+  Display and control your Android device
+  stars:4,420
+
+8:https://github.com/pervognsen/bitwise
+  Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
+  stars:3,760
+
+9:https://github.com/antirez/redis
+  Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
+  stars:28,405
+
+10:https://github.com/firehol/netdata
+  Get control of your servers. Simple. Effective. Awesome! <a href="https://my-netdata.io/" rel="nofollow">https://my-netdata.io/</a>
+  stars:28,685
+
+11:https://github.com/Microsoft/winfile
+  Original Windows File Manager (winfile) with enhancements
+  stars:31
+
+12:https://github.com/kovidgoyal/kitty
+  A cross-platform, fast, feature full, GPU based terminal emulator
+  stars:2,496
+
+13:https://github.com/espressif/esp-adf
+  Espressif Audio Development Framework
+  stars:68
+
+14:https://github.com/julycoding/The-Art-Of-Programming-By-July
+  本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
+  stars:13,570
+
+15:https://github.com/swaywm/sway
+  i3-compatible Wayland compositor
+  stars:3,699
+
+16:https://github.com/libuv/libuv
+  Cross-platform asynchronous I/O
+  stars:8,881
+
+17:https://github.com/openresty/lua-nginx-module
+  Embed the Power of Lua into NGINX HTTP servers
+  stars:5,795
+
+18:https://github.com/swoole/swoole-src
+  Event-driven asynchronous &amp; concurrent &amp; coroutine networking engine with high performance for PHP.
+  stars:8,384
+
+19:https://github.com/AlexAltea/orbital
+  Experimental PlayStation 4 emulator
+  stars:382
+
+20:https://github.com/nothings/shockmac
+  System Shock (PowerMac version / Official GPL Release)
+  stars:27
+
+21:https://github.com/ThunderCls/xAnalyzer
+  xAnalyzer plugin for x64dbg
+  stars:222
+
+22:https://github.com/git/git
+  Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+  stars:21,743
+
+23:https://github.com/esp8266/Arduino
+  ESP8266 core for Arduino
+  stars:7,098
+
+24:https://github.com/curl/curl
+  A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
+  stars:7,971
+
+25:https://github.com/kripken/emscripten
+  Emscripten: An LLVM-to-JavaScript Compiler
+  stars:14,399
+

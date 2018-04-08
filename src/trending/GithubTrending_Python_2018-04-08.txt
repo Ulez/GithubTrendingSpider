@@ -1,0 +1,103 @@
+语言：Python
+时间：2018-04-08 21:38:01
+
+1:https://github.com/bijection/sistine
+  Turn a MacBook into a Touchscreen with $1 of Hardware
+  stars:628
+
+2:https://github.com/hardikvasa/google-images-download
+  Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
+  stars:885
+
+3:https://github.com/UltimateHackers/Decodify
+  It can detect and decode encoded strings, recursively.
+  stars:249
+
+4:https://github.com/tensorflow/models
+  Models and examples built with TensorFlow
+  stars:32,508
+
+5:https://github.com/LijieFan/tvnet
+  End-to-End Learning of Motion Representation for Video Understanding
+  stars:68
+
+6:https://github.com/GauravBh1010tt/DeepLearn
+  Implementation of research papers on Deep Learning+ NLP+ CV in Python using Keras, Tensorflow and Scikit Learn.
+  stars:211
+
+7:https://github.com/vinta/awesome-python
+  A curated list of awesome Python frameworks, libraries, software and resources
+  stars:48,091
+
+8:https://github.com/Fewbytes/rubber-docker
+  A workshop on Linux containers: Rebuild Docker from Scratch
+  stars:2,052
+
+9:https://github.com/keras-team/keras
+  Deep Learning for humans
+  stars:27,979
+
+10:https://github.com/pallets/flask
+  The Python micro framework for building web applications.
+  stars:34,511
+
+11:https://github.com/Prodicode/ann-visualizer
+  A python library for visualizing Artificial Neural Networks (ANN)
+  stars:519
+
+12:https://github.com/rg3/youtube-dl
+  Command-line program to download videos from YouTube.com and other video sites
+  stars:35,674
+
+13:https://github.com/apachecn/MachineLearning
+  Machine Learning in Action（机器学习实战）
+  stars:3,049
+
+14:https://github.com/ageitgey/face_recognition
+  The world's simplest facial recognition api for Python and the command line
+  stars:12,488
+
+15:https://github.com/CSAILVision/semantic-segmentation-pytorch
+  Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset
+  stars:254
+
+16:https://github.com/matterport/Mask_RCNN
+  Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
+  stars:4,831
+
+17:https://github.com/apachecn/scikit-learn-doc-zh
+  scikit-learn（sklearn） 官方文档中文版
+  stars:691
+
+18:https://github.com/BoXiao123/py-tiny-yolo-from-scratch
+  this repository is implementing tiny yolo by python from scratch
+  stars:34
+
+19:https://github.com/django/django
+  The Web framework for perfectionists with deadlines.
+  stars:33,042
+
+20:https://github.com/facebookresearch/Detectron
+  FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
+  stars:13,285
+
+21:https://github.com/flipkart-incubator/Astra
+  Automated Security Testing For REST API's
+  stars:86
+
+22:https://github.com/scikit-learn/scikit-learn
+  scikit-learn: machine learning in Python
+  stars:27,183
+
+23:https://github.com/XX-net/XX-Net
+  a web proxy tool
+  stars:22,051
+
+24:https://github.com/openai/gym
+  A toolkit for developing and comparing reinforcement learning algorithms.
+  stars:11,309
+
+25:https://github.com/shadowsocks/shadowsocks
+  A toolkit for developing and comparing reinforcement learning algorithms.
+  stars:11,309
+

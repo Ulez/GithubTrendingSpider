@@ -1,0 +1,103 @@
+语言：Kotlin
+时间：2018-04-08 21:38:01
+
+1:https://github.com/andyb129/31DaysOfKotlin
+  A summary of all the Kotlin tips from Google's Android Developer #31DaysofKotlin on Twitter
+  stars:85
+
+2:https://github.com/android/android-ktx
+  A set of Kotlin extensions for Android app development.
+  stars:5,785
+
+3:https://github.com/shadowsocks/shadowsocks-android
+  A shadowsocks client for Android
+  stars:13,739
+
+4:https://github.com/yrjwcharm/SuiYue
+  碎阅APP
+  stars:34
+
+5:https://github.com/alibaba/p3c
+  Alibaba Java Coding Guidelines pmd implements and IDE plugin
+  stars:8,321
+
+6:https://github.com/JetBrains/kotlin
+  The Kotlin Programming Language
+  stars:21,759
+
+7:https://github.com/Gh0u1L5/WechatMagician
+  WechatMagician is a Xposed module written in Kotlin, that allows you to completely control your Wechat.
+  stars:546
+
+8:https://github.com/KotlinBy/awesome-kotlin
+  A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+  stars:4,564
+
+9:https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture
+  Android Sample Clean Architecture App written in Kotlin
+  stars:63
+
+10:https://github.com/Kotlin/kotlinx.coroutines
+  Library support for Kotlin coroutines
+  stars:1,960
+
+11:https://github.com/tipsy/profile-summary-for-github
+  Tool for visualizing GitHub profiles
+  stars:18,141
+
+12:https://github.com/sourcerer-io/sourcerer-app
+  <g-emoji class="g-emoji" alias="robot" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f916.png">🤖</g-emoji> Sourcerer app makes a visual profile from your GitHub and git repositories.
+  stars:560
+
+13:https://github.com/inorichi/tachiyomi
+  Free and open source manga reader for Android
+  stars:1,438
+
+14:https://github.com/ktorio/ktor
+  Framework for quickly creating connected applications in Kotlin with minimal effort
+  stars:2,550
+
+15:https://github.com/8enet/Charles-Crack
+  Charles 破解工具
+  stars:35
+
+16:https://github.com/TonnyL/Spark
+  <g-emoji class="g-emoji" alias="art" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png">🎨</g-emoji> An Android library to create gradient animation like Instagram&amp;Spotify
+  stars:410
+
+17:https://github.com/SimpleMobileTools/Simple-Calendar
+  A simple calendar with events, customizable widget and no ads.
+  stars:1,002
+
+18:https://github.com/JetBrains/kotlin-native
+  Kotlin/Native infrastructure
+  stars:3,815
+
+19:https://github.com/ingbyr/GUI-YouGet
+  GUI for you-get and youtube-dl
+  stars:913
+
+20:https://github.com/discordapp/SimpleAST
+  Extensible Android library for both parsing text into Abstract Syntax Trees and rendering those trees as rich text.
+  stars:143
+
+21:https://github.com/izhangzhihao/intellij-rainbow-brackets
+  Rainbow Brackets / Rainbow Parentheses for IntelliJ IDEA based IDEs
+  stars:409
+
+22:https://github.com/Ramotion/android-ui-animation-components-libraries
+  Android UI libraries, components and animations by <a href="https://github.com/ramotion" class="user-mention">@ramotion</a>
+  stars:37
+
+23:https://github.com/Magneticraft-Team/Magneticraft
+  Magneticraft
+  stars:27
+
+24:https://github.com/guoxiaoxing/phoenix
+  The one-stop solution for taking pictures / videos, picture / video selection, editing and compression on the Android platform.
+  stars:481
+
+25:https://github.com/inorichi/tachiyomi-extensions
+  The one-stop solution for taking pictures / videos, picture / video selection, editing and compression on the Android platform.
+  stars:481
+

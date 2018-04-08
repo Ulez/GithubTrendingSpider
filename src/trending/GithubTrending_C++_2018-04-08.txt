@@ -1,0 +1,103 @@
+语言：C++
+时间：2018-04-08 21:38:00
+
+1:https://github.com/changkun/modern-cpp-tutorial
+  <g-emoji class="g-emoji" alias="books" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> 高速上手现代 C++ 11/14/17
+  stars:383
+
+2:https://github.com/tensorflow/tensorflow
+  Computation using data flow graphs for scalable machine learning
+  stars:95,421
+
+3:https://github.com/bitcoin/bitcoin
+  Bitcoin Core integration/staging tree
+  stars:30,317
+
+4:https://github.com/opencv/opencv
+  Open Source Computer Vision Library
+  stars:23,581
+
+5:https://github.com/electron/electron
+  Build cross platform desktop apps with JavaScript, HTML, and CSS
+  stars:58,642
+
+6:https://github.com/openai/retro
+  Retro Games in Gym
+  stars:285
+
+7:https://github.com/comaeio/OPCDE
+  OPCDE DXB 2017 + 2018 Materials
+  stars:274
+
+8:https://github.com/pytorch/pytorch
+  Tensors and Dynamic neural networks in Python with strong GPU acceleration
+  stars:13,804
+
+9:https://github.com/tesseract-ocr/tesseract
+  Tesseract Open Source OCR Engine (main repository)
+  stars:17,515
+
+10:https://github.com/google/protobuf
+  Protocol Buffers - Google's data interchange format
+  stars:25,026
+
+11:https://github.com/EOSIO/eos
+  An open source smart contract platform
+  stars:5,882
+
+12:https://github.com/typesense/typesense
+  Fast, typo tolerant search engine for building delightful search experiences.
+  stars:104
+
+13:https://github.com/CMU-Perceptual-Computing-Lab/openpose
+  OpenPose: Real-time multi-person keypoint detection library for body, face, and hands estimation
+  stars:6,607
+
+14:https://github.com/godotengine/godot
+  Godot Engine – Multi-platform 2D and 3D game engine
+  stars:14,507
+
+15:https://github.com/ApolloAuto/apollo
+  An open autonomous driving platform
+  stars:8,532
+
+16:https://github.com/excess-demogroup/vlee
+  very last engine ever
+  stars:197
+
+17:https://github.com/fireice-uk/xmr-stak
+  Unified All-in-one Monero miner
+  stars:2,155
+
+18:https://github.com/dmlc/xgboost
+  Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+  stars:11,458
+
+19:https://github.com/ocornut/imgui
+  Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+  stars:10,406
+
+20:https://github.com/ValveSoftware/GameNetworkingSockets
+  Reliable &amp; unreliable messages over UDP. Message fragmentation &amp; reassembly, bandwidth estimation, encryption.
+  stars:3,060
+
+21:https://github.com/mongodb/mongo
+  The MongoDB Database
+  stars:13,440
+
+22:https://github.com/grpc/grpc
+  The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+  stars:14,642
+
+23:https://github.com/Root-lee/Put_Flavors_SA
+  2018华为软件精英挑战赛，采用模拟退火算法+首次适应算法寻找最优化放置虚拟机方法。
+  stars:129
+
+24:https://github.com/aksnzhy/xlearn
+  High Performance, Easy-to-use, and Scalable Machine Learning Package (C++, Python, R)
+  stars:1,610
+
+25:https://github.com/BVLC/caffe
+  Caffe: a fast open framework for deep learning.
+  stars:23,580
+
