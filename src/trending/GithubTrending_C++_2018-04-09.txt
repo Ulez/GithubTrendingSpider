@@ -1,0 +1,103 @@
+语言：C++
+时间：2018-04-09 21:41:47
+
+1:https://github.com/changkun/modern-cpp-tutorial
+  <g-emoji class="g-emoji" alias="books" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> 高速上手现代 C++ 11/14/17
+  stars:668
+
+2:https://github.com/tensorflow/tensorflow
+  Computation using data flow graphs for scalable machine learning
+  stars:95,561
+
+3:https://github.com/Jellonator/Nandlang
+  A programming language based on NAND completeness
+  stars:86
+
+4:https://github.com/bitcoin/bitcoin
+  Bitcoin Core integration/staging tree
+  stars:30,353
+
+5:https://github.com/FreeCAD/FreeCAD
+  This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler
+  stars:2,297
+
+6:https://github.com/pytorch/pytorch
+  Tensors and Dynamic neural networks in Python with strong GPU acceleration
+  stars:13,846
+
+7:https://github.com/opencv/opencv
+  Open Source Computer Vision Library
+  stars:23,617
+
+8:https://github.com/electron/electron
+  Build cross platform desktop apps with JavaScript, HTML, and CSS
+  stars:58,684
+
+9:https://github.com/apache/incubator-singa
+  Mirror of Apache Singa (Incubating)
+  stars:1,357
+
+10:https://github.com/comaeio/OPCDE
+  OPCDE DXB 2017 + 2018 Materials
+  stars:312
+
+11:https://github.com/google/protobuf
+  Protocol Buffers - Google's data interchange format
+  stars:25,058
+
+12:https://github.com/EOSIO/eos
+  An open source smart contract platform
+  stars:5,910
+
+13:https://github.com/tesseract-ocr/tesseract
+  Tesseract Open Source OCR Engine (main repository)
+  stars:17,545
+
+14:https://github.com/BVLC/caffe
+  Caffe: a fast open framework for deep learning.
+  stars:23,603
+
+15:https://github.com/fireice-uk/xmr-stak
+  Unified All-in-one Monero miner
+  stars:2,174
+
+16:https://github.com/openai/retro
+  Retro Games in Gym
+  stars:312
+
+17:https://github.com/dmlc/xgboost
+  Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+  stars:11,483
+
+18:https://github.com/ocornut/imgui
+  Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+  stars:10,431
+
+19:https://github.com/godotengine/godot
+  Godot Engine – Multi-platform 2D and 3D game engine
+  stars:14,527
+
+20:https://github.com/fmtlib/fmt
+  A modern formatting library
+  stars:3,591
+
+21:https://github.com/cmderdev/cmder
+  Lovely console emulator package for Windows
+  stars:13,736
+
+22:https://github.com/grpc/grpc
+  The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+  stars:14,659
+
+23:https://github.com/ApolloAuto/apollo
+  An open autonomous driving platform
+  stars:8,547
+
+24:https://github.com/google/leveldb
+  LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+  stars:13,226
+
+25:https://github.com/CMU-Perceptual-Computing-Lab/openpose
+  OpenPose: Real-time multi-person keypoint detection library for body, face, and hands estimation
+  stars:6,626
+

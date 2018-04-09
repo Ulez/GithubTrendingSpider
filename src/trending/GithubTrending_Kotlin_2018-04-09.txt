@@ -1,0 +1,103 @@
+语言：Kotlin
+时间：2018-04-09 21:41:47
+
+1:https://github.com/shadowsocks/shadowsocks-android
+  A shadowsocks client for Android
+  stars:13,778
+
+2:https://github.com/andyb129/31DaysOfKotlin
+  A summary of all the Kotlin tips from Google's Android Developer #31DaysofKotlin on Twitter
+  stars:127
+
+3:https://github.com/googlesamples/android-databinding
+  A summary of all the Kotlin tips from Google's Android Developer #31DaysofKotlin on Twitter
+  stars:127
+
+4:https://github.com/alibaba/p3c
+  Alibaba Java Coding Guidelines pmd implements and IDE plugin
+  stars:8,345
+
+5:https://github.com/android/android-ktx
+  A set of Kotlin extensions for Android app development.
+  stars:5,809
+
+6:https://github.com/JetBrains/kotlin
+  The Kotlin Programming Language
+  stars:21,773
+
+7:https://github.com/sourcerer-io/sourcerer-app
+  <g-emoji class="g-emoji" alias="robot" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f916.png">🤖</g-emoji> Sourcerer app makes a visual profile from your GitHub and git repositories.
+  stars:580
+
+8:https://github.com/izhangzhihao/intellij-rainbow-brackets
+  Rainbow Brackets / Rainbow Parentheses for IntelliJ IDEA based IDEs
+  stars:427
+
+9:https://github.com/8enet/Charles-Crack
+  Charles 破解工具
+  stars:51
+
+10:https://github.com/vanniktech/gradle-dependency-graph-generator-plugin
+  Gradle plugin that generates dependency graphs from your project.
+  stars:232
+
+11:https://github.com/Gh0u1L5/WechatMagician
+  WechatMagician is a Xposed module written in Kotlin, that allows you to completely control your Wechat.
+  stars:557
+
+12:https://github.com/ReactiveX/RxKotlin
+  RxJava bindings for Kotlin
+  stars:4,018
+
+13:https://github.com/KotlinBy/awesome-kotlin
+  A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+  stars:4,574
+
+14:https://github.com/JetBrains/kotlin-native
+  Kotlin/Native infrastructure
+  stars:3,826
+
+15:https://github.com/heimashi/kotlin_tips
+  用Kotlin去提高生产力:汇总Kotlin相对于Java的优势，以及怎么用Kotlin去简洁、务实、高效、安全开发的Tips
+  stars:796
+
+16:https://github.com/inorichi/tachiyomi
+  Free and open source manga reader for Android
+  stars:1,447
+
+17:https://github.com/yrjwcharm/SuiYue
+  碎阅APP
+  stars:43
+
+18:https://github.com/SimpleMobileTools/Simple-Clock
+  A combination of a clock, alarm, stopwatch and timer.
+  stars:26
+
+19:https://github.com/blokadaorg/blokada
+  Free ad blocker for Android with the best open source community.
+  stars:234
+
+20:https://github.com/kotlintest/kotlintest
+  Powerful, elegant and flexible Kotlin test framework
+  stars:806
+
+21:https://github.com/Kotlin/kotlinx.coroutines
+  Library support for Kotlin coroutines
+  stars:1,966
+
+22:https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture
+  Android Sample Clean Architecture App written in Kotlin
+  stars:69
+
+23:https://github.com/JetBrains/Exposed
+  Kotlin SQL Framework
+  stars:1,375
+
+24:https://github.com/JetBrains/swot
+  Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
+  stars:389
+
+25:https://github.com/substratum/template
+  The official Substratum Theme Template actively updated by the team!
+  stars:177
+

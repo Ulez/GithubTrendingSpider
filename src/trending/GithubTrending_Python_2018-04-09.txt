@@ -1,0 +1,103 @@
+语言：Python
+时间：2018-04-09 21:41:47
+
+1:https://github.com/hardikvasa/google-images-download
+  Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
+  stars:1,197
+
+2:https://github.com/bijection/sistine
+  Turn a MacBook into a Touchscreen with $1 of Hardware
+  stars:929
+
+3:https://github.com/tensorflow/models
+  Models and examples built with TensorFlow
+  stars:32,597
+
+4:https://github.com/vinta/awesome-python
+  A curated list of awesome Python frameworks, libraries, software and resources
+  stars:48,157
+
+5:https://github.com/PetrochukM/PyTorch-NLP
+  Supporting Rapid Prototyping with a PyTorch-NLP Toolkit
+  stars:284
+
+6:https://github.com/KonradIT/gopro-py-api
+  Unofficial GoPro API Library for Python - connect to HERO3/3+/4/5/+/6 via WiFi.
+  stars:207
+
+7:https://github.com/vysec/DomLink
+  A tool to link a domain with registered organisation names and emails, to other domains.
+  stars:74
+
+8:https://github.com/keras-team/keras
+  Deep Learning for humans
+  stars:28,021
+
+9:https://github.com/donnemartin/system-design-primer
+  Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+  stars:25,053
+
+10:https://github.com/Fewbytes/rubber-docker
+  A workshop on Linux containers: Rebuild Docker from Scratch
+  stars:2,110
+
+11:https://github.com/pallets/flask
+  The Python micro framework for building web applications.
+  stars:34,541
+
+12:https://github.com/qq547276542/Agriculture_KnowledgeGraph
+  农业知识图谱(KG)：农业领域的信息检索，命名实体识别，关系抽取，分类树构建，数据挖掘
+  stars:182
+
+13:https://github.com/ageitgey/face_recognition
+  The world's simplest facial recognition api for Python and the command line
+  stars:12,527
+
+14:https://github.com/matterport/Mask_RCNN
+  Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
+  stars:4,865
+
+15:https://github.com/invictus1306/Workshop-BSidesMunich2018
+  ARM shellcode and exploit development - BSidesMunich 2018
+  stars:42
+
+16:https://github.com/toddmotto/public-apis
+  A collective list of public JSON APIs for use in web development.
+  stars:35,334
+
+17:https://github.com/XX-net/XX-Net
+  a web proxy tool
+  stars:22,088
+
+18:https://github.com/scikit-learn/scikit-learn
+  scikit-learn: machine learning in Python
+  stars:27,212
+
+19:https://github.com/apachecn/MachineLearning
+  Machine Learning in Action（机器学习实战）
+  stars:3,082
+
+20:https://github.com/django/django
+  The Web framework for perfectionists with deadlines.
+  stars:33,073
+
+21:https://github.com/rg3/youtube-dl
+  Command-line program to download videos from YouTube.com and other video sites
+  stars:35,709
+
+22:https://github.com/josephmisiti/awesome-machine-learning
+  A curated list of awesome Machine Learning frameworks, libraries and software.
+  stars:31,919
+
+23:https://github.com/UltimateHackers/Decodify
+  It can detect and decode encoded strings, recursively.
+  stars:281
+
+24:https://github.com/bitcoinbook/bitcoinbook
+  Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
+  stars:8,968
+
+25:https://github.com/baverman/vial-http
+  Simple http rest tool for vim
+  stars:328
+
