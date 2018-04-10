@@ -1,0 +1,103 @@
+语言：C++
+时间：2018-04-10 21:16:56
+
+1:https://github.com/yue/yue
+  A library for creating native cross-platform GUI apps
+  stars:1,248
+
+2:https://github.com/changkun/modern-cpp-tutorial
+  <g-emoji class="g-emoji" alias="books" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> 高速上手现代 C++ 11/14/17
+  stars:873
+
+3:https://github.com/tensorflow/tensorflow
+  Computation using data flow graphs for scalable machine learning
+  stars:95,706
+
+4:https://github.com/typesense/typesense
+  Fast, typo tolerant search engine for building delightful search experiences.
+  stars:201
+
+5:https://github.com/FreeCAD/FreeCAD
+  This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler
+  stars:2,380
+
+6:https://github.com/electron/electron
+  Build cross platform desktop apps with JavaScript, HTML, and CSS
+  stars:58,761
+
+7:https://github.com/google/protobuf
+  Protocol Buffers - Google's data interchange format
+  stars:25,115
+
+8:https://github.com/bitcoin/bitcoin
+  Bitcoin Core integration/staging tree
+  stars:30,398
+
+9:https://github.com/pytorch/pytorch
+  Tensors and Dynamic neural networks in Python with strong GPU acceleration
+  stars:13,890
+
+10:https://github.com/opencv/opencv
+  Open Source Computer Vision Library
+  stars:23,661
+
+11:https://github.com/Tencent/TSeer
+  A high available service discovery &amp; registration &amp; fault-tolerance framework
+  stars:51
+
+12:https://github.com/BVLC/caffe
+  Caffe: a fast open framework for deep learning.
+  stars:23,640
+
+13:https://github.com/tesseract-ocr/tesseract
+  Tesseract Open Source OCR Engine (main repository)
+  stars:17,584
+
+14:https://github.com/dmlc/xgboost
+  Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+  stars:11,517
+
+15:https://github.com/EOSIO/eos
+  An open source smart contract platform
+  stars:5,940
+
+16:https://github.com/openai/retro
+  Retro Games in Gym
+  stars:346
+
+17:https://github.com/Jellonator/Nandlang
+  A programming language based on NAND completeness
+  stars:122
+
+18:https://github.com/grpc/grpc
+  The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+  stars:14,686
+
+19:https://github.com/ocornut/imgui
+  Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+  stars:10,463
+
+20:https://github.com/godotengine/godot
+  Godot Engine – Multi-platform 2D and 3D game engine
+  stars:14,552
+
+21:https://github.com/comaeio/OPCDE
+  OPCDE DXB 2017 + 2018 Materials
+  stars:339
+
+22:https://github.com/fireice-uk/xmr-stak
+  Unified All-in-one Monero miner
+  stars:2,193
+
+23:https://github.com/ValveSoftware/GameNetworkingSockets
+  Reliable &amp; unreliable messages over UDP. Message fragmentation &amp; reassembly, bandwidth estimation, encryption.
+  stars:3,097
+
+24:https://github.com/Mindwerks/XLEngine
+  XLEngine allows you to play Dark Forces, Daggerfall and soon Outlaws and Blood with modern technology.
+  stars:32
+
+25:https://github.com/ApolloAuto/apollo
+  An open autonomous driving platform
+  stars:8,560
+

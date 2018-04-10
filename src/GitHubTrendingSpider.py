@@ -58,16 +58,17 @@ class HandleThread(threading.Thread):  # 解析线程
         p = re.compile('<li class="col-12 d-block width-full py-4 border-bottom" id=".*?">(.*?)</li>', re.S)
         ccc = p.findall(html)
         numb = 0
+        dec = 'No description'
         print "正在保存" + fileName
         for item in ccc:
             numb += 1
             try:
                 p_name = re.compile('<a href="/(.*?)">')
                 addr = "https://github.com/" + p_name.search(item).group(1)
-                p_describe = re.compile('<p class="col-9 d-inline-block text-gray m-0 pr-4">\s*(.*?)\s*</p>')
-                dec = p_describe.search(item).group(1)
                 p_star = re.compile('<a class="muted-link d-inline-block mr-3".*\s*<svg .*</svg>.*\s*(.*)\s*</a>')
                 stars = p_star.search(item).group(1)
+                p_describe = re.compile('<p class="col-9 d-inline-block text-gray m-0 pr-4">\s*(.*?)\s*</p>')
+                dec = p_describe.search(item).group(1)
             except Exception:
                 print "No description"
             finally:
@@ -107,16 +108,17 @@ class GithubSpider:
         p = re.compile('<li class="col-12 d-block width-full py-4 border-bottom" id=".*?">(.*?)</li>', re.S)
         ccc = p.findall(html)
         numb = 0
+        dec = 'No description'
+        stars = ''
         for item in ccc:
             numb += 1
             try:
                 p_name = re.compile('<a href="/(.*?)">')
                 addr = "https://github.com/" + p_name.search(item).group(1)
-                p_describe = re.compile('<p class="col-9 d-inline-block text-gray m-0 pr-4">\s*(.*?)\s*</p>')
-                dec = p_describe.search(item).group(1)
                 p_star = re.compile('<a class="muted-link d-inline-block mr-3".*\s*<svg .*</svg>.*\s*(.*)\s*</a>')
                 stars = p_star.search(item).group(1)
-
+                p_describe = re.compile('<p class="col-9 d-inline-block text-gray m-0 pr-4">\s*(.*?)\s*</p>')
+                dec = p_describe.search(item).group(1)
             except Exception:
                 print "No description"
             finally:

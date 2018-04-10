@@ -1,0 +1,103 @@
+语言：Python
+时间：2018-04-10 21:16:58
+
+1:https://github.com/adamisntdead/QuSimPy
+  A Multi-Qubit Ideal Quantum Computer Simulator
+  stars:348
+
+2:https://github.com/KonradIT/gopro-py-api
+  Unofficial GoPro API Library for Python - connect to HERO3/3+/4/5/+/6 via WiFi.
+  stars:462
+
+3:https://github.com/CSAILVision/semantic-segmentation-pytorch
+  Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset
+  stars:554
+
+4:https://github.com/hardikvasa/google-images-download
+  Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
+  stars:1,384
+
+5:https://github.com/bijection/sistine
+  Turn a MacBook into a Touchscreen with $1 of Hardware
+  stars:1,095
+
+6:https://github.com/facebookresearch/video-nonlocal-net
+  Non-local Neural Networks for Video Classification
+  stars:176
+
+7:https://github.com/tensorflow/models
+  Models and examples built with TensorFlow
+  stars:32,679
+
+8:https://github.com/PetrochukM/PyTorch-NLP
+  Supporting Rapid Prototyping with a Toolkit (incl. Datasets and Neural Network Layers)
+  stars:366
+
+9:https://github.com/mame82/P4wnP1
+  P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W.
+  stars:1,227
+
+10:https://github.com/neozhaoliang/pywonderland
+  Render beautiful images and animate interesting algorithms in mathematics with Python. Fractals, Penrose tilings, reaction-diffusion, Wilson's uniform spanning tree algorithm, domino shuffling algorithm, coupling from the past, 4D polytopes, Mobius transformations, hyperbolic tilings. <a href="http://www.pywonderland.com" rel="nofollow">www.pywonderland.com</a>.
+  stars:2,694
+
+11:https://github.com/vinta/awesome-python
+  A curated list of awesome Python frameworks, libraries, software and resources
+  stars:48,214
+
+12:https://github.com/keras-team/keras
+  Deep Learning for humans
+  stars:28,070
+
+13:https://github.com/matterport/Mask_RCNN
+  Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
+  stars:4,905
+
+14:https://github.com/qq547276542/Agriculture_KnowledgeGraph
+  农业知识图谱(KG)：农业领域的信息检索，命名实体识别，关系抽取，分类树构建，数据挖掘
+  stars:224
+
+15:https://github.com/threerocks/studyFiles
+  一些经典且高质量的电子书分享
+  stars:1,248
+
+16:https://github.com/devendrachaplot/Neural-Localization
+  Train an RL agent to localize actively (PyTorch)
+  stars:60
+
+17:https://github.com/Fewbytes/rubber-docker
+  A workshop on Linux containers: Rebuild Docker from Scratch
+  stars:2,148
+
+18:https://github.com/asciinema/asciinema
+  Terminal session recorder <g-emoji class="g-emoji" alias="video_camera" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png">📹</g-emoji>
+  stars:5,177
+
+19:https://github.com/ansible/ansible
+  Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
+  stars:29,515
+
+20:https://github.com/scikit-learn/scikit-learn
+  scikit-learn: machine learning in Python
+  stars:27,251
+
+21:https://github.com/wee-slack/wee-slack
+  A WeeChat plugin for Slack.com. Synchronizes read markers, provides typing notification, search, etc..
+  stars:1,219
+
+22:https://github.com/wting/autojump
+  A cd command that learns - easily navigate directories from the command line
+  stars:6,970
+
+23:https://github.com/django/django
+  The Web framework for perfectionists with deadlines.
+  stars:33,104
+
+24:https://github.com/pallets/flask
+  The Python micro framework for building web applications.
+  stars:34,578
+
+25:https://github.com/toddmotto/public-apis
+  A collective list of public JSON APIs for use in web development.
+  stars:35,373
+

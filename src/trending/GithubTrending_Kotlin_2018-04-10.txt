@@ -1,0 +1,103 @@
+语言：Kotlin
+时间：2018-04-10 21:16:58
+
+1:https://github.com/googlesamples/android-databinding
+  No description
+  stars:120
+
+2:https://github.com/shadowsocks/shadowsocks-android
+  A shadowsocks client for Android
+  stars:13,803
+
+3:https://github.com/andyb129/31DaysOfKotlin
+  A summary of all the Kotlin tips from Google's Android Developer #31DaysofKotlin on Twitter
+  stars:155
+
+4:https://github.com/izhangzhihao/intellij-rainbow-brackets
+  Rainbow Brackets / Rainbow Parentheses for IntelliJ IDEA based IDEs
+  stars:460
+
+5:https://github.com/android/android-ktx
+  A set of Kotlin extensions for Android app development.
+  stars:5,827
+
+6:https://github.com/tipsy/profile-summary-for-github
+  Tool for visualizing GitHub profiles
+  stars:18,156
+
+7:https://github.com/JetBrains/kotlin
+  The Kotlin Programming Language
+  stars:21,789
+
+8:https://github.com/8enet/Charles-Crack
+  Charles 破解工具
+  stars:61
+
+9:https://github.com/sourcerer-io/sourcerer-app
+  <g-emoji class="g-emoji" alias="robot" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f916.png">🤖</g-emoji> Sourcerer app makes a visual profile from your GitHub and git repositories.
+  stars:594
+
+10:https://github.com/thomasnield/kotlin-statistics
+  Idiomatic statistical operators for Kotlin
+  stars:298
+
+11:https://github.com/KotlinBy/awesome-kotlin
+  A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+  stars:4,583
+
+12:https://github.com/JetBrains/kotlin-native
+  Kotlin/Native infrastructure
+  stars:3,837
+
+13:https://github.com/arrow-kt/arrow
+  Functional companion to Kotlin's Standard Library
+  stars:1,252
+
+14:https://github.com/yrjwcharm/SuiYue
+  碎阅APP
+  stars:51
+
+15:https://github.com/kotlintest/kotlintest
+  Powerful, elegant and flexible Kotlin test framework
+  stars:813
+
+16:https://github.com/vanniktech/gradle-dependency-graph-generator-plugin
+  Gradle plugin that generates dependency graphs from your project.
+  stars:239
+
+17:https://github.com/patrickyin/clean-architecture-android-kotlin
+  Using Uncle Bob's clean architecture with Kotlin language and the latest Android technologies(Rx, Dagger2 etc.).
+  stars:159
+
+18:https://github.com/shyiko/ktlint
+  An anti-bikeshedding Kotlin linter with built-in formatter
+  stars:1,067
+
+19:https://github.com/corda/corda
+  Corda is a distributed ledger platform designed to record, manage and automate legal agreements between business partners. Designed by (and for) the world's largest financial institutions yet with applications in multiple industries. It offers a unique response to the privacy and scalability challenges facing decentralised applications.
+  stars:1,750
+
+20:https://github.com/SimpleMobileTools/Simple-Calendar
+  A simple calendar with events, customizable widget and no ads.
+  stars:1,012
+
+21:https://github.com/Kotlin/kotlinx.coroutines
+  Library support for Kotlin coroutines
+  stars:1,970
+
+22:https://github.com/ReactiveX/RxKotlin
+  RxJava bindings for Kotlin
+  stars:4,022
+
+23:https://github.com/intellij-rust/intellij-rust
+  Rust plugin for the IntelliJ Platform: <a href="https://intellij-rust.github.io/" rel="nofollow">https://intellij-rust.github.io/</a>
+  stars:1,739
+
+24:https://github.com/heimashi/kotlin_tips
+  用Kotlin去提高生产力:汇总Kotlin相对于Java的优势，以及怎么用Kotlin去简洁、务实、高效、安全开发的Tips
+  stars:799
+
+25:https://github.com/ktorio/ktor
+  Framework for quickly creating connected applications in Kotlin with minimal effort
+  stars:2,558
+

@@ -1,0 +1,103 @@
+语言：JavaScript
+时间：2018-04-10 21:16:56
+
+1:https://github.com/sigalor/whatsapp-web-reveng
+  Reverse engineering WhatsApp Web.
+  stars:1,433
+
+2:https://github.com/yue/wey
+  Fast open source Slack desktop app
+  stars:755
+
+3:https://github.com/tensorflow/tfjs
+  A WebGL accelerated, browser based JavaScript library for training and deploying ML models.
+  stars:5,550
+
+4:https://github.com/vuejs/vue
+  <g-emoji class="g-emoji" alias="vulcan_salute" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f596.png">🖖</g-emoji> A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+  stars:90,128
+
+5:https://github.com/drcmda/react-spring
+  <g-emoji class="g-emoji" alias="raised_hands" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f64c.png">🙌</g-emoji> Helping react-motion and animated to become best friends
+  stars:1,767
+
+6:https://github.com/FrontendMasters/front-end-handbook-2018
+  2018 edition of our front-end development handbook
+  stars:679
+
+7:https://github.com/wojtekmaj/react-lifecycle-methods-diagram
+  Interactive React lifecycle methods diagram.
+  stars:833
+
+8:https://github.com/withspectrum/spectrum
+  Simple, powerful online communities.
+  stars:2,727
+
+9:https://github.com/facebook/react
+  A declarative, efficient, and flexible JavaScript library for building user interfaces.
+  stars:93,115
+
+10:https://github.com/nozzle/react-static
+  <g-emoji class="g-emoji" alias="atom_symbol" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/269b.png">⚛️</g-emoji> <g-emoji class="g-emoji" alias="rocket" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> A progressive static site generator for React.
+  stars:4,402
+
+11:https://github.com/Meituan-Dianping/mpvue
+  基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
+  stars:7,371
+
+12:https://github.com/GoogleChrome/puppeteer
+  Headless Chrome Node API
+  stars:29,971
+
+13:https://github.com/airbnb/javascript
+  JavaScript Style Guide
+  stars:69,176
+
+14:https://github.com/justjavac/awesome-wechat-weapp
+  微信小程序开发资源汇总 <g-emoji class="g-emoji" alias="100" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4af.png">💯</g-emoji>
+  stars:13,216
+
+15:https://github.com/facebook/create-react-app
+  Create React apps with no build configuration.
+  stars:46,722
+
+16:https://github.com/kamranahmedse/driver.js
+  A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+  stars:7,223
+
+17:https://github.com/bluzi/jsonstore
+  <g-emoji class="g-emoji" alias="floppy_disk" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4be.png">💾</g-emoji> <g-emoji class="g-emoji" alias="rocket" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Store your data for free by sending simple HTTP requests
+  stars:995
+
+18:https://github.com/axios/axios
+  Promise based HTTP client for the browser and node.js
+  stars:39,475
+
+19:https://github.com/facebook/react-native
+  A framework for building native apps with React.
+  stars:62,356
+
+20:https://github.com/pqina/filepond
+  <g-emoji class="g-emoji" alias="ocean" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f30a.png">🌊</g-emoji> A flexible and fun JavaScript file upload library
+  stars:2,602
+
+21:https://github.com/prettier/prettier
+  Prettier is an opinionated code formatter.
+  stars:23,428
+
+22:https://github.com/glidejs/glide
+  A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more
+  stars:2,282
+
+23:https://github.com/gatsbyjs/gatsby
+  <g-emoji class="g-emoji" alias="atom_symbol" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/269b.png">⚛️</g-emoji><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Blazing fast static site generator for React
+  stars:20,636
+
+24:https://github.com/nodejs/node
+  Node.js JavaScript runtime <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png">✨</g-emoji><g-emoji class="g-emoji" alias="turtle" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f422.png">🐢</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
+  stars:47,418
+
+25:https://github.com/nolanlawson/pinafore
+  Alternative web client for Mastodon
+  stars:67
+
