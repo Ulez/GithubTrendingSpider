@@ -1,0 +1,103 @@
+语言：Python
+时间：2018-04-11 20:36:07
+
+1:https://github.com/hzy46/Deep-Learning-21-Examples
+  《21个项目玩转深度学习———基于TensorFlow的实践详解》配套代码
+  stars:405
+
+2:https://github.com/adamisntdead/QuSimPy
+  A Multi-Qubit Ideal Quantum Computer Simulator
+  stars:498
+
+3:https://github.com/Ahmkel/Keras-Project-Template
+  A project template to simplify building and training deep learning models using Keras.
+  stars:209
+
+4:https://github.com/CSAILVision/semantic-segmentation-pytorch
+  Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset
+  stars:652
+
+5:https://github.com/mame82/P4wnP1
+  P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W.
+  stars:1,313
+
+6:https://github.com/facebookresearch/video-nonlocal-net
+  Non-local Neural Networks for Video Classification
+  stars:283
+
+7:https://github.com/tensorflow/models
+  Models and examples built with TensorFlow
+  stars:32,753
+
+8:https://github.com/bijection/sistine
+  Turn a MacBook into a Touchscreen with $1 of Hardware
+  stars:1,191
+
+9:https://github.com/uber-common/differentiable-plasticity
+  Implementations of the algorithms described in Differentiable plasticity: training plastic networks with gradient descent, a research paper from Uber AI Labs.
+  stars:111
+
+10:https://github.com/vinta/awesome-python
+  A curated list of awesome Python frameworks, libraries, software and resources
+  stars:48,276
+
+11:https://github.com/hardikvasa/google-images-download
+  Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
+  stars:1,431
+
+12:https://github.com/KonradIT/gopro-py-api
+  Unofficial GoPro API Library for Python - connect to HERO3/3+/4/5/+/6 via WiFi.
+  stars:508
+
+13:https://github.com/keras-team/keras
+  Deep Learning for humans
+  stars:28,117
+
+14:https://github.com/awslabs/serverless-application-model
+  AWS Serverless Application Model (AWS SAM) prescribes rules for expressing Serverless applications on AWS.
+  stars:2,565
+
+15:https://github.com/wting/autojump
+  A cd command that learns - easily navigate directories from the command line
+  stars:7,022
+
+16:https://github.com/toddmotto/public-apis
+  A collective list of public JSON APIs for use in web development.
+  stars:35,418
+
+17:https://github.com/PetrochukM/PyTorch-NLP
+  Supporting Rapid Prototyping with a Toolkit (incl. Datasets and Neural Network Layers)
+  stars:411
+
+18:https://github.com/matterport/Mask_RCNN
+  Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
+  stars:4,947
+
+19:https://github.com/rg3/youtube-dl
+  Command-line program to download videos from YouTube.com and other video sites
+  stars:35,775
+
+20:https://github.com/scikit-learn/scikit-learn
+  scikit-learn: machine learning in Python
+  stars:27,279
+
+21:https://github.com/outcastofmusic/quick-nlp
+  Pytorch NLP library based on FastAI
+  stars:45
+
+22:https://github.com/pypa/pipenv
+  Python Development Workflow for Humans.
+  stars:10,125
+
+23:https://github.com/python/cpython
+  The Python programming language
+  stars:17,094
+
+24:https://github.com/evilsocket/opensnitch
+  OpenSnitch is a GNU/Linux port of the Little Snitch application firewall.
+  stars:2,818
+
+25:https://github.com/immunIT/drupwn
+  Drupal enumeration tool
+  stars:36
+

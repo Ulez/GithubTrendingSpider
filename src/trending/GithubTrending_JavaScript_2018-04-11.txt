@@ -1,0 +1,103 @@
+语言：JavaScript
+时间：2018-04-11 20:36:05
+
+1:https://github.com/sigalor/whatsapp-web-reveng
+  Reverse engineering WhatsApp Web.
+  stars:1,944
+
+2:https://github.com/drcmda/react-spring
+  <g-emoji class="g-emoji" alias="raised_hands" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f64c.png">🙌</g-emoji> Helping react-motion and animated to become best friends
+  stars:2,185
+
+3:https://github.com/FrontendMasters/front-end-handbook-2018
+  2018 edition of our front-end development handbook
+  stars:974
+
+4:https://github.com/yue/wey
+  Fast open source Slack desktop app
+  stars:939
+
+5:https://github.com/vuejs/vue
+  <g-emoji class="g-emoji" alias="vulcan_salute" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f596.png">🖖</g-emoji> A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+  stars:90,294
+
+6:https://github.com/nozzle/react-static
+  <g-emoji class="g-emoji" alias="atom_symbol" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/269b.png">⚛️</g-emoji> <g-emoji class="g-emoji" alias="rocket" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> A progressive static site generator for React.
+  stars:4,513
+
+7:https://github.com/tensorflow/tfjs
+  A WebGL accelerated, browser based JavaScript library for training and deploying ML models.
+  stars:5,653
+
+8:https://github.com/withspectrum/spectrum
+  Simple, powerful online communities.
+  stars:2,812
+
+9:https://github.com/facebook/react
+  A declarative, efficient, and flexible JavaScript library for building user interfaces.
+  stars:93,198
+
+10:https://github.com/GoogleChrome/puppeteer
+  Headless Chrome Node API
+  stars:30,065
+
+11:https://github.com/YMFE/yapi
+  YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+  stars:1,835
+
+12:https://github.com/Meituan-Dianping/mpvue
+  基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
+  stars:7,441
+
+13:https://github.com/airbnb/javascript
+  JavaScript Style Guide
+  stars:69,239
+
+14:https://github.com/facebook/react-native
+  A framework for building native apps with React.
+  stars:62,423
+
+15:https://github.com/justjavac/free-programming-books-zh_CN
+  <g-emoji class="g-emoji" alias="books" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> 免费的计算机编程类中文书籍，欢迎投稿
+  stars:30,787
+
+16:https://github.com/hichroma/learnstorybook.com
+  Static site and content for Learn Storybook
+  stars:79
+
+17:https://github.com/justjavac/awesome-wechat-weapp
+  微信小程序开发资源汇总 <g-emoji class="g-emoji" alias="100" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4af.png">💯</g-emoji>
+  stars:13,268
+
+18:https://github.com/lukeed/regexparam
+  A tiny (299B) utility that converts route patterns into RegExp. Limited alternative to `path-to-regexp` <g-emoji class="g-emoji" alias="bowing_man" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f647.png">🙇‍♂️</g-emoji>
+  stars:109
+
+19:https://github.com/facebook/create-react-app
+  Create React apps with no build configuration.
+  stars:46,764
+
+20:https://github.com/storybooks/storybook
+  Interactive UI component dev &amp; test: React, React Native, Vue, Angular
+  stars:22,416
+
+21:https://github.com/kamranahmedse/driver.js
+  A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+  stars:7,278
+
+22:https://github.com/axios/axios
+  Promise based HTTP client for the browser and node.js
+  stars:39,537
+
+23:https://github.com/webpack/webpack
+  A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+  stars:39,713
+
+24:https://github.com/Tencent/wepy
+  小程序组件化开发框架
+  stars:9,100
+
+25:https://github.com/nodejs/node
+  Node.js JavaScript runtime <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png">✨</g-emoji><g-emoji class="g-emoji" alias="turtle" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f422.png">🐢</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
+  stars:47,468
+

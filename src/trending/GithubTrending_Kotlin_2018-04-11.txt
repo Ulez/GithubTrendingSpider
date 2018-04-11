@@ -1,0 +1,103 @@
+语言：Kotlin
+时间：2018-04-11 20:36:07
+
+1:https://github.com/ssseasonnn/RxRouter
+  A lightweight, simple, smart and powerful Android routing library.
+  stars:57
+
+2:https://github.com/shadowsocks/shadowsocks-android
+  A shadowsocks client for Android
+  stars:13,838
+
+3:https://github.com/googlesamples/android-databinding
+  A shadowsocks client for Android
+  stars:149
+
+4:https://github.com/uber/crumb
+  An annotation processor for breadcrumbing metadata across compilation boundaries
+  stars:37
+
+5:https://github.com/JetBrains/kotlin
+  The Kotlin Programming Language
+  stars:21,810
+
+6:https://github.com/thomasnield/kotlin-statistics
+  Idiomatic statistical operators for Kotlin
+  stars:321
+
+7:https://github.com/android/android-ktx
+  A set of Kotlin extensions for Android app development.
+  stars:5,853
+
+8:https://github.com/izhangzhihao/intellij-rainbow-brackets
+  Rainbow Brackets / Rainbow Parentheses for IntelliJ IDEA based IDEs
+  stars:471
+
+9:https://github.com/andyb129/31DaysOfKotlin
+  A summary of all the Kotlin tips from Google's Android Developer #31DaysofKotlin on Twitter
+  stars:168
+
+10:https://github.com/KotlinBy/awesome-kotlin
+  A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+  stars:4,595
+
+11:https://github.com/tipsy/profile-summary-for-github
+  Tool for visualizing GitHub profiles
+  stars:18,165
+
+12:https://github.com/sourcerer-io/sourcerer-app
+  <g-emoji class="g-emoji" alias="robot" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f916.png">🤖</g-emoji> Sourcerer app makes a visual profile from your GitHub and git repositories.
+  stars:609
+
+13:https://github.com/ktorio/ktor
+  Framework for quickly creating connected applications in Kotlin with minimal effort
+  stars:2,566
+
+14:https://github.com/rafaeltoledo/social-app
+  A social app for Android, using Kotlin as language and Firebase as backend
+  stars:24
+
+15:https://github.com/corda/corda
+  Corda is a distributed ledger platform designed to record, manage and automate legal agreements between business partners. Designed by (and for) the world's largest financial institutions yet with applications in multiple industries. It offers a unique response to the privacy and scalability challenges facing decentralised applications.
+  stars:1,755
+
+16:https://github.com/8enet/Charles-Crack
+  Charles 破解工具
+  stars:70
+
+17:https://github.com/kotlintest/kotlintest
+  Powerful, elegant and flexible Kotlin test framework
+  stars:818
+
+18:https://github.com/JetBrains/kotlin-native
+  Kotlin/Native infrastructure
+  stars:3,842
+
+19:https://github.com/ReactiveX/RxKotlin
+  RxJava bindings for Kotlin
+  stars:4,026
+
+20:https://github.com/SimpleMobileTools/Simple-Calendar
+  A simple calendar with events, customizable widget and no ads.
+  stars:1,017
+
+21:https://github.com/vanniktech/gradle-dependency-graph-generator-plugin
+  Gradle plugin that generates dependency graphs from your project.
+  stars:243
+
+22:https://github.com/MyEtherWallet/ethereum-lists
+  A repository for maintaining lists of things like malicious URLs, fake token addresses, and so forth. We love lists.
+  stars:99
+
+23:https://github.com/substratum/template
+  The official Substratum Theme Template actively updated by the team!
+  stars:176
+
+24:https://github.com/SimpleMobileTools/Simple-Contacts
+  A contacts app for managing your contacts without ads.
+  stars:50
+
+25:https://github.com/adisonhuang/awesome-kotlin-android
+  <g-emoji class="g-emoji" alias="fire" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji><g-emoji class="g-emoji" alias="iphone" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f1.png">📱</g-emoji>收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源
+  stars:290
+

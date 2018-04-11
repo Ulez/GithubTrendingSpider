@@ -1,0 +1,103 @@
+语言：C++
+时间：2018-04-11 20:36:06
+
+1:https://github.com/changkun/modern-cpp-tutorial
+  <g-emoji class="g-emoji" alias="books" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> 高速上手现代 C++ 11/14/17
+  stars:1,321
+
+2:https://github.com/tensorflow/tensorflow
+  Computation using data flow graphs for scalable machine learning
+  stars:95,848
+
+3:https://github.com/yue/yue
+  A library for creating native cross-platform GUI apps
+  stars:1,395
+
+4:https://github.com/electron/electron
+  Build cross platform desktop apps with JavaScript, HTML, and CSS
+  stars:58,812
+
+5:https://github.com/bitcoin/bitcoin
+  Bitcoin Core integration/staging tree
+  stars:30,439
+
+6:https://github.com/pytorch/pytorch
+  Tensors and Dynamic neural networks in Python with strong GPU acceleration
+  stars:13,918
+
+7:https://github.com/opencv/opencv
+  Open Source Computer Vision Library
+  stars:23,678
+
+8:https://github.com/godotengine/godot
+  Godot Engine – Multi-platform 2D and 3D game engine
+  stars:14,580
+
+9:https://github.com/Tencent/TSeer
+  A high available service discovery &amp; registration &amp; fault-tolerance framework
+  stars:82
+
+10:https://github.com/google/protobuf
+  Protocol Buffers - Google's data interchange format
+  stars:25,127
+
+11:https://github.com/BVLC/caffe
+  Caffe: a fast open framework for deep learning.
+  stars:23,650
+
+12:https://github.com/tesseract-ocr/tesseract
+  Tesseract Open Source OCR Engine (main repository)
+  stars:17,594
+
+13:https://github.com/CMU-Perceptual-Computing-Lab/openpose
+  OpenPose: Real-time multi-person keypoint detection library for body, face, and hands estimation
+  stars:6,661
+
+14:https://github.com/google/leveldb
+  LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+  stars:13,266
+
+15:https://github.com/apple/swift
+  The Swift Programming Language
+  stars:43,331
+
+16:https://github.com/EOSIO/eos
+  An open source smart contract platform
+  stars:5,951
+
+17:https://github.com/calebzulawski/cotila
+  Cotila - a compile-time linear algebra system for C++
+  stars:28
+
+18:https://github.com/grpc/grpc
+  The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+  stars:14,703
+
+19:https://github.com/ValveSoftware/GameNetworkingSockets
+  Reliable &amp; unreliable messages over UDP. Message fragmentation &amp; reassembly, bandwidth estimation, encryption.
+  stars:3,109
+
+20:https://github.com/ocornut/imgui
+  Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+  stars:10,473
+
+21:https://github.com/Root-lee/Put_Flavors_SA
+  2018华为软件精英挑战赛，采用模拟退火算法+首次适应算法寻找最优化放置虚拟机方法。
+  stars:167
+
+22:https://github.com/openai/retro
+  Retro Games in Gym
+  stars:356
+
+23:https://github.com/mongodb/mongo
+  The MongoDB Database
+  stars:13,469
+
+24:https://github.com/fireice-uk/xmr-stak
+  Unified All-in-one Monero miner
+  stars:2,197
+
+25:https://github.com/tamlok/vnote
+  A Vim-inspired note-taking application that knows programmers and Markdown better.
+  stars:1,374
+
