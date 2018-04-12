@@ -1,0 +1,103 @@
+语言：JavaScript
+时间：2018-04-12 21:59:02
+
+1:https://github.com/drcmda/react-spring
+  <g-emoji class="g-emoji" alias="raised_hands" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f64c.png">🙌</g-emoji> Helping react-motion and animated to become best friends
+  stars:2,485
+
+2:https://github.com/FrontendMasters/front-end-handbook-2018
+  2018 edition of our front-end development handbook
+  stars:1,216
+
+3:https://github.com/sigalor/whatsapp-web-reveng
+  Reverse engineering WhatsApp Web.
+  stars:2,188
+
+4:https://github.com/wasdk/WebAssemblyStudio
+  Learn, Teach, Work and Play in the WebAssembly Studio
+  stars:549
+
+5:https://github.com/marktext/marktext
+  <g-emoji class="g-emoji" alias="memo" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>Next generation markdown editor, running on platforms of MacOS Windows and Linux.
+  stars:1,826
+
+6:https://github.com/vuejs/vue
+  <g-emoji class="g-emoji" alias="vulcan_salute" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f596.png">🖖</g-emoji> A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+  stars:90,468
+
+7:https://github.com/glidejs/glide
+  A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more
+  stars:2,452
+
+8:https://github.com/justjavac/free-programming-books-zh_CN
+  <g-emoji class="g-emoji" alias="books" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> 免费的计算机编程类中文书籍，欢迎投稿
+  stars:30,908
+
+9:https://github.com/diegohaz/generact
+  Generate React components by replicating your own
+  stars:923
+
+10:https://github.com/facebook/react
+  A declarative, efficient, and flexible JavaScript library for building user interfaces.
+  stars:93,295
+
+11:https://github.com/withspectrum/spectrum
+  Simple, powerful online communities.
+  stars:2,912
+
+12:https://github.com/axios/axios
+  Promise based HTTP client for the browser and node.js
+  stars:39,628
+
+13:https://github.com/tensorflow/tfjs
+  A WebGL accelerated, browser based JavaScript library for training and deploying ML models.
+  stars:5,752
+
+14:https://github.com/yue/wey
+  Fast open source Slack desktop app
+  stars:1,027
+
+15:https://github.com/Meituan-Dianping/mpvue
+  基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
+  stars:7,521
+
+16:https://github.com/atlassian/react-beautiful-dnd
+  Beautiful, accessible drag and drop for lists with React.js
+  stars:6,173
+
+17:https://github.com/kamranahmedse/driver.js
+  A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+  stars:7,353
+
+18:https://github.com/GoogleChrome/puppeteer
+  Headless Chrome Node API
+  stars:30,136
+
+19:https://github.com/Tencent/wepy
+  小程序组件化开发框架
+  stars:9,161
+
+20:https://github.com/storybooks/storybook
+  Interactive UI component dev &amp; test: React, React Native, Vue, Angular
+  stars:22,486
+
+21:https://github.com/facebook/react-native
+  A framework for building native apps with React.
+  stars:62,476
+
+22:https://github.com/facebook/create-react-app
+  Create React apps with no build configuration.
+  stars:46,819
+
+23:https://github.com/airbnb/javascript
+  JavaScript Style Guide
+  stars:69,290
+
+24:https://github.com/hichroma/learnstorybook.com
+  Static site and content for Learn Storybook
+  stars:135
+
+25:https://github.com/kentcdodds/advanced-react-patterns-v2
+  Created with CodeSandbox
+  stars:142
+

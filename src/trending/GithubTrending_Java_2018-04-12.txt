@@ -1,0 +1,103 @@
+语言：Java
+时间：2018-04-12 21:58:58
+
+1:https://github.com/spinnaker/kayenta
+  Automated Canary Service
+  stars:322
+
+2:https://github.com/kdn251/interviews
+  Everything you need to know to get the job.
+  stars:22,063
+
+3:https://github.com/monkeyWie/proxyee-down
+  http下载工具，基于http代理，支持多连接分块下载
+  stars:5,938
+
+4:https://github.com/ityouknow/spring-boot-examples
+  about learning Spring Boot via examples. Spring Boot 技术栈示例代码，快速简单上手教程。
+  stars:3,162
+
+5:https://github.com/spring-projects/spring-boot
+  Spring Boot
+  stars:23,247
+
+6:https://github.com/iluwatar/java-design-patterns
+  Design patterns implemented in Java
+  stars:31,975
+
+7:https://github.com/runelite/runelite
+  Open source Old School RuneScape client
+  stars:284
+
+8:https://github.com/vondear/RxTools
+  Android开发人员不得不收集的工具类集合 | 支付宝支付 | 微信支付（统一下单） | 微信分享 | Zip4j压缩（支持分卷压缩与加密） | 一键集成UCrop选择圆形头像 | 一键集成二维码和条形码的扫描与生成 | 常用Dialog | WebView的封装可播放视频 | 仿斗鱼滑动验证码 | Toast封装 | 震动 | GPS | Location定位 | 图片缩放 | Exif 图片添加地理位置信息（经纬度） | 蛛网等级 | 颜色选择器 | 编译运行一下说不定会找到惊喜
+  stars:5,725
+
+9:https://github.com/Wechat-Group/weixin-java-tools
+  可能是目前最好最全的微信Java开发工具包，支持包括微信支付、开放平台、小程序、企业号和公众号等的开发
+  stars:5,794
+
+10:https://github.com/spring-projects/spring-framework
+  Spring Framework
+  stars:20,332
+
+11:https://github.com/JoaoMotondon/RxJavaDemoApp
+  This repository contains 100+ examples using RxJava for Android
+  stars:165
+
+12:https://github.com/hankcs/HanLP
+  自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 新词发现 短语提取 自动摘要 文本分类 拼音简繁
+  stars:6,597
+
+13:https://github.com/huangyanbin/smartTable
+  一款android自动生成表格框架---An Android automatically generated table framework
+  stars:1,675
+
+14:https://github.com/JeffLi1993/springboot-learning-example
+  spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
+  stars:3,880
+
+15:https://github.com/apache/incubator-dubbo
+  Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
+  stars:17,914
+
+16:https://github.com/eugenp/tutorials
+  The "REST With Spring" Course:
+  stars:5,100
+
+17:https://github.com/elastic/elasticsearch
+  Open Source, Distributed, RESTful Search Engine
+  stars:30,125
+
+18:https://github.com/google/guava
+  Google core libraries for Java
+  stars:23,371
+
+19:https://github.com/shuzheng/zheng
+  基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。
+  stars:9,458
+
+20:https://github.com/TheAlgorithms/Java
+  All Algorithms implemented in Java
+  stars:3,294
+
+21:https://github.com/ReactiveX/RxJava
+  RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+  stars:32,245
+
+22:https://github.com/Blankj/AndroidUtilCode
+  <g-emoji class="g-emoji" alias="fire" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Android developers should collect the following utils(updating).
+  stars:17,261
+
+23:https://github.com/listenzz/AndroidNavigation
+  A library managing nested Fragment, StatusBar, Toolbar for Android
+  stars:245
+
+24:https://github.com/CarGuo/GSYVideoPlayer
+  视频播放器（IJKplayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，5.0的过场效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，其他一些小动画效果，rtsp、concat、mpeg。简书:
+  stars:5,522
+
+25:https://github.com/airbnb/lottie-android
+  Render After Effects animations natively on Android and iOS, Web, and React Native
+  stars:19,984
+

@@ -1,0 +1,103 @@
+语言：Kotlin
+时间：2018-04-12 21:59:00
+
+1:https://github.com/ssseasonnn/RxRouter
+  A lightweight, simple, smart and powerful Android routing library.
+  stars:120
+
+2:https://github.com/shadowsocks/shadowsocks-android
+  A shadowsocks client for Android
+  stars:13,865
+
+3:https://github.com/sourcerer-io/sourcerer-app
+  <g-emoji class="g-emoji" alias="robot" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f916.png">🤖</g-emoji> Sourcerer app makes a visual profile from your GitHub and git repositories.
+  stars:636
+
+4:https://github.com/android/android-ktx
+  A set of Kotlin extensions for Android app development.
+  stars:5,876
+
+5:https://github.com/JetBrains/kotlin
+  The Kotlin Programming Language
+  stars:21,825
+
+6:https://github.com/8enet/Charles-Crack
+  Charles 破解工具
+  stars:78
+
+7:https://github.com/ReactiveX/RxKotlin
+  RxJava bindings for Kotlin
+  stars:4,036
+
+8:https://github.com/thomasnield/kotlin-statistics
+  Idiomatic statistical operators for Kotlin
+  stars:330
+
+9:https://github.com/andyb129/31DaysOfKotlin
+  A summary of all the Kotlin tips from Google's Android Developer #31DaysofKotlin on Twitter
+  stars:177
+
+10:https://github.com/JetBrains/kotlin-native
+  Kotlin/Native infrastructure
+  stars:3,851
+
+11:https://github.com/izhangzhihao/intellij-rainbow-brackets
+  Rainbow Brackets / Rainbow Parentheses for IntelliJ IDEA based IDEs
+  stars:483
+
+12:https://github.com/googlesamples/android-databinding
+  Rainbow Brackets / Rainbow Parentheses for IntelliJ IDEA based IDEs
+  stars:156
+
+13:https://github.com/KotlinBy/awesome-kotlin
+  A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+  stars:4,608
+
+14:https://github.com/uber/crumb
+  An annotation processor for breadcrumbing metadata across compilation boundaries
+  stars:44
+
+15:https://github.com/ssseasonnn/RxDownload
+  A multi-threaded download tool written with RxJava and Kotlin
+  stars:3,018
+
+16:https://github.com/inorichi/tachiyomi
+  Free and open source manga reader for Android
+  stars:1,460
+
+17:https://github.com/zhudyos/duic
+  配置中心，支持(server/web/app...)等应用配置管理
+  stars:60
+
+18:https://github.com/shyiko/ktlint
+  An anti-bikeshedding Kotlin linter with built-in formatter
+  stars:1,079
+
+19:https://github.com/Kotlin/kotlinx.coroutines
+  Library support for Kotlin coroutines
+  stars:1,979
+
+20:https://github.com/arrow-kt/arrow
+  Functional companion to Kotlin's Standard Library
+  stars:1,261
+
+21:https://github.com/Ekito/koin
+  KOIN - a concise and pragmatic dependency injection framework for Kotlin
+  stars:992
+
+22:https://github.com/Cognifide/gradle-aem-plugin
+  Build rapidly AEM applications using Gradle Build System
+  stars:46
+
+23:https://github.com/ktorio/ktor
+  Framework for quickly creating connected applications in Kotlin with minimal effort
+  stars:2,571
+
+24:https://github.com/tipsy/profile-summary-for-github
+  Tool for visualizing GitHub profiles
+  stars:18,166
+
+25:https://github.com/kotlintest/kotlintest
+  Powerful, elegant and flexible Kotlin test framework
+  stars:822
+

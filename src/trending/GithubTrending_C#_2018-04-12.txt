@@ -1,0 +1,103 @@
+语言：C#
+时间：2018-04-12 21:58:58
+
+1:https://github.com/Microsoft/winfile
+  Original Windows File Manager (winfile) with enhancements
+  stars:3,735
+
+2:https://github.com/FeralInteractive/gamemode
+  Optimise Linux system performance on demand
+  stars:442
+
+3:https://github.com/glouw/tinn
+  The tiny neural network library
+  stars:1,306
+
+4:https://github.com/torvalds/linux
+  Linux kernel source tree
+  stars:57,512
+
+5:https://github.com/pjreddie/darknet
+  Convolutional Neural Networks
+  stars:7,126
+
+6:https://github.com/php/php-src
+  The PHP Interpreter
+  stars:17,172
+
+7:https://github.com/Bilibili/ijkplayer
+  Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
+  stars:18,517
+
+8:https://github.com/julycoding/The-Art-Of-Programming-By-July
+  本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
+  stars:13,635
+
+9:https://github.com/git/git
+  Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+  stars:21,806
+
+10:https://github.com/antirez/redis
+  Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
+  stars:28,474
+
+11:https://github.com/dvorka/hstr
+  Bash and Zsh shell history suggest box - easily view, navigate, search and manage your command history.
+  stars:993
+
+12:https://github.com/woxiaoniu/SillyEcho
+  傻子一样的语音助手，目前采用科大讯飞WEBAPI方式实现，内部通过模块抽象可方便扩展BAT、图灵机器人的REST API服务。
+  stars:21
+
+13:https://github.com/firehol/netdata
+  Get control of your servers. Simple. Effective. Awesome! <a href="https://my-netdata.io/" rel="nofollow">https://my-netdata.io/</a>
+  stars:28,782
+
+14:https://github.com/FFmpeg/FFmpeg
+  mirror of git://source.ffmpeg.org/ffmpeg.git
+  stars:10,419
+
+15:https://github.com/NightDiveStudios/shockmac
+  System Shock (PowerMac version / Official GPL Release)
+  stars:1,172
+
+16:https://github.com/vim/vim
+  The official Vim repository
+  stars:12,281
+
+17:https://github.com/jonas/tig
+  Text-mode interface for git
+  stars:5,913
+
+18:https://github.com/limiter121/esp32-obd2-emulator
+  Open-source OBD-II emulator based on an ESP32 + CAN transceiver IC, controllable via WiFi through a simple web UI (or via API)
+  stars:22
+
+19:https://github.com/iliasam/OpenSimpleLidar
+  Open Hardware scanning laser rangefinder
+  stars:1,722
+
+20:https://github.com/AlexeyAB/darknet
+  Windows and Linux version of Darknet Yolo v2 &amp; v3 Neural Networks for object detection
+  stars:1,038
+
+21:https://github.com/obsproject/obs-studio
+  OBS - Free and open source software for live streaming and screen recording
+  stars:9,061
+
+22:https://github.com/alibaba/AliOS-Things
+  AliOS Things released by Alibaba is an open-source implementation of operating system (OS) for Internet of Things (IoT).
+  stars:1,034
+
+23:https://github.com/Genymobile/scrcpy
+  Display and control your Android device
+  stars:4,572
+
+24:https://github.com/kripken/emscripten
+  Emscripten: An LLVM-to-JavaScript Compiler
+  stars:14,426
+
+25:https://github.com/happyfish100/fastdfs
+  FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance.
+  stars:2,686
+
