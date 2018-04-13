@@ -1,0 +1,103 @@
+语言：C
+时间：2018-04-13 23:46:10
+
+1:https://github.com/Microsoft/winfile
+  Original Windows File Manager (winfile) with enhancements
+  stars:3,939
+
+2:https://github.com/torvalds/linux
+  Linux kernel source tree
+  stars:57,559
+
+3:https://github.com/FeralInteractive/gamemode
+  Optimise Linux system performance on demand
+  stars:496
+
+4:https://github.com/antirez/redis
+  Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
+  stars:28,505
+
+5:https://github.com/nginx/unit
+  An official read-only mirror of <a href="http://hg.nginx.org/unit/" rel="nofollow">http://hg.nginx.org/unit/</a>
+  stars:1,385
+
+6:https://github.com/glouw/tinn
+  The tiny neural network library
+  stars:1,340
+
+7:https://github.com/pjreddie/darknet
+  Convolutional Neural Networks
+  stars:7,151
+
+8:https://github.com/iqiyi/dpvs
+  DPVS is a high performance Layer-4 load balancer based on DPDK.
+  stars:720
+
+9:https://github.com/firehol/netdata
+  Get control of your servers. Simple. Effective. Awesome! <a href="https://my-netdata.io/" rel="nofollow">https://my-netdata.io/</a>
+  stars:28,805
+
+10:https://github.com/Bilibili/ijkplayer
+  Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
+  stars:18,539
+
+11:https://github.com/git/git
+  Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+  stars:21,819
+
+12:https://github.com/libfuse/sshfs
+  A network filesystem client to connect to SSH servers
+  stars:1,456
+
+13:https://github.com/acl-dev/acl
+  One advanced C/C++ library for Linux, Mac, FreeBSD, Solaris(x86), Windows, Android, IOS
+  stars:897
+
+14:https://github.com/vim/vim
+  The official Vim repository
+  stars:12,299
+
+15:https://github.com/Genymobile/scrcpy
+  Display and control your Android device
+  stars:4,585
+
+16:https://github.com/z3APA3A/3proxy
+  3proxy - tiny free proxy server
+  stars:715
+
+17:https://github.com/php/php-src
+  The PHP Interpreter
+  stars:17,189
+
+18:https://github.com/openssl/openssl
+  TLS/SSL and crypto library
+  stars:6,830
+
+19:https://github.com/FFmpeg/FFmpeg
+  mirror of git://source.ffmpeg.org/ffmpeg.git
+  stars:10,428
+
+20:https://github.com/dvorka/hstr
+  Bash and Zsh shell history suggest box - easily view, navigate, search and manage your command history.
+  stars:1,007
+
+21:https://github.com/julycoding/The-Art-Of-Programming-By-July
+  本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
+  stars:13,645
+
+22:https://github.com/tmux/tmux
+  tmux source code
+  stars:9,832
+
+23:https://github.com/swoole/swoole-src
+  Event-driven asynchronous &amp; concurrent &amp; coroutine networking engine with high performance for PHP.
+  stars:8,448
+
+24:https://github.com/git-up/GitUp
+  The Git interface you've been missing all your life has finally arrived.
+  stars:7,456
+
+25:https://github.com/RT-Thread/rt-thread
+  RT-Thread is an open source IoT operating system from China.
+  stars:1,432
+

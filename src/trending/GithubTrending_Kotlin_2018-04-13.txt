@@ -1,0 +1,103 @@
+语言：Kotlin
+时间：2018-04-13 23:46:12
+
+1:https://github.com/shadowsocks/shadowsocks-android
+  A shadowsocks client for Android
+  stars:13,904
+
+2:https://github.com/burhanrashid52/YoutubeUX
+  With MVVM Architecture pattern using Android Architecture Components This is a sample app demonstrating Youtube player animation using constraint layout
+  stars:38
+
+3:https://github.com/android/android-ktx
+  A set of Kotlin extensions for Android app development.
+  stars:5,903
+
+4:https://github.com/ssseasonnn/RxRouter
+  A lightweight, simple, smart and powerful Android routing library.
+  stars:147
+
+5:https://github.com/JetBrains/kotlin
+  The Kotlin Programming Language
+  stars:21,844
+
+6:https://github.com/blokadaorg/blokada
+  Free ad blocker for Android with the best open source community.
+  stars:267
+
+7:https://github.com/JetBrains/kotlin-native
+  Kotlin/Native infrastructure
+  stars:3,870
+
+8:https://github.com/sourcerer-io/sourcerer-app
+  <g-emoji class="g-emoji" alias="robot" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f916.png">🤖</g-emoji> Sourcerer app makes a visual profile from your GitHub and git repositories.
+  stars:654
+
+9:https://github.com/8enet/Charles-Crack
+  Charles 破解工具
+  stars:92
+
+10:https://github.com/izhangzhihao/intellij-rainbow-brackets
+  Rainbow Brackets / Rainbow Parentheses for IntelliJ IDEA based IDEs
+  stars:494
+
+11:https://github.com/ktorio/ktor
+  Framework for quickly creating connected applications in Kotlin with minimal effort
+  stars:2,580
+
+12:https://github.com/FutureXpo/PUBG-RADAR-8K-OUTDATED-
+  NOT WORKING NOW
+  stars:25
+
+13:https://github.com/ssseasonnn/RxDownload
+  A multi-threaded download tool written with RxJava and Kotlin
+  stars:3,025
+
+14:https://github.com/EmberVulpix/Gaydar
+  Gay radar for gay people
+  stars:28
+
+15:https://github.com/ReactiveX/RxKotlin
+  RxJava bindings for Kotlin
+  stars:4,043
+
+16:https://github.com/googlesamples/android-databinding
+  RxJava bindings for Kotlin
+  stars:165
+
+17:https://github.com/KotlinBy/awesome-kotlin
+  A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+  stars:4,613
+
+18:https://github.com/zhudyos/duic
+  配置中心，支持(server/web/app...)等应用配置管理
+  stars:64
+
+19:https://github.com/corda/corda
+  Corda is a distributed ledger platform designed to record, manage and automate legal agreements between business partners. Designed by (and for) the world's largest financial institutions yet with applications in multiple industries. It offers a unique response to the privacy and scalability challenges facing decentralised applications.
+  stars:1,765
+
+20:https://github.com/gradle/kotlin-dsl
+  Kotlin language support for Gradle build scripts
+  stars:1,448
+
+21:https://github.com/Kotlin/kotlinx.coroutines
+  Library support for Kotlin coroutines
+  stars:1,986
+
+22:https://github.com/thomasnield/kotlin-statistics
+  Idiomatic statistical operators for Kotlin
+  stars:335
+
+23:https://github.com/JetBrains/swot
+  Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
+  stars:393
+
+24:https://github.com/rharter/chicago-roboto
+  Web and Android app for Chicago Roboto conference
+  stars:98
+
+25:https://github.com/zalando/zally
+  A minimalistic, simple-to-use API linter
+  stars:137
+

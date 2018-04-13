@@ -1,0 +1,103 @@
+语言：Python
+时间：2018-04-13 23:46:12
+
+1:https://github.com/hannob/snallygaster
+  Tool to scan for secret files on HTTP servers
+  stars:527
+
+2:https://github.com/hzy46/Deep-Learning-21-Examples
+  《21个项目玩转深度学习———基于TensorFlow的实践详解》配套代码
+  stars:939
+
+3:https://github.com/tensorflow/models
+  Models and examples built with TensorFlow
+  stars:32,932
+
+4:https://github.com/PetrochukM/PyTorch-NLP
+  Supporting Rapid Prototyping with a Toolkit (incl. Datasets and Neural Network Layers)
+  stars:552
+
+5:https://github.com/CSAILVision/semantic-segmentation-pytorch
+  Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset
+  stars:767
+
+6:https://github.com/Ahmkel/Keras-Project-Template
+  A project template to simplify building and training deep learning models using Keras.
+  stars:350
+
+7:https://github.com/a2u/CVE-2018-7600
+  Exploit for CVE-2018-7600 Drupal SA-CORE-2018-002. PoC (Proof-of-Concept).
+  stars:89
+
+8:https://github.com/keras-team/keras
+  Deep Learning for humans
+  stars:28,205
+
+9:https://github.com/hardikvasa/google-images-download
+  Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
+  stars:1,521
+
+10:https://github.com/matterport/Mask_RCNN
+  Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
+  stars:5,039
+
+11:https://github.com/vinta/awesome-python
+  A curated list of awesome Python frameworks, libraries, software and resources
+  stars:48,389
+
+12:https://github.com/preempt/credssp
+  A code demonstrating CVE-2018-0886
+  stars:77
+
+13:https://github.com/facebookresearch/video-nonlocal-net
+  Non-local Neural Networks for Video Classification
+  stars:360
+
+14:https://github.com/pallets/flask
+  The Python micro framework for building web applications.
+  stars:34,678
+
+15:https://github.com/ansible/ansible
+  Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. <a href="https://docs.ansible.com/ansible/" rel="nofollow">https://docs.ansible.com/ansible/</a>
+  stars:29,607
+
+16:https://github.com/qq547276542/Agriculture_KnowledgeGraph
+  农业知识图谱(KG)：农业领域的信息检索，命名实体识别，关系抽取，分类树构建，数据挖掘
+  stars:292
+
+17:https://github.com/mame82/P4wnP1
+  P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W.
+  stars:1,408
+
+18:https://github.com/scikit-learn/scikit-learn
+  scikit-learn: machine learning in Python
+  stars:27,351
+
+19:https://github.com/toddmotto/public-apis
+  A collective list of public JSON APIs for use in web development.
+  stars:35,502
+
+20:https://github.com/GauravBh1010tt/DeepLearn
+  Implementation of research papers on Deep Learning+ NLP+ CV in Python using Keras, Tensorflow and Scikit Learn.
+  stars:319
+
+21:https://github.com/rg3/youtube-dl
+  Command-line program to download videos from YouTube.com and other video sites
+  stars:35,856
+
+22:https://github.com/XX-net/XX-Net
+  a web proxy tool
+  stars:22,183
+
+23:https://github.com/donnemartin/system-design-primer
+  Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+  stars:25,191
+
+24:https://github.com/bijection/sistine
+  Turn a MacBook into a Touchscreen with $1 of Hardware
+  stars:1,284
+
+25:https://github.com/asciinema/asciinema
+  Terminal session recorder <g-emoji class="g-emoji" alias="video_camera" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png">📹</g-emoji>
+  stars:5,275
+

@@ -1,0 +1,103 @@
+语言：C++
+时间：2018-04-13 23:46:10
+
+1:https://github.com/tensorflow/tensorflow
+  Computation using data flow graphs for scalable machine learning
+  stars:96,139
+
+2:https://github.com/changkun/modern-cpp-tutorial
+  <g-emoji class="g-emoji" alias="books" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> C++11/14/17 On the Fly
+  stars:1,702
+
+3:https://github.com/zhongyang219/TrafficMonitor
+  这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+  stars:347
+
+4:https://github.com/excamera/alfalfa
+  Purely functional video codec, used for ExCamera and Salsify
+  stars:306
+
+5:https://github.com/bitcoin/bitcoin
+  Bitcoin Core integration/staging tree
+  stars:30,534
+
+6:https://github.com/fuchsia-mirror/zircon
+  Zircon Kernel, Core Drivers, and Services
+  stars:579
+
+7:https://github.com/btwael/SuperString
+  A fast and memory-optimized string library for C++
+  stars:137
+
+8:https://github.com/pytorch/pytorch
+  Tensors and Dynamic neural networks in Python with strong GPU acceleration
+  stars:13,992
+
+9:https://github.com/electron/electron
+  Build cross platform desktop apps with JavaScript, HTML, and CSS
+  stars:58,878
+
+10:https://github.com/google/protobuf
+  Protocol Buffers - Google's data interchange format
+  stars:25,203
+
+11:https://github.com/tesseract-ocr/tesseract
+  Tesseract Open Source OCR Engine (main repository)
+  stars:17,666
+
+12:https://github.com/opencv/opencv
+  Open Source Computer Vision Library
+  stars:23,739
+
+13:https://github.com/BVLC/caffe
+  Caffe: a fast open framework for deep learning.
+  stars:23,692
+
+14:https://github.com/EOSIO/eos
+  An open source smart contract platform
+  stars:6,018
+
+15:https://github.com/google/oboe
+  Oboe is a C++ library which makes it easy to build high-performance audio apps on Android.
+  stars:300
+
+16:https://github.com/NVIDIA/nvvl
+  A library that uses hardware acceleration to load sequences of video frames to facilitate machine learning training
+  stars:248
+
+17:https://github.com/nlohmann/json
+  JSON for Modern C++
+  stars:9,187
+
+18:https://github.com/yue/yue
+  A library for creating native cross-platform GUI apps
+  stars:1,472
+
+19:https://github.com/grpc/grpc
+  The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+  stars:14,747
+
+20:https://github.com/ApolloAuto/apollo
+  An open autonomous driving platform
+  stars:8,609
+
+21:https://github.com/CMU-Perceptual-Computing-Lab/openpose
+  OpenPose: Real-time multi-person keypoint detection library for body, face, and hands estimation
+  stars:6,701
+
+22:https://github.com/apple/swift
+  The Swift Programming Language
+  stars:43,360
+
+23:https://github.com/ocornut/imgui
+  Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+  stars:10,496
+
+24:https://github.com/PaddlePaddle/Paddle
+  PArallel Distributed Deep LEarning
+  stars:6,707
+
+25:https://github.com/google/leveldb
+  LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+  stars:13,307
+
