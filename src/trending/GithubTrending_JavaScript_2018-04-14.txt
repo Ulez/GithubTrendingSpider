@@ -1,0 +1,103 @@
+语言：JavaScript
+时间：2018-04-14 22:26:54
+
+1:https://github.com/vuejs/vuepress
+  Minimalistic docs generator with Vue component based layout system
+  stars:524
+
+2:https://github.com/marktext/marktext
+  <g-emoji class="g-emoji" alias="memo" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>Next generation markdown editor, running on platforms of MacOS Windows and Linux.
+  stars:2,570
+
+3:https://github.com/drcmda/react-spring
+  <g-emoji class="g-emoji" alias="raised_hands" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f64c.png">🙌</g-emoji> Helping react-motion and animated to become best friends
+  stars:2,972
+
+4:https://github.com/aweary/react-copy-write
+  <g-emoji class="g-emoji" alias="writing_hand" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/270d.png">✍️</g-emoji> Immutable state with a mutable API
+  stars:216
+
+5:https://github.com/wasdk/WebAssemblyStudio
+  Learn, Teach, Work and Play in the WebAssembly Studio
+  stars:1,042
+
+6:https://github.com/DIYgod/RSSHub
+  <g-emoji class="g-emoji" alias="lollipop" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f36d.png">🍭</g-emoji> 使用 RSS 连接全世界
+  stars:337
+
+7:https://github.com/FrontendMasters/front-end-handbook-2018
+  2018 edition of our front-end development handbook
+  stars:1,507
+
+8:https://github.com/vuejs/vue
+  <g-emoji class="g-emoji" alias="vulcan_salute" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f596.png">🖖</g-emoji> A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+  stars:90,722
+
+9:https://github.com/react-tools/react-table
+  React Table - A lightweight, fast and extendable datagrid for React
+  stars:3,225
+
+10:https://github.com/glidejs/glide
+  A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more
+  stars:2,643
+
+11:https://github.com/pshihn/rough
+  Create graphics with a hand-drawn, sketchy, appearance
+  stars:7,526
+
+12:https://github.com/facebook/react
+  A declarative, efficient, and flexible JavaScript library for building user interfaces.
+  stars:93,460
+
+13:https://github.com/facebook/create-react-app
+  Create React apps with no build configuration.
+  stars:46,943
+
+14:https://github.com/atlassian/react-beautiful-dnd
+  Beautiful, accessible drag and drop for lists with React.js
+  stars:6,304
+
+15:https://github.com/axios/axios
+  Promise based HTTP client for the browser and node.js
+  stars:39,758
+
+16:https://github.com/sigalor/whatsapp-web-reveng
+  Reverse engineering WhatsApp Web.
+  stars:2,372
+
+17:https://github.com/yue/wey
+  Fast open source Slack desktop app
+  stars:1,109
+
+18:https://github.com/GoogleChrome/puppeteer
+  Headless Chrome Node API
+  stars:30,254
+
+19:https://github.com/tensorflow/tfjs
+  A WebGL accelerated, browser based JavaScript library for training and deploying ML models.
+  stars:5,847
+
+20:https://github.com/airbnb/javascript
+  JavaScript Style Guide
+  stars:69,391
+
+21:https://github.com/webpack/webpack
+  A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+  stars:39,850
+
+22:https://github.com/rubencodes/recal
+  A minimal, accessible React/Preact calendar component using modern CSS.
+  stars:62
+
+23:https://github.com/Meituan-Dianping/mpvue
+  基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
+  stars:7,651
+
+24:https://github.com/stdlib-js/stdlib
+  <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> Standard library for JavaScript and Node.js. <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
+  stars:835
+
+25:https://github.com/kamranahmedse/driver.js
+  A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+  stars:7,455
+

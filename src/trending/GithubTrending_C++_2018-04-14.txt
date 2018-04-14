@@ -1,0 +1,103 @@
+语言：C++
+时间：2018-04-14 22:26:54
+
+1:https://github.com/tensorflow/tensorflow
+  Computation using data flow graphs for scalable machine learning
+  stars:96,244
+
+2:https://github.com/changkun/modern-cpp-tutorial
+  <g-emoji class="g-emoji" alias="books" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> C++11/14/17 On the Fly
+  stars:1,795
+
+3:https://github.com/zhongyang219/TrafficMonitor
+  这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+  stars:393
+
+4:https://github.com/bitcoin/bitcoin
+  Bitcoin Core integration/staging tree
+  stars:30,573
+
+5:https://github.com/mawww/kakoune
+  mawww's experiment for a better code editor
+  stars:3,229
+
+6:https://github.com/fuchsia-mirror/zircon
+  Zircon Kernel, Core Drivers, and Services
+  stars:609
+
+7:https://github.com/electron/electron
+  Build cross platform desktop apps with JavaScript, HTML, and CSS
+  stars:58,905
+
+8:https://github.com/pytorch/pytorch
+  Tensors and Dynamic neural networks in Python with strong GPU acceleration
+  stars:14,010
+
+9:https://github.com/opencv/opencv
+  Open Source Computer Vision Library
+  stars:23,751
+
+10:https://github.com/BVLC/caffe
+  Caffe: a fast open framework for deep learning.
+  stars:23,706
+
+11:https://github.com/google/protobuf
+  Protocol Buffers - Google's data interchange format
+  stars:25,218
+
+12:https://github.com/apple/swift
+  The Swift Programming Language
+  stars:43,373
+
+13:https://github.com/excamera/alfalfa
+  Purely functional video codec, used for ExCamera and Salsify
+  stars:315
+
+14:https://github.com/EOSIO/eos
+  An open source smart contract platform
+  stars:6,028
+
+15:https://github.com/godotengine/godot
+  Godot Engine – Multi-platform 2D and 3D game engine
+  stars:14,619
+
+16:https://github.com/yue/yue
+  A library for creating native cross-platform GUI apps
+  stars:1,487
+
+17:https://github.com/google/leveldb
+  LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+  stars:13,319
+
+18:https://github.com/tesseract-ocr/tesseract
+  Tesseract Open Source OCR Engine (main repository)
+  stars:17,677
+
+19:https://github.com/doitsujin/dxvk
+  Vulkan-based D3D11 implementation for Linux / Wine
+  stars:898
+
+20:https://github.com/dmlc/xgboost
+  Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+  stars:11,558
+
+21:https://github.com/Microsoft/AirSim
+  Open source simulator based on Unreal Engine for autonomous vehicles from Microsoft AI &amp; Research
+  stars:4,774
+
+22:https://github.com/OpenGenus/cosmos
+  Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter
+  stars:7,203
+
+23:https://github.com/ApolloAuto/apollo
+  An open autonomous driving platform
+  stars:8,620
+
+24:https://github.com/Microsoft/LightGBM
+  A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks. It is under the umbrella of the DMTK(<a href="http://github.com/microsoft/dmtk">http://github.com/microsoft/dmtk</a>) project of Microsoft.
+  stars:5,207
+
+25:https://github.com/ocornut/imgui
+  Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+  stars:10,503
+

@@ -1,0 +1,103 @@
+语言：C
+时间：2018-04-14 22:26:54
+
+1:https://github.com/Microsoft/winfile
+  Original Windows File Manager (winfile) with enhancements
+  stars:4,024
+
+2:https://github.com/torvalds/linux
+  Linux kernel source tree
+  stars:57,586
+
+3:https://github.com/FeralInteractive/gamemode
+  Optimise Linux system performance on demand
+  stars:524
+
+4:https://github.com/nginx/unit
+  An official read-only mirror of <a href="http://hg.nginx.org/unit/" rel="nofollow">http://hg.nginx.org/unit/</a>
+  stars:1,408
+
+5:https://github.com/NightDiveStudios/shockmac
+  System Shock (PowerMac version / Official GPL Release)
+  stars:1,208
+
+6:https://github.com/kovidgoyal/kitty
+  A cross-platform, fast, feature full, GPU based terminal emulator
+  stars:2,567
+
+7:https://github.com/antirez/redis
+  Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
+  stars:28,515
+
+8:https://github.com/glouw/tinn
+  The tiny neural network library
+  stars:1,354
+
+9:https://github.com/firehol/netdata
+  Get control of your servers. Simple. Effective. Awesome! <a href="https://my-netdata.io/" rel="nofollow">https://my-netdata.io/</a>
+  stars:28,818
+
+10:https://github.com/libfuse/sshfs
+  A network filesystem client to connect to SSH servers
+  stars:1,468
+
+11:https://github.com/Genymobile/scrcpy
+  Display and control your Android device
+  stars:4,600
+
+12:https://github.com/php/php-src
+  The PHP Interpreter
+  stars:17,201
+
+13:https://github.com/git-up/GitUp
+  The Git interface you've been missing all your life has finally arrived.
+  stars:7,467
+
+14:https://github.com/pjreddie/darknet
+  Convolutional Neural Networks
+  stars:7,158
+
+15:https://github.com/tmux/tmux
+  tmux source code
+  stars:9,846
+
+16:https://github.com/topjohnwu/Magisk
+  A Magic Mask to Alter Android System Systemless-ly
+  stars:1,353
+
+17:https://github.com/numpy/numpy
+  Numpy main repository
+  stars:6,936
+
+18:https://github.com/git/git
+  Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+  stars:21,827
+
+19:https://github.com/shadowsocks/shadowsocks-libev
+  libev port of shadowsocks
+  stars:7,873
+
+20:https://github.com/libuv/libuv
+  Cross-platform asynchronous I/O
+  stars:8,946
+
+21:https://github.com/MiCode/Xiaomi_Kernel_OpenSource
+  Xiaomi kernel OpenSource：cancro-kk-oss(contain MI 3W, MI 3C, MI 4 series, MI NOTE), armani-jb-oss(H1S), dior-kk-oss(HM-NOTE-LTE), ferrari-l-oss(Xiaomi 4i), thmoas-kk-oss(HM2 LTE),libra-l-oss(Xiaomi 4c,Xiaomi 4s and Xiaomi NotePro),kenzo-l-oss(HM Note3),ido-l-oss(Redme 3 and Redmi 2 android L),gucci-kk-oss(HM Note dual SIM version),pisces-kk-oss(…
+  stars:1,657
+
+22:https://github.com/swaywm/sway
+  i3-compatible Wayland compositor
+  stars:3,750
+
+23:https://github.com/vim/vim
+  The official Vim repository
+  stars:12,307
+
+24:https://github.com/openssl/openssl
+  TLS/SSL and crypto library
+  stars:6,834
+
+25:https://github.com/jonas/tig
+  Text-mode interface for git
+  stars:5,929
+
