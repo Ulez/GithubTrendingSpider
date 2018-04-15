@@ -1,0 +1,103 @@
+语言：Kotlin
+时间：2018-04-15 23:35:19
+
+1:https://github.com/airbnb/paris
+  Define and apply styles to Android views programmatically
+  stars:148
+
+2:https://github.com/shadowsocks/shadowsocks-android
+  A shadowsocks client for Android
+  stars:13,953
+
+3:https://github.com/konform-kt/konform
+  Portable validations for Kotlin
+  stars:51
+
+4:https://github.com/android/android-ktx
+  A set of Kotlin extensions for Android app development.
+  stars:5,925
+
+5:https://github.com/burhanrashid52/YoutubeUX
+  With MVVM Architecture pattern using Android Architecture Components This is a sample app demonstrating Youtube player animation using constraint layout
+  stars:72
+
+6:https://github.com/JetBrains/kotlin-native
+  Kotlin/Native infrastructure
+  stars:3,889
+
+7:https://github.com/JetBrains/kotlin
+  The Kotlin Programming Language
+  stars:21,866
+
+8:https://github.com/sourcerer-io/sourcerer-app
+  <g-emoji class="g-emoji" alias="robot" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f916.png">🤖</g-emoji> Sourcerer app makes a visual profile from your GitHub and git repositories.
+  stars:673
+
+9:https://github.com/KotlinBy/awesome-kotlin
+  A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+  stars:4,625
+
+10:https://github.com/Ramotion/fluid-slider-android
+  <img class="emoji" title=":octocat:" alt=":octocat:" src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"><g-emoji class="g-emoji" alias="droplet" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a7.png">💧</g-emoji> A slider widget with a popup bubble displaying the precise value selected. Android library made by <a href="https://github.com/Ramotion" class="user-mention">@Ramotion</a>
+  stars:761
+
+11:https://github.com/ssseasonnn/RxRouter
+  A lightweight, simple, smart and powerful Android routing library.
+  stars:158
+
+12:https://github.com/Ekito/koin
+  KOIN - a concise and pragmatic dependency injection framework for Kotlin
+  stars:1,001
+
+13:https://github.com/SimpleMobileTools/Simple-Calculator
+  A calculator with the basic functions and a customizable widget.
+  stars:89
+
+14:https://github.com/phauer/blog-related
+  Playground to test things before posting them on my blog
+  stars:103
+
+15:https://github.com/ligi/IPFSDroid
+  Android App for the InterPlanetary File System(IPFS)
+  stars:141
+
+16:https://github.com/hypeapps/MaterialTimelineView
+  With MaterialTimelineView you can easily create a material looking timeline.
+  stars:285
+
+17:https://github.com/ncapdevi/FragNav
+  An Android library for managing multiple stacks of fragments
+  stars:666
+
+18:https://github.com/ethereum-lists/tokens
+  Ethereum token definitions
+  stars:30
+
+19:https://github.com/beworker/magnet
+  Modern dependency inversion library for Android
+  stars:141
+
+20:https://github.com/Kotlin/dokka
+  Documentation Engine for Kotlin
+  stars:591
+
+21:https://github.com/edvin/tornadofx-samples
+  Samples and best practices for TornadoFX
+  stars:77
+
+22:https://github.com/walleth/walleth
+  native Android Ethereum wallet
+  stars:194
+
+23:https://github.com/anthonycr/Lightning-Browser
+  A lightweight Android browser with modern navigation
+  stars:1,133
+
+24:https://github.com/tipsy/profile-summary-for-github
+  Tool for visualizing GitHub profiles
+  stars:18,168
+
+25:https://github.com/google/flexbox-layout
+  Flexbox for Android
+  stars:11,150
+

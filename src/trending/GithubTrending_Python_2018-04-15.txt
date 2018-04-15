@@ -1,0 +1,103 @@
+语言：Python
+时间：2018-04-15 23:35:19
+
+1:https://github.com/GauravBh1010tt/DeepLearn
+  Implementation of research papers on Deep Learning+ NLP+ CV in Python using Keras, Tensorflow and Scikit Learn.
+  stars:818
+
+2:https://github.com/litl/backoff
+  Python library providing function decorators for configurable backoff and retry
+  stars:451
+
+3:https://github.com/tensorflow/models
+  Models and examples built with TensorFlow
+  stars:33,036
+
+4:https://github.com/hzy46/Deep-Learning-21-Examples
+  《21个项目玩转深度学习———基于TensorFlow的实践详解》配套代码
+  stars:1,056
+
+5:https://github.com/keras-team/keras
+  Deep Learning for humans
+  stars:28,270
+
+6:https://github.com/hannob/snallygaster
+  Tool to scan for secret files on HTTP servers
+  stars:663
+
+7:https://github.com/vinta/awesome-python
+  A curated list of awesome Python frameworks, libraries, software and resources
+  stars:48,459
+
+8:https://github.com/python-security/pyt
+  A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications
+  stars:922
+
+9:https://github.com/a2u/CVE-2018-7600
+  Proof-of-Concept for CVE-2018-7600 Drupal SA-CORE-2018-002.
+  stars:165
+
+10:https://github.com/rg3/youtube-dl
+  Command-line program to download videos from YouTube.com and other video sites
+  stars:35,919
+
+11:https://github.com/Jiramew/spoon
+  A package for building specific Proxy Pool for different Sites.
+  stars:120
+
+12:https://github.com/chiphuyen/stanford-tensorflow-tutorials
+  This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
+  stars:5,887
+
+13:https://github.com/scikit-learn/scikit-learn
+  scikit-learn: machine learning in Python
+  stars:27,398
+
+14:https://github.com/CSAILVision/semantic-segmentation-pytorch
+  Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset
+  stars:829
+
+15:https://github.com/mtobeiyf/keras-flask-deploy-webapp
+  <g-emoji class="g-emoji" alias="smiley_cat" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f63a.png">😺</g-emoji> Pretty&amp;simple image classifier app template. Deploy your own trained model or pre-trained model (VGG, ResNet, Densenet) to a web app using Flask in 10 minutes.
+  stars:98
+
+16:https://github.com/matterport/Mask_RCNN
+  Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
+  stars:5,104
+
+17:https://github.com/jonas-koehler/s2cnn
+  Spherical CNNs
+  stars:209
+
+18:https://github.com/toddmotto/public-apis
+  A collective list of public JSON APIs for use in web development.
+  stars:35,558
+
+19:https://github.com/bugcrowd/HUNT
+  A collective list of public JSON APIs for use in web development.
+  stars:742
+
+20:https://github.com/asciinema/asciinema
+  Terminal session recorder <g-emoji class="g-emoji" alias="video_camera" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png">📹</g-emoji>
+  stars:5,321
+
+21:https://github.com/josephmisiti/awesome-machine-learning
+  A curated list of awesome Machine Learning frameworks, libraries and software.
+  stars:32,074
+
+22:https://github.com/Ahmkel/Keras-Project-Template
+  A project template to simplify building and training deep learning models using Keras.
+  stars:406
+
+23:https://github.com/django/django
+  The Web framework for perfectionists with deadlines.
+  stars:33,208
+
+24:https://github.com/pandas-dev/pandas
+  Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+  stars:13,832
+
+25:https://github.com/openai/gym
+  A toolkit for developing and comparing reinforcement learning algorithms.
+  stars:11,439
+

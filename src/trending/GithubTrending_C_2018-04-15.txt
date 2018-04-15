@@ -1,0 +1,103 @@
+语言：C
+时间：2018-04-15 23:35:17
+
+1:https://github.com/Microsoft/winfile
+  Original Windows File Manager (winfile) with enhancements
+  stars:4,162
+
+2:https://github.com/torvalds/linux
+  Linux kernel source tree
+  stars:57,616
+
+3:https://github.com/FeralInteractive/gamemode
+  Optimise Linux system performance on demand
+  stars:545
+
+4:https://github.com/antirez/redis
+  Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
+  stars:28,525
+
+5:https://github.com/Genymobile/scrcpy
+  Display and control your Android device
+  stars:4,618
+
+6:https://github.com/nginx/unit
+  An official read-only mirror of <a href="http://hg.nginx.org/unit/" rel="nofollow">http://hg.nginx.org/unit/</a>
+  stars:1,424
+
+7:https://github.com/FFmpeg/FFmpeg
+  Mirror of git://source.ffmpeg.org/ffmpeg.git
+  stars:10,447
+
+8:https://github.com/glouw/tinn
+  The tiny neural network library
+  stars:1,370
+
+9:https://github.com/php/php-src
+  The PHP Interpreter
+  stars:17,214
+
+10:https://github.com/firehol/netdata
+  Get control of your servers. Simple. Effective. Awesome! <a href="https://my-netdata.io/" rel="nofollow">https://my-netdata.io/</a>
+  stars:28,829
+
+11:https://github.com/curl/curl
+  A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
+  stars:8,051
+
+12:https://github.com/glfw/glfw
+  A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
+  stars:3,553
+
+13:https://github.com/pjreddie/darknet
+  Convolutional Neural Networks
+  stars:7,171
+
+14:https://github.com/micropython/micropython
+  MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
+  stars:6,329
+
+15:https://github.com/git/git
+  Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+  stars:21,837
+
+16:https://github.com/MarlinFirmware/Marlin
+  Optimized firmware for RepRap 3D printers based on the Arduino platform.
+  stars:3,661
+
+17:https://github.com/kovidgoyal/kitty
+  A cross-platform, fast, feature full, GPU based terminal emulator
+  stars:2,579
+
+18:https://github.com/reactos/reactos
+  A free Windows-compatible Operating System
+  stars:3,488
+
+19:https://github.com/WojciechMula/toys
+  Storage for my snippets, toy programs, etc.
+  stars:68
+
+20:https://github.com/Bilibili/ijkplayer
+  Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
+  stars:18,556
+
+21:https://github.com/pervognsen/bitwise
+  Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
+  stars:3,820
+
+22:https://github.com/openssl/openssl
+  TLS/SSL and crypto library
+  stars:6,844
+
+23:https://github.com/vim/vim
+  The official Vim repository
+  stars:12,314
+
+24:https://github.com/git-up/GitUp
+  The Git interface you've been missing all your life has finally arrived.
+  stars:7,476
+
+25:https://github.com/z3APA3A/3proxy
+  3proxy - tiny free proxy server
+  stars:735
+

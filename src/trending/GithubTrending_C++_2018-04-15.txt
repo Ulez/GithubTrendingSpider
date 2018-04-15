@@ -1,0 +1,103 @@
+语言：C++
+时间：2018-04-15 23:35:17
+
+1:https://github.com/tensorflow/tensorflow
+  Computation using data flow graphs for scalable machine learning
+  stars:96,343
+
+2:https://github.com/changkun/modern-cpp-tutorial
+  <g-emoji class="g-emoji" alias="books" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> C++11/14/17 On the Fly
+  stars:1,882
+
+3:https://github.com/bitcoin/bitcoin
+  Bitcoin Core integration/staging tree
+  stars:30,603
+
+4:https://github.com/zhongyang219/TrafficMonitor
+  这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+  stars:428
+
+5:https://github.com/electron/electron
+  Build cross platform desktop apps with JavaScript, HTML, and CSS
+  stars:58,932
+
+6:https://github.com/PROPHESSOR/JsOS
+  Операционная система на JavaScript | Operating system written in JavaScript
+  stars:46
+
+7:https://github.com/opencv/opencv
+  Open Source Computer Vision Library
+  stars:23,778
+
+8:https://github.com/HerikLyma/CPPWebFramework
+  ​The C++ Web Framework (CWF) is a MVC web framework, Open Source, under MIT License, created by Herik Lima and Marcelo Eler, using C++ with Qt to be used in the development of web applications.
+  stars:64
+
+9:https://github.com/pytorch/pytorch
+  Tensors and Dynamic neural networks in Python with strong GPU acceleration
+  stars:14,031
+
+10:https://github.com/fuchsia-mirror/zircon
+  Zircon Kernel, Core Drivers, and Services
+  stars:629
+
+11:https://github.com/OpenTTD/OpenTTD
+  OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
+  stars:43
+
+12:https://github.com/tesseract-ocr/tesseract
+  Tesseract Open Source OCR Engine (main repository)
+  stars:17,695
+
+13:https://github.com/Edzelf/ESP32-Radio
+  Internet radio based on ESP32, VS1053 and a TFT screen.
+  stars:123
+
+14:https://github.com/xbmc/xbmc
+  Kodi Main Repository - By using this code you agree with our policy and will follow the GPLv2 license as included
+  stars:6,963
+
+15:https://github.com/google/protobuf
+  Protocol Buffers - Google's data interchange format
+  stars:25,232
+
+16:https://github.com/EOSIO/eos
+  An open source smart contract platform
+  stars:6,048
+
+17:https://github.com/yue/yue
+  A library for creating native cross-platform GUI apps
+  stars:1,503
+
+18:https://github.com/BVLC/caffe
+  Caffe: a fast open framework for deep learning.
+  stars:23,718
+
+19:https://github.com/nlohmann/json
+  JSON for Modern C++
+  stars:9,212
+
+20:https://github.com/v8/v8
+  The official mirror of the V8 Git repository
+  stars:8,767
+
+21:https://github.com/doitsujin/dxvk
+  Vulkan-based D3D11 implementation for Linux / Wine
+  stars:915
+
+22:https://github.com/godotengine/godot
+  Godot Engine – Multi-platform 2D and 3D game engine
+  stars:14,631
+
+23:https://github.com/toblum/McLighting
+  The ESP8266 based multi-client lighting gadget
+  stars:342
+
+24:https://github.com/fireice-uk/xmr-stak
+  Unified All-in-one Monero miner
+  stars:2,231
+
+25:https://github.com/google/leveldb
+  LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+  stars:13,326
+

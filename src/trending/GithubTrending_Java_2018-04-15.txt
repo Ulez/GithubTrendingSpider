@@ -1,0 +1,103 @@
+语言：Java
+时间：2018-04-15 23:35:18
+
+1:https://github.com/monkeyWie/proxyee-down
+  http下载工具，基于http代理，支持多连接分块下载
+  stars:6,122
+
+2:https://github.com/pig4cloud/pig
+  基于Spring Cloud、oAuth2.0开发基于Vue前后分离的开发平台，支持账号、短信、SSO等多种登录，提供配套视频开发教程
+  stars:71
+
+3:https://github.com/iluwatar/java-design-patterns
+  Design patterns implemented in Java
+  stars:32,136
+
+4:https://github.com/spring-projects/spring-boot
+  Spring Boot
+  stars:23,345
+
+5:https://github.com/kdn251/interviews
+  Everything you need to know to get the job.
+  stars:22,198
+
+6:https://github.com/tronprotocol/java-tron
+  Java implementation of the Tron whitepaper
+  stars:1,219
+
+7:https://github.com/airbnb/lottie-android
+  Render After Effects animations natively on Android and iOS, Web, and React Native
+  stars:20,057
+
+8:https://github.com/google/guava
+  Google core libraries for Java
+  stars:23,472
+
+9:https://github.com/spring-projects/spring-framework
+  Spring Framework
+  stars:20,398
+
+10:https://github.com/spinnaker/kayenta
+  Automated Canary Service
+  stars:415
+
+11:https://github.com/codecentric/chaos-monkey-spring-boot
+  Chaos Monkey for Spring Boot
+  stars:41
+
+12:https://github.com/JeffLi1993/springboot-learning-example
+  spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
+  stars:3,937
+
+13:https://github.com/dyc87112/SpringBoot-Learning
+  Spring Boot教程
+  stars:2,874
+
+14:https://github.com/apache/incubator-dubbo
+  Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
+  stars:17,986
+
+15:https://github.com/elastic/elasticsearch
+  Open Source, Distributed, RESTful Search Engine
+  stars:30,188
+
+16:https://github.com/pagehelper/Mybatis-PageHelper
+  Mybatis通用分页插件
+  stars:4,001
+
+17:https://github.com/eugenp/tutorials
+  The "REST With Spring" Course:
+  stars:5,143
+
+18:https://github.com/TheAlgorithms/Java
+  All Algorithms implemented in Java
+  stars:3,369
+
+19:https://github.com/wix/react-native-navigation
+  A complete native navigation solution for React Native
+  stars:6,955
+
+20:https://github.com/ReactiveX/RxJava
+  RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+  stars:32,312
+
+21:https://github.com/apache/hadoop
+  Mirror of Apache Hadoop
+  stars:6,622
+
+22:https://github.com/willowtreeapps/Hyperion-Android
+  App Debugging &amp; Inspection Tool for Android
+  stars:693
+
+23:https://github.com/Wechat-Group/weixin-java-tools
+  可能是目前最好最全的微信Java开发工具包，支持包括微信支付、开放平台、小程序、企业号和公众号等的开发
+  stars:5,877
+
+24:https://github.com/bazelbuild/bazel
+  a fast, scalable, multi-language and extensible build system
+  stars:8,708
+
+25:https://github.com/alibaba/druid
+  <g-emoji class="g-emoji" alias="hotsprings" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2668.png">♨️</g-emoji> 为监控而生的数据库连接池！阿里云DRDS(<a href="https://www.aliyun.com/product/drds" rel="nofollow">https://www.aliyun.com/product/drds</a> )、阿里巴巴TDDL 连接池powered by Druid
+  stars:10,913
+
