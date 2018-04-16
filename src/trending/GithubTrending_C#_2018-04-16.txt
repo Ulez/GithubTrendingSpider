@@ -1,0 +1,103 @@
+语言：C#
+时间：2018-04-16 23:05:09
+
+1:https://github.com/reactos/reactos
+  A free Windows-compatible Operating System
+  stars:3,702
+
+2:https://github.com/Microsoft/winfile
+  Original Windows File Manager (winfile) with enhancements
+  stars:4,269
+
+3:https://github.com/glouw/tinn
+  The tiny neural network library
+  stars:1,440
+
+4:https://github.com/torvalds/linux
+  Linux kernel source tree
+  stars:57,652
+
+5:https://github.com/vberlier/unicorn
+  A magical unit testing framework for C.
+  stars:47
+
+6:https://github.com/pjreddie/darknet
+  Convolutional Neural Networks
+  stars:7,200
+
+7:https://github.com/ziutek/emgo
+  Emgo: Bare metal Go (language for programming embedded systems)
+  stars:396
+
+8:https://github.com/antirez/redis
+  Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
+  stars:28,549
+
+9:https://github.com/jx-sec/jxwaf
+  JXWAF(锦衣盾)是一款基于openresty(nginx+lua)开发的下一代web应用防火墙
+  stars:67
+
+10:https://github.com/Bilibili/ijkplayer
+  Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
+  stars:18,574
+
+11:https://github.com/firehol/netdata
+  Get control of your servers. Simple. Effective. Awesome! <a href="https://my-netdata.io/" rel="nofollow">https://my-netdata.io/</a>
+  stars:28,852
+
+12:https://github.com/Genymobile/scrcpy
+  Display and control your Android device
+  stars:4,638
+
+13:https://github.com/iosmanthus/Osmanthus
+  A developing operating system
+  stars:27
+
+14:https://github.com/git/git
+  Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+  stars:21,846
+
+15:https://github.com/curl/curl
+  A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
+  stars:8,072
+
+16:https://github.com/dstogov/php-ffi
+  PHP Foreign Function Interface
+  stars:42
+
+17:https://github.com/nginx/unit
+  An official read-only mirror of <a href="http://hg.nginx.org/unit/" rel="nofollow">http://hg.nginx.org/unit/</a>
+  stars:1,442
+
+18:https://github.com/tmux/tmux
+  tmux source code
+  stars:9,869
+
+19:https://github.com/FeralInteractive/gamemode
+  Optimise Linux system performance on demand
+  stars:561
+
+20:https://github.com/libuv/libuv
+  Cross-platform asynchronous I/O
+  stars:8,969
+
+21:https://github.com/shadowsocks/shadowsocks-libev
+  libev port of shadowsocks
+  stars:7,895
+
+22:https://github.com/vim/vim
+  The official Vim repository
+  stars:12,324
+
+23:https://github.com/php/php-src
+  The PHP Interpreter
+  stars:17,224
+
+24:https://github.com/HandBrake/HandBrake
+  HandBrake's main development repository
+  stars:2,985
+
+25:https://github.com/WojciechMula/toys
+  Storage for my snippets, toy programs, etc.
+  stars:78
+

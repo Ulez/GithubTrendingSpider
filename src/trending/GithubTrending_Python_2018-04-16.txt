@@ -1,0 +1,103 @@
+语言：Python
+时间：2018-04-16 23:05:11
+
+1:https://github.com/GauravBh1010tt/DeepLearn
+  Implementation of research papers on Deep Learning+ NLP+ CV in Python using Keras, Tensorflow and Scikit Learn.
+  stars:980
+
+2:https://github.com/python-security/pyt
+  A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications
+  stars:1,076
+
+3:https://github.com/litl/backoff
+  Python library providing function decorators for configurable backoff and retry
+  stars:584
+
+4:https://github.com/NVlabs/MUNIT
+  Python library providing function decorators for configurable backoff and retry
+  stars:153
+
+5:https://github.com/tensorflow/models
+  Models and examples built with TensorFlow
+  stars:33,110
+
+6:https://github.com/jhao104/proxy_pool
+  Python爬虫代理IP池(proxy pool)
+  stars:2,985
+
+7:https://github.com/hzy46/Deep-Learning-21-Examples
+  《21个项目玩转深度学习———基于TensorFlow的实践详解》配套代码
+  stars:1,126
+
+8:https://github.com/ustayready/CredKing
+  Password spraying using AWS Lambda for IP rotation
+  stars:91
+
+9:https://github.com/keras-team/keras
+  Deep Learning for humans
+  stars:28,324
+
+10:https://github.com/vinta/awesome-python
+  A curated list of awesome Python frameworks, libraries, software and resources
+  stars:48,515
+
+11:https://github.com/chiphuyen/stanford-tensorflow-tutorials
+  This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
+  stars:5,929
+
+12:https://github.com/rg3/youtube-dl
+  Command-line program to download videos from YouTube.com and other video sites
+  stars:35,964
+
+13:https://github.com/matterport/Mask_RCNN
+  Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
+  stars:5,138
+
+14:https://github.com/roytseng-tw/mask-rcnn.pytorch
+  A pytorch implementation of Detectron. Both training from scratch and inferring directly from pretrained Detectron weights are available.
+  stars:92
+
+15:https://github.com/pallets/flask
+  The Python micro framework for building web applications.
+  stars:34,754
+
+16:https://github.com/levyben/DeepSuperLearner
+  DeepSuperLearner - Python implementation of the deep ensemble algorithm
+  stars:61
+
+17:https://github.com/lifeomic/sparkflow
+  Easy to use library to bring Tensorflow on Apache Spark
+  stars:47
+
+18:https://github.com/a2u/CVE-2018-7600
+  Proof-of-Concept for CVE-2018-7600 Drupal SA-CORE-2018-002.
+  stars:199
+
+19:https://github.com/CSAILVision/semantic-segmentation-pytorch
+  Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset
+  stars:862
+
+20:https://github.com/scikit-learn/scikit-learn
+  scikit-learn: machine learning in Python
+  stars:27,424
+
+21:https://github.com/donnemartin/system-design-primer
+  Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+  stars:25,243
+
+22:https://github.com/llSourcell/Make_Money_with_Tensorflow
+  This is the code for "Make Money with Tensorflow" by Siraj Raval on Youtube
+  stars:53
+
+23:https://github.com/django/django
+  The Web framework for perfectionists with deadlines.
+  stars:33,229
+
+24:https://github.com/josephmisiti/awesome-machine-learning
+  A curated list of awesome Machine Learning frameworks, libraries and software.
+  stars:32,107
+
+25:https://github.com/deepfakes/faceswap
+  Non official project based on original /r/Deepfakes thread. Many thanks to him!
+  stars:5,022
+

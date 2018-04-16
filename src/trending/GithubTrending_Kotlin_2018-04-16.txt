@@ -1,0 +1,103 @@
+语言：Kotlin
+时间：2018-04-16 23:05:10
+
+1:https://github.com/airbnb/paris
+  Define and apply styles to Android views programmatically
+  stars:367
+
+2:https://github.com/burhanrashid52/YoutubeUX
+  With MVVM Architecture pattern using Android Architecture Components This is a sample app demonstrating Youtube player animation using constraint layout
+  stars:188
+
+3:https://github.com/shadowsocks/shadowsocks-android
+  A shadowsocks client for Android
+  stars:13,994
+
+4:https://github.com/wuapnjie/LayoutMaster
+  An Android Studio Plugin for ui debugging.
+  stars:39
+
+5:https://github.com/konform-kt/konform
+  Portable validations for Kotlin
+  stars:75
+
+6:https://github.com/android/android-ktx
+  A set of Kotlin extensions for Android app development.
+  stars:5,944
+
+7:https://github.com/JetBrains/kotlin
+  The Kotlin Programming Language
+  stars:21,878
+
+8:https://github.com/KotlinBy/awesome-kotlin
+  A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+  stars:4,637
+
+9:https://github.com/ssseasonnn/RxRouter
+  A lightweight, simple, smart and powerful Android routing library.
+  stars:172
+
+10:https://github.com/izhangzhihao/intellij-rainbow-brackets
+  Rainbow Brackets / Rainbow Parentheses for IntelliJ IDEA based IDEs
+  stars:516
+
+11:https://github.com/rharter/chicago-roboto
+  Web and Android app for Chicago Roboto conference
+  stars:113
+
+12:https://github.com/JetBrains/kotlin-native
+  Kotlin/Native infrastructure
+  stars:3,900
+
+13:https://github.com/ktorio/ktor
+  Framework for quickly creating connected applications in Kotlin with minimal effort
+  stars:2,593
+
+14:https://github.com/8enet/Charles-Crack
+  Charles 破解工具
+  stars:109
+
+15:https://github.com/Ramotion/fluid-slider-android
+  <img class="emoji" title=":octocat:" alt=":octocat:" src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"><g-emoji class="g-emoji" alias="droplet" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a7.png">💧</g-emoji> A slider widget with a popup bubble displaying the precise value selected. Android library made by <a href="https://github.com/Ramotion" class="user-mention">@Ramotion</a>
+  stars:769
+
+16:https://github.com/sourcerer-io/sourcerer-app
+  <g-emoji class="g-emoji" alias="robot" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f916.png">🤖</g-emoji> Sourcerer app makes a visual profile from your GitHub and git repositories.
+  stars:683
+
+17:https://github.com/Ekito/koin
+  KOIN - a concise and pragmatic dependency injection framework for Kotlin
+  stars:1,013
+
+18:https://github.com/Kotlin/kotlinx.coroutines
+  Library support for Kotlin coroutines
+  stars:2,003
+
+19:https://github.com/squanchy-dev/squanchy-android
+  Open source Android app for your conferences
+  stars:159
+
+20:https://github.com/googlesamples/android-databinding
+  Open source Android app for your conferences
+  stars:175
+
+21:https://github.com/ssseasonnn/RxDownload
+  A multi-threaded download tool written with RxJava and Kotlin
+  stars:3,030
+
+22:https://github.com/JetBrains/Exposed
+  Kotlin SQL Framework
+  stars:1,396
+
+23:https://github.com/arrow-kt/arrow
+  Functional companion to Kotlin's Standard Library
+  stars:1,276
+
+24:https://github.com/ingbyr/GUI-YouGet
+  GUI for you-get and youtube-dl
+  stars:932
+
+25:https://github.com/RocketChat/Rocket.Chat.Android
+  Rocket.Chat Native Android Application
+  stars:353
+

@@ -1,0 +1,103 @@
+语言：C++
+时间：2018-04-16 23:05:09
+
+1:https://github.com/tensorflow/tensorflow
+  Computation using data flow graphs for scalable machine learning
+  stars:96,503
+
+2:https://github.com/changkun/modern-cpp-tutorial
+  <g-emoji class="g-emoji" alias="books" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> C++11/14/17 On the Fly
+  stars:1,984
+
+3:https://github.com/bitcoin/bitcoin
+  Bitcoin Core integration/staging tree
+  stars:30,646
+
+4:https://github.com/opencv/opencv
+  Open Source Computer Vision Library
+  stars:23,814
+
+5:https://github.com/pytorch/pytorch
+  Tensors and Dynamic neural networks in Python with strong GPU acceleration
+  stars:14,073
+
+6:https://github.com/electron/electron
+  Build cross platform desktop apps with JavaScript, HTML, and CSS
+  stars:58,972
+
+7:https://github.com/zhongyang219/TrafficMonitor
+  这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+  stars:470
+
+8:https://github.com/HerikLyma/CPPWebFramework
+  ​The C++ Web Framework (CWF) is a MVC web framework, Open Source, under MIT License, created by Herik Lima and Marcelo Eler, using C++ with Qt to be used in the development of web applications.
+  stars:98
+
+9:https://github.com/OpenTTD/OpenTTD
+  OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
+  stars:77
+
+10:https://github.com/google/protobuf
+  Protocol Buffers - Google's data interchange format
+  stars:25,257
+
+11:https://github.com/Edzelf/ESP32-Radio
+  Internet radio based on ESP32, VS1053 and a TFT screen.
+  stars:152
+
+12:https://github.com/godotengine/godot
+  Godot Engine – Multi-platform 2D and 3D game engine
+  stars:14,655
+
+13:https://github.com/EOSIO/eos
+  An open source smart contract platform
+  stars:6,072
+
+14:https://github.com/tesseract-ocr/tesseract
+  Tesseract Open Source OCR Engine (main repository)
+  stars:17,719
+
+15:https://github.com/PROPHESSOR/JsOS
+  Операционная система на JavaScript | Operating system written in JavaScript
+  stars:76
+
+16:https://github.com/fuchsia-mirror/zircon
+  Zircon Kernel, Core Drivers, and Services
+  stars:655
+
+17:https://github.com/xbmc/xbmc
+  Kodi Main Repository - By using this code you agree with our policy and will follow the GPLv2 license as included
+  stars:6,984
+
+18:https://github.com/brpc/brpc
+  Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called "baidu-rpc" inside Baidu.
+  stars:6,729
+
+19:https://github.com/doitsujin/dxvk
+  Vulkan-based D3D11 implementation for Linux / Wine
+  stars:936
+
+20:https://github.com/nlohmann/json
+  JSON for Modern C++
+  stars:9,230
+
+21:https://github.com/BVLC/caffe
+  Caffe: a fast open framework for deep learning.
+  stars:23,733
+
+22:https://github.com/CMU-Perceptual-Computing-Lab/openpose
+  OpenPose: Real-time multi-person keypoint detection library for body, face, and hands estimation
+  stars:6,733
+
+23:https://github.com/telegramdesktop/tdesktop
+  Telegram Desktop messaging app
+  stars:7,009
+
+24:https://github.com/yue/yue
+  A library for creating native cross-platform GUI apps
+  stars:1,522
+
+25:https://github.com/dmlc/xgboost
+  Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+  stars:11,581
+
