@@ -1,0 +1,103 @@
+语言：Kotlin
+时间：2018-04-17 19:49:49
+
+1:https://github.com/airbnb/paris
+  Define and apply styles to Android views programmatically
+  stars:429
+
+2:https://github.com/burhanrashid52/YoutubeUX
+  With MVVM Architecture pattern using Android Architecture Components This is a sample app demonstrating Youtube player animation using constraint layout
+  stars:245
+
+3:https://github.com/shadowsocks/shadowsocks-android
+  A shadowsocks client for Android
+  stars:14,027
+
+4:https://github.com/bufferapp/CounterView
+  A simple Android counter view for showing edittext character counts
+  stars:46
+
+5:https://github.com/JetBrains/kotlin
+  The Kotlin Programming Language
+  stars:21,896
+
+6:https://github.com/google/flexbox-layout
+  Flexbox for Android
+  stars:11,178
+
+7:https://github.com/JetBrains/kotlin-native
+  Kotlin/Native infrastructure
+  stars:3,913
+
+8:https://github.com/sourcerer-io/sourcerer-app
+  <g-emoji class="g-emoji" alias="robot" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f916.png">🤖</g-emoji> Sourcerer app makes a visual profile from your GitHub and git repositories.
+  stars:692
+
+9:https://github.com/android/android-ktx
+  A set of Kotlin extensions for Android app development.
+  stars:5,965
+
+10:https://github.com/wuapnjie/LayoutMaster
+  An Android Studio Plugin for ui debugging.
+  stars:52
+
+11:https://github.com/izhangzhihao/intellij-rainbow-brackets
+  Rainbow Brackets / Rainbow Parentheses for IntelliJ IDEA based IDEs
+  stars:522
+
+12:https://github.com/konform-kt/konform
+  Portable validations for Kotlin
+  stars:82
+
+13:https://github.com/Ekito/koin
+  KOIN - a concise and pragmatic dependency injection framework for Kotlin
+  stars:1,020
+
+14:https://github.com/squanchy-dev/squanchy-android
+  Open source Android app for your conferences
+  stars:163
+
+15:https://github.com/ktorio/ktor
+  Framework for quickly creating connected applications in Kotlin with minimal effort
+  stars:2,601
+
+16:https://github.com/rharter/chicago-roboto
+  Web and Android app for Chicago Roboto conference
+  stars:119
+
+17:https://github.com/ssseasonnn/RxRouter
+  A lightweight, simple, smart and powerful Android routing library.
+  stars:178
+
+18:https://github.com/tipsy/profile-summary-for-github
+  Tool for visualizing GitHub profiles
+  stars:18,172
+
+19:https://github.com/arrow-kt/arrow
+  Functional companion to Kotlin's Standard Library
+  stars:1,284
+
+20:https://github.com/corda/corda
+  Corda is a distributed ledger platform designed to record, manage and automate legal agreements between business partners. Designed by (and for) the world's largest financial institutions yet with applications in multiple industries. It offers a unique response to the privacy and scalability challenges facing decentralised applications.
+  stars:1,781
+
+21:https://github.com/zhudyos/duic
+  配置中心 duic 的设计目标是统一不同应用的配置管理方式，创造更人性化的配置编辑方式，提供更灵活的配置获取方式
+  stars:78
+
+22:https://github.com/Kotlin/kotlinx.coroutines
+  Library support for Kotlin coroutines
+  stars:2,009
+
+23:https://github.com/KotlinBy/awesome-kotlin
+  A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+  stars:4,642
+
+24:https://github.com/JetBrains/Exposed
+  Kotlin SQL Framework
+  stars:1,401
+
+25:https://github.com/shyiko/ktlint
+  An anti-bikeshedding Kotlin linter with built-in formatter
+  stars:1,093
+

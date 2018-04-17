@@ -1,0 +1,103 @@
+语言：C++
+时间：2018-04-17 19:49:47
+
+1:https://github.com/tensorflow/tensorflow
+  Computation using data flow graphs for scalable machine learning
+  stars:96,618
+
+2:https://github.com/changkun/modern-cpp-tutorial
+  <g-emoji class="g-emoji" alias="books" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> C++11/14/17 On the Fly
+  stars:2,038
+
+3:https://github.com/bitcoin/bitcoin
+  Bitcoin Core integration/staging tree
+  stars:30,678
+
+4:https://github.com/electron/electron
+  Build cross platform desktop apps with JavaScript, HTML, and CSS
+  stars:59,007
+
+5:https://github.com/opencv/opencv
+  Open Source Computer Vision Library
+  stars:23,846
+
+6:https://github.com/zhongyang219/TrafficMonitor
+  这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+  stars:512
+
+7:https://github.com/klee/klee
+  KLEE Symbolic Execution Engine
+  stars:812
+
+8:https://github.com/google/protobuf
+  Protocol Buffers - Google's data interchange format
+  stars:25,285
+
+9:https://github.com/EOSIO/eos
+  An open source smart contract platform
+  stars:6,099
+
+10:https://github.com/godotengine/godot
+  Godot Engine – Multi-platform 2D and 3D game engine
+  stars:14,674
+
+11:https://github.com/pytorch/pytorch
+  Tensors and Dynamic neural networks in Python with strong GPU acceleration
+  stars:14,093
+
+12:https://github.com/tesseract-ocr/tesseract
+  Tesseract Open Source OCR Engine (main repository)
+  stars:17,746
+
+13:https://github.com/ElDewrito/ElDorito
+  A Halo Online modification
+  stars:341
+
+14:https://github.com/nlohmann/json
+  JSON for Modern C++
+  stars:9,248
+
+15:https://github.com/cmderdev/cmder
+  Lovely console emulator package for Windows
+  stars:13,822
+
+16:https://github.com/BVLC/caffe
+  Caffe: a fast open framework for deep learning.
+  stars:23,743
+
+17:https://github.com/MerryMage/dynarmic
+  An ARM dynamic recompiler.
+  stars:153
+
+18:https://github.com/CMU-Perceptual-Computing-Lab/openpose
+  OpenPose: Real-time multi-person keypoint detection library for body, face, and hands estimation
+  stars:6,746
+
+19:https://github.com/brpc/brpc
+  Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called "baidu-rpc" inside Baidu.
+  stars:6,742
+
+20:https://github.com/yuzu-emu/yuzu
+  Nintendo Switch Emulator
+  stars:4,315
+
+21:https://github.com/kornelski/7z
+  Because 7-zip source code was in a 7z archive
+  stars:80
+
+22:https://github.com/dmlc/xgboost
+  Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+  stars:11,596
+
+23:https://github.com/uglide/RedisDesktopManager
+  <g-emoji class="g-emoji" alias="wrench" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f527.png">🔧</g-emoji> Cross-platform GUI management tool for Redis
+  stars:7,377
+
+24:https://github.com/apple/swift
+  The Swift Programming Language
+  stars:43,398
+
+25:https://github.com/google/leveldb
+  LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+  stars:13,355
+

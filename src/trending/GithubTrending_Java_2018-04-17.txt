@@ -1,0 +1,103 @@
+语言：Java
+时间：2018-04-17 19:49:48
+
+1:https://github.com/nisrulz/android-tips-tricks
+  <g-emoji class="g-emoji" alias="ballot_box_with_check" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2611.png">☑️</g-emoji> [Cheatsheet] Tips and tricks for Android Development
+  stars:3,098
+
+2:https://github.com/guoxiaoxing/android-interview
+  An interview guide for Android development engineers.
+  stars:404
+
+3:https://github.com/iluwatar/java-design-patterns
+  Design patterns implemented in Java
+  stars:32,269
+
+4:https://github.com/JsonChao/Awesome-WanAndroid
+  <g-emoji class="g-emoji" alias="zap" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji>致力于打造一款极致体验的 <a href="http://www.wanandroid.com/" rel="nofollow">http://www.wanandroid.com/</a> 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n
+  stars:465
+
+5:https://github.com/monkeyWie/proxyee-down
+  http下载工具，基于http代理，支持多连接分块下载
+  stars:6,262
+
+6:https://github.com/kdn251/interviews
+  Everything you need to know to get the job.
+  stars:22,304
+
+7:https://github.com/spring-projects/spring-boot
+  Spring Boot
+  stars:23,424
+
+8:https://github.com/Wechat-Group/weixin-java-tools
+  可能是目前最好最全的微信Java开发工具包，支持包括微信支付、开放平台、小程序、企业号和公众号等的开发
+  stars:5,964
+
+9:https://github.com/AleSpero/ExpandableCardView
+  Simple expandable CardView for Android.
+  stars:58
+
+10:https://github.com/apache/incubator-dubbo
+  Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
+  stars:18,053
+
+11:https://github.com/pig4cloud/pig
+  基于Spring Cloud、oAuth2.0开发基于Vue前后分离的开发平台，支持账号、短信、SSO等多种登录，提供配套视频开发教程
+  stars:204
+
+12:https://github.com/GcsSloop/rclayout
+  ● Android通用圆角布局。
+  stars:1,144
+
+13:https://github.com/MRezaNasirloo/Slick
+  A Reactive Android MVP Framework which is Slick to use
+  stars:94
+
+14:https://github.com/ReactiveX/RxJava
+  RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+  stars:32,389
+
+15:https://github.com/elastic/elasticsearch
+  Open Source, Distributed, RESTful Search Engine
+  stars:30,265
+
+16:https://github.com/square/okhttp
+  An HTTP+HTTP/2 client for Android and Java applications.
+  stars:26,120
+
+17:https://github.com/shuzheng/zheng
+  基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。
+  stars:9,568
+
+18:https://github.com/scwang90/SmartRefreshLayout
+  <g-emoji class="g-emoji" alias="fire" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji>下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
+  stars:11,192
+
+19:https://github.com/google/guava
+  Google core libraries for Java
+  stars:23,540
+
+20:https://github.com/eugenp/tutorials
+  The "REST With Spring" Course:
+  stars:5,176
+
+21:https://github.com/airbnb/lottie-android
+  Render After Effects animations natively on Android and iOS, Web, and React Native
+  stars:20,128
+
+22:https://github.com/Blankj/AndroidUtilCode
+  <g-emoji class="g-emoji" alias="fire" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Android developers should collect the following utils(updating).
+  stars:17,354
+
+23:https://github.com/TheAlgorithms/Java
+  All Algorithms implemented in Java
+  stars:3,425
+
+24:https://github.com/spring-projects/spring-framework
+  Spring Framework
+  stars:20,452
+
+25:https://github.com/codecentric/chaos-monkey-spring-boot
+  Chaos Monkey for Spring Boot
+  stars:110
+

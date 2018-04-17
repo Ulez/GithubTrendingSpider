@@ -1,0 +1,103 @@
+语言：Python
+时间：2018-04-17 19:49:49
+
+1:https://github.com/NVlabs/MUNIT
+  Multimodal Unsupervised Image-to-Image Translation
+  stars:398
+
+2:https://github.com/vaguileradiaz/tinfoleak
+  The most complete open-source tool for Twitter intelligence analysis
+  stars:310
+
+3:https://github.com/tensorflow/models
+  Models and examples built with TensorFlow
+  stars:33,182
+
+4:https://github.com/GauravBh1010tt/DeepLearn
+  Implementation of research papers on Deep Learning+ NLP+ CV in Python using Keras, Tensorflow and Scikit Learn.
+  stars:1,049
+
+5:https://github.com/roytseng-tw/Detectron.pytorch
+  A pytorch implementation of Detectron. Both training from scratch and inferring directly from pretrained Detectron weights are available.
+  stars:174
+
+6:https://github.com/minimaxir/textgenrnn
+  Python module to easily generate text using a pretrained character-based recurrent neural network.
+  stars:408
+
+7:https://github.com/keras-team/keras
+  Deep Learning for humans
+  stars:28,369
+
+8:https://github.com/python-security/pyt
+  A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications
+  stars:1,107
+
+9:https://github.com/vinta/awesome-python
+  A curated list of awesome Python frameworks, libraries, software and resources
+  stars:48,559
+
+10:https://github.com/hzy46/Deep-Learning-21-Examples
+  《21个项目玩转深度学习———基于TensorFlow的实践详解》配套代码
+  stars:1,164
+
+11:https://github.com/pallets/flask
+  The Python micro framework for building web applications.
+  stars:34,789
+
+12:https://github.com/hardikvasa/google-images-download
+  Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
+  stars:1,615
+
+13:https://github.com/scikit-learn/scikit-learn
+  scikit-learn: machine learning in Python
+  stars:27,453
+
+14:https://github.com/Buroni/booksoup
+  Booksoup allows you to analyse and traverse your downloaded facebook data, including features such as sentiment analysis and message frequency analysis over time.
+  stars:44
+
+15:https://github.com/ustayready/CredKing
+  Password spraying using AWS Lambda for IP rotation
+  stars:126
+
+16:https://github.com/matterport/Mask_RCNN
+  Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
+  stars:5,160
+
+17:https://github.com/jhao104/proxy_pool
+  Python爬虫代理IP池(proxy pool)
+  stars:3,014
+
+18:https://github.com/litl/backoff
+  Python library providing function decorators for configurable backoff and retry
+  stars:607
+
+19:https://github.com/deepfakes/faceswap
+  Non official project based on original /r/Deepfakes thread. Many thanks to him!
+  stars:5,045
+
+20:https://github.com/josephmisiti/awesome-machine-learning
+  A curated list of awesome Machine Learning frameworks, libraries and software.
+  stars:32,130
+
+21:https://github.com/rg3/youtube-dl
+  Command-line program to download videos from YouTube.com and other video sites
+  stars:35,990
+
+22:https://github.com/tomrunia/PyTorchWavelets
+  PyTorch implementation of the wavelet analysis found in Torrence and Compo (1998)
+  stars:35
+
+23:https://github.com/python/cpython
+  The Python programming language
+  stars:17,197
+
+24:https://github.com/chiphuyen/stanford-tensorflow-tutorials
+  This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.
+  stars:5,946
+
+25:https://github.com/donnemartin/system-design-primer
+  Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+  stars:25,270
+
