@@ -1,0 +1,103 @@
+语言：Kotlin
+时间：2018-04-18 22:00:31
+
+1:https://github.com/airbnb/paris
+  Define and apply styles to Android views programmatically
+  stars:477
+
+2:https://github.com/android/android-ktx
+  A set of Kotlin extensions for Android app development.
+  stars:6,009
+
+3:https://github.com/shadowsocks/shadowsocks-android
+  A shadowsocks client for Android
+  stars:14,061
+
+4:https://github.com/burhanrashid52/YoutubeUX
+  With MVVM Architecture pattern using Android Architecture Components This is a sample app demonstrating Youtube player animation using constraint layout
+  stars:283
+
+5:https://github.com/andremion/Theatre
+  Pet project using Clean Architecture + MVVM + Reactive Extensions + Android Architecture Components. The data is fetched from LondonTheatreDirect API. <g-emoji class="g-emoji" alias="performing_arts" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ad.png">🎭</g-emoji>
+  stars:210
+
+6:https://github.com/vanniktech/gradle-dependency-graph-generator-plugin
+  Gradle plugin that generates dependency graphs from your project.
+  stars:286
+
+7:https://github.com/JetBrains/kotlin
+  The Kotlin Programming Language
+  stars:21,920
+
+8:https://github.com/sourcerer-io/sourcerer-app
+  <g-emoji class="g-emoji" alias="robot" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f916.png">🤖</g-emoji> Sourcerer app makes a visual profile from your GitHub and git repositories.
+  stars:711
+
+9:https://github.com/JorgeCastilloPrz/hiroaki
+  Write idiomatic API integration tests using Kotlin (Unit and Instrumentation)
+  stars:249
+
+10:https://github.com/bufferapp/CounterView
+  A simple Android counter view for showing edittext character counts
+  stars:63
+
+11:https://github.com/qhutch/ElevationImageView
+  Imageview with elevation shadow
+  stars:150
+
+12:https://github.com/oleksiyp/mockk
+  mocking library for Kotlin
+  stars:474
+
+13:https://github.com/google/flexbox-layout
+  Flexbox for Android
+  stars:11,190
+
+14:https://github.com/JetBrains/kotlin-native
+  Kotlin/Native infrastructure
+  stars:3,924
+
+15:https://github.com/Ekito/koin
+  KOIN - a concise and pragmatic dependency injection framework for Kotlin
+  stars:1,032
+
+16:https://github.com/KotlinBy/awesome-kotlin
+  A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+  stars:4,653
+
+17:https://github.com/wuapnjie/LayoutMaster
+  An Android Studio Plugin for ui debugging.
+  stars:63
+
+18:https://github.com/ajalt/clikt
+  Intuitive command line interface parsing for Kotlin
+  stars:35
+
+19:https://github.com/izhangzhihao/intellij-rainbow-brackets
+  Rainbow Brackets / Rainbow Parentheses for IntelliJ IDEA based IDEs
+  stars:530
+
+20:https://github.com/ssseasonnn/RxDownload
+  A multi-threaded download tool written with RxJava and Kotlin
+  stars:3,041
+
+21:https://github.com/arrow-kt/arrow
+  Functional companion to Kotlin's Standard Library
+  stars:1,291
+
+22:https://github.com/corda/corda
+  Corda is a distributed ledger platform designed to record, manage and automate legal agreements between business partners. Designed by (and for) the world's largest financial institutions yet with applications in multiple industries. It offers a unique response to the privacy and scalability challenges facing decentralised applications.
+  stars:1,787
+
+23:https://github.com/LWJGL/lwjgl3
+  LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL), audio (OpenAL) and parallel computing (OpenCL) applications.
+  stars:1,676
+
+24:https://github.com/patrickyin/clean-architecture-android-kotlin
+  Using Uncle Bob's clean architecture with Kotlin language and the latest Android technologies(Rx, Dagger2 etc.).
+  stars:179
+
+25:https://github.com/zhudyos/duic
+  配置中心 duic 的设计目标是统一不同应用的配置管理方式，打造更人性化的配置编辑方式，提供更灵活的配置获取方式
+  stars:84
+

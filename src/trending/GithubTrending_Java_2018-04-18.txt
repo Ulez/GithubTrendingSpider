@@ -1,0 +1,103 @@
+语言：Java
+时间：2018-04-18 22:00:29
+
+1:https://github.com/oracle/graal
+  GraalVM: Run Programs Faster Anywhere <g-emoji class="g-emoji" alias="rocket" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>
+  stars:1,986
+
+2:https://github.com/nisrulz/android-tips-tricks
+  <g-emoji class="g-emoji" alias="ballot_box_with_check" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2611.png">☑️</g-emoji> [Cheatsheet] Tips and tricks for Android Development
+  stars:3,210
+
+3:https://github.com/monkeyWie/proxyee-down
+  http下载工具，基于http代理，支持多连接分块下载
+  stars:6,360
+
+4:https://github.com/spring-projects/spring-boot
+  Spring Boot
+  stars:23,483
+
+5:https://github.com/guoxiaoxing/android-interview
+  An interview guide for Android development engineers.
+  stars:484
+
+6:https://github.com/JsonChao/Awesome-WanAndroid
+  <g-emoji class="g-emoji" alias="zap" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji>致力于打造一款极致体验的 <a href="http://www.wanandroid.com/" rel="nofollow">http://www.wanandroid.com/</a> 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n
+  stars:527
+
+7:https://github.com/iluwatar/java-design-patterns
+  Design patterns implemented in Java
+  stars:32,325
+
+8:https://github.com/kdn251/interviews
+  Everything you need to know to get the job.
+  stars:22,353
+
+9:https://github.com/elastic/elasticsearch
+  Open Source, Distributed, RESTful Search Engine
+  stars:30,313
+
+10:https://github.com/willowtreeapps/Hyperion-Android
+  App Debugging &amp; Inspection Tool for Android
+  stars:780
+
+11:https://github.com/Wechat-Group/weixin-java-tools
+  可能是目前最好最全的微信Java开发工具包，支持包括微信支付、开放平台、小程序、企业号和公众号等的开发
+  stars:6,008
+
+12:https://github.com/apache/incubator-dubbo
+  Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
+  stars:18,079
+
+13:https://github.com/scwang90/SmartRefreshLayout
+  <g-emoji class="g-emoji" alias="fire" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji>下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
+  stars:11,231
+
+14:https://github.com/PhilJay/MPAndroidChart
+  A powerful <g-emoji class="g-emoji" alias="rocket" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.
+  stars:21,687
+
+15:https://github.com/google/guava
+  Google core libraries for Java
+  stars:23,570
+
+16:https://github.com/easilycoder/GuideView
+  A guideView implements using the DialogFragment
+  stars:43
+
+17:https://github.com/square/okhttp
+  An HTTP+HTTP/2 client for Android and Java applications.
+  stars:26,148
+
+18:https://github.com/vondear/RxTools
+  Android开发人员不得不收集的工具类集合 | 支付宝支付 | 微信支付（统一下单） | 微信分享 | Zip4j压缩（支持分卷压缩与加密） | 一键集成UCrop选择圆形头像 | 一键集成二维码和条形码的扫描与生成 | 常用Dialog | WebView的封装可播放视频 | 仿斗鱼滑动验证码 | Toast封装 | 震动 | GPS | Location定位 | 图片缩放 | Exif 图片添加地理位置信息（经纬度） | 蛛网等级 | 颜色选择器 | 编译运行一下说不定会找到惊喜
+  stars:5,865
+
+19:https://github.com/Blankj/AndroidUtilCode
+  <g-emoji class="g-emoji" alias="fire" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Android developers should collect the following utils(updating).
+  stars:17,379
+
+20:https://github.com/GcsSloop/rclayout
+  ● Android通用圆角布局。
+  stars:1,177
+
+21:https://github.com/spring-projects/spring-framework
+  Spring Framework
+  stars:20,474
+
+22:https://github.com/JeffLi1993/springboot-learning-example
+  spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
+  stars:4,011
+
+23:https://github.com/leinardi/FloatingActionButtonSpeedDial
+  A Floating Action Button Speed Dial implementation for Android that follows the Material Design specification (<a href="https://goo.gl/gBRZmd" rel="nofollow">https://goo.gl/gBRZmd</a>)
+  stars:443
+
+24:https://github.com/ReactiveX/RxJava
+  RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+  stars:32,420
+
+25:https://github.com/shuzheng/zheng
+  基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。
+  stars:9,592
+
