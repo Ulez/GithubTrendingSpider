@@ -1,0 +1,103 @@
+语言：Python
+时间：2018-04-19 23:13:36
+
+1:https://github.com/shobrook/rebound
+  Command-line tool that instantly fetches Stack Overflow results when you get a compiler error
+  stars:1,093
+
+2:https://github.com/zulip/zulip
+  Zulip server - powerful open source team chat
+  stars:6,794
+
+3:https://github.com/vaguileradiaz/tinfoleak
+  The most complete open-source tool for Twitter intelligence analysis
+  stars:727
+
+4:https://github.com/tensorflow/models
+  Models and examples built with TensorFlow
+  stars:33,348
+
+5:https://github.com/skorov/ridrelay
+  Enumerate usernames on a domain where you have no creds by using SMB Relay with low priv.
+  stars:141
+
+6:https://github.com/vinta/awesome-python
+  A curated list of awesome Python frameworks, libraries, software and resources
+  stars:48,677
+
+7:https://github.com/keras-team/keras
+  Deep Learning for humans
+  stars:28,463
+
+8:https://github.com/toddmotto/public-apis
+  A collective list of public JSON APIs for use in web development.
+  stars:35,721
+
+9:https://github.com/sdispater/poetry
+  Python dependency management and packaging made easy.
+  stars:364
+
+10:https://github.com/automl/auto-sklearn
+  Python dependency management and packaging made easy.
+  stars:2,103
+
+11:https://github.com/deepfakes/faceswap
+  Non official project based on original /r/Deepfakes thread. Many thanks to him!
+  stars:5,123
+
+12:https://github.com/rg3/youtube-dl
+  Command-line program to download videos from YouTube.com and other video sites
+  stars:36,085
+
+13:https://github.com/13o-bbr-bbq/machine_learning_security
+  Source code about machine learning and security.
+  stars:99
+
+14:https://github.com/trailofbits/algo
+  Set up a personal IPSEC VPN in the cloud
+  stars:8,256
+
+15:https://github.com/pallets/flask
+  The Python micro framework for building web applications.
+  stars:34,859
+
+16:https://github.com/suragnair/alpha-zero-general
+  A clean implementation based on AlphaZero for any game in any framework + tutorial + Othello/Gobang/TicTacToe/Connect4
+  stars:410
+
+17:https://github.com/XX-net/XX-Net
+  a web proxy tool
+  stars:22,326
+
+18:https://github.com/roytseng-tw/Detectron.pytorch
+  A pytorch implementation of Detectron. Both training from scratch and inferring directly from pretrained Detectron weights are available.
+  stars:259
+
+19:https://github.com/GauravBh1010tt/DeepLearn
+  Implementation of research papers on Deep Learning+ NLP+ CV in Python using Keras, Tensorflow and Scikit Learn.
+  stars:1,151
+
+20:https://github.com/python/cpython
+  The Python programming language
+  stars:17,244
+
+21:https://github.com/ansible/ansible
+  Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. <a href="https://docs.ansible.com/ansible/" rel="nofollow">https://docs.ansible.com/ansible/</a>
+  stars:29,731
+
+22:https://github.com/django/django
+  The Web framework for perfectionists with deadlines.
+  stars:33,294
+
+23:https://github.com/facebookresearch/Detectron
+  FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
+  stars:13,535
+
+24:https://github.com/donnemartin/system-design-primer
+  Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+  stars:25,341
+
+25:https://github.com/matterport/Mask_RCNN
+  Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
+  stars:5,222
+

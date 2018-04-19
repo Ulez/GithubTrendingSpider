@@ -1,0 +1,103 @@
+语言：JavaScript
+时间：2018-04-19 23:13:35
+
+1:https://github.com/vuejs/vuepress
+  <g-emoji class="g-emoji" alias="memo" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Minimalistic Vue-powered static site generator
+  stars:4,484
+
+2:https://github.com/Mailtrain-org/mailtrain
+  Self hosted newsletter app
+  stars:3,130
+
+3:https://github.com/tehnokv/picojs
+  A face detection library in 200 lines of JavaScript
+  stars:513
+
+4:https://github.com/aweary/react-copy-write
+  <g-emoji class="g-emoji" alias="writing_hand" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/270d.png">✍️</g-emoji> Immutable state with a mutable API
+  stars:710
+
+5:https://github.com/drcmda/react-spring
+  <g-emoji class="g-emoji" alias="raised_hands" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f64c.png">🙌</g-emoji> Helping react-motion and animated to become best friends
+  stars:4,004
+
+6:https://github.com/marktext/marktext
+  <g-emoji class="g-emoji" alias="memo" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>Next generation markdown editor, running on platforms of MacOS Windows and Linux.
+  stars:3,683
+
+7:https://github.com/vuejs/vue
+  <g-emoji class="g-emoji" alias="vulcan_salute" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f596.png">🖖</g-emoji> A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+  stars:91,432
+
+8:https://github.com/krasimir/react-in-patterns
+  A free book that talks about design patterns/techniques used while developing with React.
+  stars:5,410
+
+9:https://github.com/facebook/react
+  A declarative, efficient, and flexible JavaScript library for building user interfaces.
+  stars:93,916
+
+10:https://github.com/Meituan-Dianping/mpvue
+  基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
+  stars:8,039
+
+11:https://github.com/Canner/slate-md-editor
+  <g-emoji class="g-emoji" alias="page_with_curl" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4c3.png">📃</g-emoji> A markdown editor, that allows you to edit live.
+  stars:165
+
+12:https://github.com/hasura/react-check-auth
+  Add auth protection anywhere in your react/react-native app
+  stars:120
+
+13:https://github.com/text-mask/text-mask
+  Input mask for React, Angular, Ember, Vue, &amp; plain JavaScript
+  stars:4,242
+
+14:https://github.com/atulmy/crate
+  <g-emoji class="g-emoji" alias="shirt" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f455.png">👕</g-emoji><g-emoji class="g-emoji" alias="jeans" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f456.png">👖</g-emoji><g-emoji class="g-emoji" alias="package" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji> A sample web and mobile application built with Node, Express, React, React Native, Redux and GraphQL. Very basic replica of stitchfix.com / krate.in (allows users to get monthly subscription of trendy clothes and accessories).
+  stars:631
+
+15:https://github.com/pshihn/rough
+  Create graphics with a hand-drawn, sketchy, appearance
+  stars:7,787
+
+16:https://github.com/jargonist/jargon.ist
+  Jargon.ist - Bilgisayar bilimleri jargonu sözlüğü
+  stars:169
+
+17:https://github.com/GoogleChromeLabs/puppeteer-examples
+  Use case-driven examples for using Puppeteer and headless chrome
+  stars:465
+
+18:https://github.com/axios/axios
+  Promise based HTTP client for the browser and node.js
+  stars:40,108
+
+19:https://github.com/facebook/create-react-app
+  Create React apps with no build configuration.
+  stars:47,290
+
+20:https://github.com/sarahdayan/dinero.js
+  <g-emoji class="g-emoji" alias="money_with_wings" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4b8.png">💸</g-emoji> An immutable library to create, calculate and format monetary values.
+  stars:841
+
+21:https://github.com/reactjs/redux
+  Predictable state container for JavaScript apps
+  stars:40,130
+
+22:https://github.com/GoogleChrome/puppeteer
+  Headless Chrome Node API
+  stars:30,574
+
+23:https://github.com/facebook/react-native
+  A framework for building native apps with React.
+  stars:62,795
+
+24:https://github.com/webpack/webpack
+  A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+  stars:40,055
+
+25:https://github.com/intoli/remote-browser
+  A low-level browser automation framework built on top of the Web Extensions API standard.
+  stars:911
+

@@ -1,0 +1,103 @@
+语言：Kotlin
+时间：2018-04-19 23:13:36
+
+1:https://github.com/shadowsocks/shadowsocks-android
+  A shadowsocks client for Android
+  stars:14,100
+
+2:https://github.com/burhanrashid52/YoutubeUX
+  With MVVM Architecture pattern using Android Architecture Components This is a sample app demonstrating Youtube player animation using constraint layout
+  stars:308
+
+3:https://github.com/android/android-ktx
+  A set of Kotlin extensions for Android app development.
+  stars:6,039
+
+4:https://github.com/airbnb/paris
+  Define and apply styles to Android views programmatically
+  stars:498
+
+5:https://github.com/sourcerer-io/sourcerer-app
+  <g-emoji class="g-emoji" alias="robot" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f916.png">🤖</g-emoji> Sourcerer app makes a visual profile from your GitHub and git repositories.
+  stars:727
+
+6:https://github.com/JetBrains/kotlin
+  The Kotlin Programming Language
+  stars:21,926
+
+7:https://github.com/google/flexbox-layout
+  Flexbox for Android
+  stars:11,199
+
+8:https://github.com/kittinunf/Fuel
+  The easiest HTTP networking library for Kotlin/Android
+  stars:1,666
+
+9:https://github.com/arrow-kt/arrow
+  Functional companion to Kotlin's Standard Library
+  stars:1,299
+
+10:https://github.com/Kotlin/kotlinx.coroutines
+  Library support for Kotlin coroutines
+  stars:2,023
+
+11:https://github.com/ssseasonnn/RxDownload
+  A multi-threaded download tool written with RxJava and Kotlin
+  stars:3,051
+
+12:https://github.com/8enet/Charles-Crack
+  Charles 破解工具
+  stars:127
+
+13:https://github.com/tipsy/profile-summary-for-github
+  Tool for visualizing GitHub profiles
+  stars:18,177
+
+14:https://github.com/ktorio/ktor
+  Framework for quickly creating connected applications in Kotlin with minimal effort
+  stars:2,613
+
+15:https://github.com/Ekito/koin
+  KOIN - a concise and pragmatic dependency injection framework for Kotlin
+  stars:1,040
+
+16:https://github.com/izhangzhihao/intellij-rainbow-brackets
+  Rainbow Brackets / Rainbow Parentheses for IntelliJ IDEA based IDEs
+  stars:538
+
+17:https://github.com/vanniktech/gradle-dependency-graph-generator-plugin
+  Gradle plugin that generates dependency graphs from your project.
+  stars:296
+
+18:https://github.com/qhutch/ElevationImageView
+  Imageview with elevation shadow
+  stars:160
+
+19:https://github.com/corda/corda
+  Corda is a distributed ledger platform designed to record, manage and automate legal agreements between business partners. Designed by (and for) the world's largest financial institutions yet with applications in multiple industries. It offers a unique response to the privacy and scalability challenges facing decentralised applications.
+  stars:1,795
+
+20:https://github.com/JetBrains/kotlin-native
+  Kotlin/Native infrastructure
+  stars:3,932
+
+21:https://github.com/JorgeCastilloPrz/hiroaki
+  Write idiomatic API integration tests using Kotlin (Unit and Instrumentation)
+  stars:256
+
+22:https://github.com/KotlinBy/awesome-kotlin
+  A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+  stars:4,661
+
+23:https://github.com/intellij-solidity/intellij-solidity
+  Solidity plugin for IntelliJ
+  stars:356
+
+24:https://github.com/patrickyin/clean-architecture-android-kotlin
+  Using Uncle Bob's clean architecture with Kotlin language and the latest Android technologies(Rx, Dagger2 etc.).
+  stars:184
+
+25:https://github.com/Beepiz/BleGattCoroutines
+  Make Gatt Great Again! This library allows easy and safer usage of BluetoothGatt in Android
+  stars:109
+

@@ -1,0 +1,103 @@
+语言：C++
+时间：2018-04-19 23:13:34
+
+1:https://github.com/tensorflow/tensorflow
+  Computation using data flow graphs for scalable machine learning
+  stars:96,906
+
+2:https://github.com/electron/electron
+  Build cross platform desktop apps with JavaScript, HTML, and CSS
+  stars:59,117
+
+3:https://github.com/pytorch/pytorch
+  Tensors and Dynamic neural networks in Python with strong GPU acceleration
+  stars:14,173
+
+4:https://github.com/opencv/opencv
+  Open Source Computer Vision Library
+  stars:23,920
+
+5:https://github.com/tesseract-ocr/tesseract
+  Tesseract Open Source OCR Engine (main repository)
+  stars:17,821
+
+6:https://github.com/bitcoin/bitcoin
+  Bitcoin Core integration/staging tree
+  stars:30,749
+
+7:https://github.com/google/protobuf
+  Protocol Buffers - Google's data interchange format
+  stars:25,366
+
+8:https://github.com/changkun/modern-cpp-tutorial
+  <g-emoji class="g-emoji" alias="books" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> C++11/14/17 On the Fly
+  stars:2,120
+
+9:https://github.com/EOSIO/eos
+  An open source smart contract platform
+  stars:6,160
+
+10:https://github.com/ocornut/imgui
+  Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+  stars:10,570
+
+11:https://github.com/BVLC/caffe
+  Caffe: a fast open framework for deep learning.
+  stars:23,791
+
+12:https://github.com/Jack-CV/PCN
+  Progressive Calibration Networks (PCN) is an accurate rotation-invariant face detector running at real-time speed on CPU, published in CVPR 2018.
+  stars:76
+
+13:https://github.com/nlohmann/json
+  JSON for Modern C++
+  stars:9,283
+
+14:https://github.com/grpc/grpc
+  The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+  stars:14,830
+
+15:https://github.com/dmlc/xgboost
+  Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+  stars:11,630
+
+16:https://github.com/ApolloAuto/apollo
+  An open autonomous driving platform
+  stars:8,688
+
+17:https://github.com/ethereum/solidity
+  Solidity, the Contract-Oriented Programming Language
+  stars:4,540
+
+18:https://github.com/Jeff-Mott-OR/cpplox
+  Following Nystrom's book Crafting Interpreters, implemented in C++.
+  stars:25
+
+19:https://github.com/cmderdev/cmder
+  Lovely console emulator package for Windows
+  stars:13,860
+
+20:https://github.com/huihut/interview
+  <g-emoji class="g-emoji" alias="books" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> C/C++面试知识总结
+  stars:107
+
+21:https://github.com/fireice-uk/xmr-stak
+  Unified All-in-one Monero miner
+  stars:2,276
+
+22:https://github.com/glinscott/leela-chess
+  A chess adaption of GCP's Leela Zero
+  stars:435
+
+23:https://github.com/ossrs/srs
+  SRS's a simplest, conceptual integrated, industrial-strength live streaming origin cluster.
+  stars:3,705
+
+24:https://github.com/godotengine/godot
+  Godot Engine – Multi-platform 2D and 3D game engine
+  stars:14,715
+
+25:https://github.com/zhongyang219/TrafficMonitor
+  这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+  stars:550
+
