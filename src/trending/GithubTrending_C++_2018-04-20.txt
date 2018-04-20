@@ -1,0 +1,103 @@
+语言：C++
+时间：2018-04-20 22:52:18
+
+1:https://github.com/apple/foundationdb
+  FoundationDB - the open source, distributed, transactional key-value store
+  stars:4,013
+
+2:https://github.com/tensorflow/tensorflow
+  Computation using data flow graphs for scalable machine learning
+  stars:97,020
+
+3:https://github.com/apple/swift
+  The Swift Programming Language
+  stars:43,466
+
+4:https://github.com/electron/electron
+  Build cross platform desktop apps with JavaScript, HTML, and CSS
+  stars:59,149
+
+5:https://github.com/ApolloAuto/apollo
+  An open autonomous driving platform
+  stars:8,722
+
+6:https://github.com/bitcoin/bitcoin
+  Bitcoin Core integration/staging tree
+  stars:30,774
+
+7:https://github.com/opencv/opencv
+  Open Source Computer Vision Library
+  stars:23,943
+
+8:https://github.com/pytorch/pytorch
+  Tensors and Dynamic neural networks in Python with strong GPU acceleration
+  stars:14,190
+
+9:https://github.com/Jack-CV/PCN
+  Progressive Calibration Networks (PCN) is an accurate rotation-invariant face detector running at real-time speed on CPU, published in CVPR 2018.
+  stars:93
+
+10:https://github.com/huxingyi/dust3d
+  Dust3D is aim to be a quick modeling tool for game development.
+  stars:46
+
+11:https://github.com/google/protobuf
+  Protocol Buffers - Google's data interchange format
+  stars:25,385
+
+12:https://github.com/EOSIO/eos
+  An open source smart contract platform
+  stars:6,178
+
+13:https://github.com/efficient/SuRF
+  An open source smart contract platform
+  stars:28
+
+14:https://github.com/tesseract-ocr/tesseract
+  Tesseract Open Source OCR Engine (main repository)
+  stars:17,831
+
+15:https://github.com/aseprite/aseprite
+  Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux)
+  stars:2,435
+
+16:https://github.com/BVLC/caffe
+  Caffe: a fast open framework for deep learning.
+  stars:23,804
+
+17:https://github.com/grpc/grpc
+  The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+  stars:14,847
+
+18:https://github.com/dmlc/xgboost
+  Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+  stars:11,641
+
+19:https://github.com/telegramdesktop/tdesktop
+  Telegram Desktop messaging app
+  stars:7,064
+
+20:https://github.com/zhongyang219/TrafficMonitor
+  这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+  stars:571
+
+21:https://github.com/mysql/mysql-server
+  MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
+  stars:2,597
+
+22:https://github.com/google/leveldb
+  LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+  stars:13,391
+
+23:https://github.com/ocornut/imgui
+  Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+  stars:10,583
+
+24:https://github.com/v8/v8
+  The official mirror of the V8 Git repository
+  stars:8,821
+
+25:https://github.com/changkun/modern-cpp-tutorial
+  <g-emoji class="g-emoji" alias="books" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> C++11/14/17 On the Fly
+  stars:2,130
+

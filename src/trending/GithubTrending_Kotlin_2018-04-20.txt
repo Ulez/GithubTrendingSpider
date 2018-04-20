@@ -1,0 +1,103 @@
+语言：Kotlin
+时间：2018-04-20 22:52:20
+
+1:https://github.com/android/android-ktx
+  A set of Kotlin extensions for Android app development.
+  stars:6,076
+
+2:https://github.com/shadowsocks/shadowsocks-android
+  A shadowsocks client for Android
+  stars:14,128
+
+3:https://github.com/JetBrains/kotlin
+  The Kotlin Programming Language
+  stars:21,953
+
+4:https://github.com/burhanrashid52/YoutubeUX
+  With MVVM Architecture pattern using Android Architecture Components This is a sample app demonstrating Youtube player animation using constraint layout
+  stars:325
+
+5:https://github.com/JetBrains/kotlin-native
+  Kotlin/Native infrastructure
+  stars:3,946
+
+6:https://github.com/ibhavikmakwana/Constraint-Layout-Animations
+  Key Frame Animation, following the visual illustration given by this video:
+  stars:22
+
+7:https://github.com/airbnb/paris
+  Define and apply styles to Android views programmatically
+  stars:510
+
+8:https://github.com/Kotlin/anko
+  Pleasant Android application development
+  stars:10,713
+
+9:https://github.com/izhangzhihao/intellij-rainbow-brackets
+  Rainbow Brackets / Rainbow Parentheses for IntelliJ IDEA based IDEs
+  stars:549
+
+10:https://github.com/vanniktech/gradle-dependency-graph-generator-plugin
+  Gradle plugin that generates dependency graphs from your project.
+  stars:302
+
+11:https://github.com/patrickyin/clean-architecture-android-kotlin
+  Using Uncle Bob's clean architecture with Kotlin language and the latest Android technologies(Rx, Dagger2 etc.).
+  stars:192
+
+12:https://github.com/Beepiz/BleGattCoroutines
+  Make Gatt Great Again! This library allows easy and safer usage of BluetoothGatt in Android
+  stars:117
+
+13:https://github.com/KotlinBy/awesome-kotlin
+  A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+  stars:4,666
+
+14:https://github.com/YiiGuxing/TranslationPlugin
+  <g-emoji class="g-emoji" alias="electric_plug" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f50c.png">🔌</g-emoji>JetBrains IDE/Android Studio 翻译插件
+  stars:1,056
+
+15:https://github.com/wuseal/JsonToKotlinClass
+  Plugin for Android Studio And IntelliJ Idea to generate Kotlin data class code from JSON text ( Json to Kotlin )
+  stars:544
+
+16:https://github.com/wuapnjie/LayoutMaster
+  An Android Studio Plugin for ui debugging.
+  stars:76
+
+17:https://github.com/google/flexbox-layout
+  Flexbox for Android
+  stars:11,205
+
+18:https://github.com/gradle/kotlin-dsl
+  Kotlin language support for Gradle build scripts
+  stars:1,471
+
+19:https://github.com/ktorio/ktor
+  Framework for quickly creating connected applications in Kotlin with minimal effort
+  stars:2,620
+
+20:https://github.com/inorichi/tachiyomi
+  Free and open source manga reader for Android
+  stars:1,487
+
+21:https://github.com/sourcerer-io/sourcerer-app
+  <g-emoji class="g-emoji" alias="robot" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f916.png">🤖</g-emoji> Sourcerer app makes a visual profile from your GitHub and git repositories.
+  stars:730
+
+22:https://github.com/bufferapp/CounterView
+  A simple Android counter view for showing edittext character counts
+  stars:72
+
+23:https://github.com/Ramotion/fluid-slider-android
+  <img class="emoji" title=":octocat:" alt=":octocat:" src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"><g-emoji class="g-emoji" alias="droplet" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a7.png">💧</g-emoji> A slider widget with a popup bubble displaying the precise value selected. Android library made by <a href="https://github.com/Ramotion" class="user-mention">@Ramotion</a>
+  stars:783
+
+24:https://github.com/JetBrains/Exposed
+  Kotlin SQL Framework
+  stars:1,414
+
+25:https://github.com/MyEtherWallet/ethereum-lists
+  A repository for maintaining lists of things like malicious URLs, fake token addresses, and so forth. We love lists.
+  stars:102
+

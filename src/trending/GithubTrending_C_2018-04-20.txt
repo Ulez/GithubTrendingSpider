@@ -1,0 +1,103 @@
+语言：C
+时间：2018-04-20 22:52:20
+
+1:https://github.com/tehw0lf/airbash
+  a fully automated WPA PSK handshake capture script aimed at penetration testing
+  stars:123
+
+2:https://github.com/torvalds/linux
+  Linux kernel source tree
+  stars:57,823
+
+3:https://github.com/reactos/reactos
+  A free Windows-compatible Operating System
+  stars:4,051
+
+4:https://github.com/antirez/redis
+  Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
+  stars:28,646
+
+5:https://github.com/timescale/timescaledb
+  An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension.
+  stars:4,534
+
+6:https://github.com/id-Software/Quake-III-Arena
+  Quake III Arena GPL Source Release
+  stars:3,344
+
+7:https://github.com/ziutek/emgo
+  Emgo: Bare metal Go (language for programming embedded systems)
+  stars:438
+
+8:https://github.com/dstogov/php-ffi
+  PHP Foreign Function Interface
+  stars:117
+
+9:https://github.com/pjreddie/darknet
+  Convolutional Neural Networks
+  stars:7,288
+
+10:https://github.com/iqiyi/xHook
+  xhook is a PLT (Procedure Linkage Table) hook library for Android native ELF (executable and shared libraries).
+  stars:164
+
+11:https://github.com/git/git
+  Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+  stars:21,915
+
+12:https://github.com/php/php-src
+  The PHP Interpreter
+  stars:17,313
+
+13:https://github.com/curl/curl
+  A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
+  stars:8,137
+
+14:https://github.com/Microsoft/winfile
+  Original Windows File Manager (winfile) with enhancements
+  stars:4,402
+
+15:https://github.com/firehol/netdata
+  Get control of your servers. Simple. Effective. Awesome! <a href="https://my-netdata.io/" rel="nofollow">https://my-netdata.io/</a>
+  stars:28,935
+
+16:https://github.com/jx-sec/jxwaf
+  JXWAF(锦衣盾)是一款基于openresty(nginx+lua)开发的下一代web应用防火墙
+  stars:128
+
+17:https://github.com/vim/vim
+  The official Vim repository
+  stars:12,377
+
+18:https://github.com/numpy/numpy
+  Numpy main repository
+  stars:6,989
+
+19:https://github.com/libuv/libuv
+  Cross-platform asynchronous I/O
+  stars:9,013
+
+20:https://github.com/viest/php-ext-excel-export
+  A PHP Extension for creating Excel XLSX files.
+  stars:246
+
+21:https://github.com/FFmpeg/FFmpeg
+  Mirror of git://source.ffmpeg.org/ffmpeg.git
+  stars:10,498
+
+22:https://github.com/swoole/swoole-src
+  Event-driven asynchronous &amp; concurrent &amp; coroutine networking engine with high performance for PHP.
+  stars:8,494
+
+23:https://github.com/obsproject/obs-studio
+  OBS - Free and open source software for live streaming and screen recording
+  stars:9,125
+
+24:https://github.com/wg/wrk
+  Modern HTTP benchmarking tool
+  stars:15,594
+
+25:https://github.com/Moddable-OpenSource/moddable
+  Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers.
+  stars:67
+
