@@ -1,0 +1,103 @@
+语言：C#
+时间：2018-04-21 23:42:58
+
+1:https://github.com/torvalds/linux
+  Linux kernel source tree
+  stars:57,857
+
+2:https://github.com/pymumu/tinylog
+  A lightweight C-language log component for UNIX environment, It is a high performance, asynchronized, thread-safe and process-safe log library for C/C++; tinylog是一个专为UNIX设计的轻量级的C／C++日志模块，其提供了高性能，异步，线程安全，进程安全的日志功能。
+  stars:47
+
+3:https://github.com/tehw0lf/airbash
+  a fully automated WPA PSK handshake capture script aimed at penetration testing
+  stars:147
+
+4:https://github.com/timescale/timescaledb
+  An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension.
+  stars:4,556
+
+5:https://github.com/Moddable-OpenSource/moddable
+  Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers.
+  stars:95
+
+6:https://github.com/firehol/netdata
+  Get control of your servers. Simple. Effective. Awesome! <a href="https://my-netdata.io/" rel="nofollow">https://my-netdata.io/</a>
+  stars:28,958
+
+7:https://github.com/FFmpeg/FFmpeg
+  Mirror of git://source.ffmpeg.org/ffmpeg.git
+  stars:10,518
+
+8:https://github.com/pjreddie/darknet
+  Convolutional Neural Networks
+  stars:7,302
+
+9:https://github.com/deeponion/deeponion
+  Official Source Repo for DeepOnion - Anonymous Cryptocurrency on TOR Network
+  stars:211
+
+10:https://github.com/php/php-src
+  The PHP Interpreter
+  stars:17,328
+
+11:https://github.com/vim/vim
+  The official Vim repository
+  stars:12,383
+
+12:https://github.com/git/git
+  Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+  stars:21,924
+
+13:https://github.com/curl/curl
+  A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
+  stars:8,148
+
+14:https://github.com/dstogov/php-ffi
+  PHP Foreign Function Interface
+  stars:131
+
+15:https://github.com/Microsoft/winfile
+  Original Windows File Manager (winfile) with enhancements
+  stars:4,411
+
+16:https://github.com/reactos/reactos
+  A free Windows-compatible Operating System
+  stars:4,060
+
+17:https://github.com/esp8266/Arduino
+  ESP8266 core for Arduino
+  stars:7,165
+
+18:https://github.com/vurtun/nuklear
+  A single-header ANSI C gui library
+  stars:10,003
+
+19:https://github.com/ziutek/emgo
+  Emgo: Bare metal Go (language for programming embedded systems)
+  stars:448
+
+20:https://github.com/antirez/redis
+  Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
+  stars:28,659
+
+21:https://github.com/openssl/openssl
+  TLS/SSL and crypto library
+  stars:6,897
+
+22:https://github.com/wg/wrk
+  Modern HTTP benchmarking tool
+  stars:15,597
+
+23:https://github.com/kovidgoyal/kitty
+  A cross-platform, fast, feature full, GPU based terminal emulator
+  stars:2,665
+
+24:https://github.com/sergey-dryabzhinsky/nginx-rtmp-module
+  NGINX-based Media Streaming Server
+  stars:361
+
+25:https://github.com/qmk/qmk_firmware
+  keyboard controller firmware for Atmel AVR and ARM USB families
+  stars:2,279
+

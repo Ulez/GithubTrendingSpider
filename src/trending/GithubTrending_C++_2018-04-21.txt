@@ -1,0 +1,103 @@
+语言：C++
+时间：2018-04-21 23:42:57
+
+1:https://github.com/apple/foundationdb
+  FoundationDB - the open source, distributed, transactional key-value store
+  stars:4,981
+
+2:https://github.com/tensorflow/tensorflow
+  Computation using data flow graphs for scalable machine learning
+  stars:97,097
+
+3:https://github.com/huxingyi/dust3d
+  Dust3D is aim to be a quick modeling tool for game development.
+  stars:99
+
+4:https://github.com/electron/electron
+  Build cross platform desktop apps with JavaScript, HTML, and CSS
+  stars:59,182
+
+5:https://github.com/aseprite/aseprite
+  Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux)
+  stars:2,476
+
+6:https://github.com/opencv/opencv
+  Open Source Computer Vision Library
+  stars:23,968
+
+7:https://github.com/EOSIO/eos
+  An open source smart contract platform
+  stars:6,206
+
+8:https://github.com/bitcoin/bitcoin
+  Bitcoin Core integration/staging tree
+  stars:30,797
+
+9:https://github.com/apple/swift
+  The Swift Programming Language
+  stars:43,488
+
+10:https://github.com/google/protobuf
+  Protocol Buffers - Google's data interchange format
+  stars:25,410
+
+11:https://github.com/pytorch/pytorch
+  Tensors and Dynamic neural networks in Python with strong GPU acceleration
+  stars:14,212
+
+12:https://github.com/ElDewrito/ElDorito
+  A Halo Online modification
+  stars:391
+
+13:https://github.com/BVLC/caffe
+  Caffe: a fast open framework for deep learning.
+  stars:23,821
+
+14:https://github.com/tesseract-ocr/tesseract
+  Tesseract Open Source OCR Engine (main repository)
+  stars:17,849
+
+15:https://github.com/zhongyang219/TrafficMonitor
+  这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+  stars:587
+
+16:https://github.com/godotengine/godot
+  Godot Engine – Multi-platform 2D and 3D game engine
+  stars:14,748
+
+17:https://github.com/mysql/mysql-server
+  MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
+  stars:2,615
+
+18:https://github.com/cquery-project/cquery
+  C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, semantic highlighting and more
+  stars:1,265
+
+19:https://github.com/dmlc/xgboost
+  Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+  stars:11,652
+
+20:https://github.com/Jack-CV/PCN
+  Progressive Calibration Networks (PCN) is an accurate rotation-invariant face detector running at real-time speed on CPU, published in CVPR 2018.
+  stars:105
+
+21:https://github.com/grpc/grpc
+  The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+  stars:14,860
+
+22:https://github.com/ApolloAuto/apollo
+  An open autonomous driving platform
+  stars:8,735
+
+23:https://github.com/paulyang1990/toy_code
+  An open autonomous driving platform
+  stars:36
+
+24:https://github.com/OpenTTD/OpenTTD
+  OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
+  stars:127
+
+25:https://github.com/Microsoft/CNTK
+  Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
+  stars:14,284
+

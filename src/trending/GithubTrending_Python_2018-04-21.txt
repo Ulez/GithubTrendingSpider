@@ -1,0 +1,103 @@
+语言：Python
+时间：2018-04-21 23:42:58
+
+1:https://github.com/shobrook/rebound
+  Command-line tool that instantly fetches Stack Overflow results when you get a compiler error
+  stars:1,494
+
+2:https://github.com/phishai/phish-ai-api
+  Official python API for Phish.AI public and private API to detect zero-day phishing websites
+  stars:118
+
+3:https://github.com/tensorflow/models
+  Models and examples built with TensorFlow
+  stars:33,468
+
+4:https://github.com/vinta/awesome-python
+  A curated list of awesome Python frameworks, libraries, software and resources
+  stars:48,778
+
+5:https://github.com/deepfakes/faceswap
+  Non official project based on original /r/Deepfakes thread. Many thanks to him!
+  stars:5,187
+
+6:https://github.com/zulip/zulip
+  Zulip server - powerful open source team chat
+  stars:6,960
+
+7:https://github.com/keras-team/keras
+  Deep Learning for humans
+  stars:28,526
+
+8:https://github.com/Yorko/mlcourse_open
+  OpenDataScience Machine Learning course. Both in English and Russian
+  stars:1,441
+
+9:https://github.com/flipkart-incubator/RTA
+  Red team Arsenal - An intelligent scanner to detect security vulnerabilities in company's layer 7 assets.
+  stars:83
+
+10:https://github.com/toddmotto/public-apis
+  A collective list of public JSON APIs for use in web development.
+  stars:35,797
+
+11:https://github.com/donnemartin/system-design-primer
+  Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+  stars:25,398
+
+12:https://github.com/scikit-learn/scikit-learn
+  scikit-learn: machine learning in Python
+  stars:27,557
+
+13:https://github.com/django/django
+  The Web framework for perfectionists with deadlines.
+  stars:33,333
+
+14:https://github.com/rg3/youtube-dl
+  Command-line program to download videos from YouTube.com and other video sites
+  stars:36,142
+
+15:https://github.com/hindupuravinash/the-gan-zoo
+  A list of all named GANs!
+  stars:2,228
+
+16:https://github.com/requests/requests
+  Python HTTP Requests for Humans™ <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png">✨</g-emoji><g-emoji class="g-emoji" alias="cake" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f370.png">🍰</g-emoji><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
+  stars:31,880
+
+17:https://github.com/facebookresearch/Detectron
+  FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
+  stars:13,574
+
+18:https://github.com/trailofbits/algo
+  Set up a personal IPSEC VPN in the cloud
+  stars:8,310
+
+19:https://github.com/rsinger86/django-lifecycle
+  Declarative model lifecycle hooks, inspired by Rails callbacks.
+  stars:86
+
+20:https://github.com/ageitgey/face_recognition
+  The world's simplest facial recognition api for Python and the command line
+  stars:12,814
+
+21:https://github.com/python/cpython
+  The Python programming language
+  stars:17,281
+
+22:https://github.com/vaguileradiaz/tinfoleak
+  The most complete open-source tool for Twitter intelligence analysis
+  stars:809
+
+23:https://github.com/tldr-pages/tldr
+  <g-emoji class="g-emoji" alias="books" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Simplified and community-driven man pages
+  stars:16,910
+
+24:https://github.com/ansible/ansible
+  Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. <a href="https://docs.ansible.com/ansible/" rel="nofollow">https://docs.ansible.com/ansible/</a>
+  stars:29,768
+
+25:https://github.com/pallets/flask
+  The Python micro framework for building web applications.
+  stars:34,894
+

@@ -1,0 +1,103 @@
+语言：Kotlin
+时间：2018-04-21 23:42:59
+
+1:https://github.com/shadowsocks/shadowsocks-android
+  A shadowsocks client for Android
+  stars:14,162
+
+2:https://github.com/JetBrains/kotlin
+  The Kotlin Programming Language
+  stars:21,973
+
+3:https://github.com/ibhavikmakwana/Constraint-Layout-Animations
+  Key Frame Animation, following the visual illustration given by this video:
+  stars:42
+
+4:https://github.com/burhanrashid52/YoutubeUX
+  With MVVM Architecture pattern using Android Architecture Components This is a sample app demonstrating Youtube player animation using constraint layout
+  stars:337
+
+5:https://github.com/JetBrains/kotlin-native
+  Kotlin/Native infrastructure
+  stars:3,957
+
+6:https://github.com/android/android-ktx
+  A set of Kotlin extensions for Android app development.
+  stars:6,082
+
+7:https://github.com/qhutch/ElevationImageView
+  Imageview with elevation shadow
+  stars:170
+
+8:https://github.com/Kotlin/anko
+  Pleasant Android application development
+  stars:10,722
+
+9:https://github.com/vanniktech/gradle-dependency-graph-generator-plugin
+  Gradle plugin that generates dependency graphs from your project.
+  stars:311
+
+10:https://github.com/izhangzhihao/intellij-rainbow-brackets
+  Rainbow Brackets / Rainbow Parentheses for IntelliJ IDEA based IDEs
+  stars:558
+
+11:https://github.com/KotlinBy/awesome-kotlin
+  A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+  stars:4,673
+
+12:https://github.com/google/flexbox-layout
+  Flexbox for Android
+  stars:11,213
+
+13:https://github.com/patrickyin/clean-architecture-android-kotlin
+  Using Uncle Bob's clean architecture with Kotlin language and the latest Android technologies(Rx, Dagger2 etc.).
+  stars:197
+
+14:https://github.com/inorichi/tachiyomi
+  Free and open source manga reader for Android
+  stars:1,494
+
+15:https://github.com/wuapnjie/LayoutMaster
+  An Android Studio Plugin for ui debugging.
+  stars:81
+
+16:https://github.com/JetBrains/Exposed
+  Kotlin SQL Framework
+  stars:1,420
+
+17:https://github.com/shyiko/ktlint
+  An anti-bikeshedding Kotlin linter with built-in formatter
+  stars:1,110
+
+18:https://github.com/ktorio/ktor
+  Framework for quickly creating connected applications in Kotlin with minimal effort
+  stars:2,624
+
+19:https://github.com/kotlintest/kotlintest
+  Powerful, elegant and flexible Kotlin test framework
+  stars:844
+
+20:https://github.com/airbnb/paris
+  Define and apply styles to Android views programmatically
+  stars:514
+
+21:https://github.com/Kotlin/kotlin-koans
+  Kotlin workshop
+  stars:1,805
+
+22:https://github.com/JetBrains/swot
+  Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
+  stars:397
+
+23:https://github.com/Yubico/yubioath-android
+  Yubico Authenticator for Android
+  stars:95
+
+24:https://github.com/hazuki0x0/YuzuBrowser
+  Customizable browser for android
+  stars:41
+
+25:https://github.com/Yalantis/ColorMatchTabsAndroid
+  Customizable browser for android
+  stars:65
+
