@@ -1,0 +1,103 @@
+语言：C++
+时间：2018-04-22 22:08:31
+
+1:https://github.com/apple/foundationdb
+  FoundationDB - the open source, distributed, transactional key-value store
+  stars:5,370
+
+2:https://github.com/tensorflow/tensorflow
+  Computation using data flow graphs for scalable machine learning
+  stars:97,164
+
+3:https://github.com/aseprite/aseprite
+  Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux)
+  stars:2,561
+
+4:https://github.com/BelBES/mpl.pytorch
+  Pytorch implementation of MaxPoolingLoss.
+  stars:71
+
+5:https://github.com/ElDewrito/ElDorito
+  A Halo Online modification
+  stars:418
+
+6:https://github.com/bitcoin/bitcoin
+  Bitcoin Core integration/staging tree
+  stars:30,819
+
+7:https://github.com/electron/electron
+  Build cross platform desktop apps with JavaScript, HTML, and CSS
+  stars:59,205
+
+8:https://github.com/opencv/opencv
+  Open Source Computer Vision Library
+  stars:23,989
+
+9:https://github.com/EOSIO/eos
+  An open source smart contract platform
+  stars:6,222
+
+10:https://github.com/pytorch/pytorch
+  Tensors and Dynamic neural networks in Python with strong GPU acceleration
+  stars:14,230
+
+11:https://github.com/dmlc/xgboost
+  Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+  stars:11,668
+
+12:https://github.com/cquery-project/cquery
+  C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, semantic highlighting and more
+  stars:1,282
+
+13:https://github.com/huxingyi/dust3d
+  Dust3D is aim to be a quick modeling tool for game development.
+  stars:113
+
+14:https://github.com/zhongyang219/TrafficMonitor
+  这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+  stars:603
+
+15:https://github.com/apple/swift
+  The Swift Programming Language
+  stars:43,497
+
+16:https://github.com/godotengine/godot
+  Godot Engine – Multi-platform 2D and 3D game engine
+  stars:14,761
+
+17:https://github.com/tesseract-ocr/tesseract
+  Tesseract Open Source OCR Engine (main repository)
+  stars:17,864
+
+18:https://github.com/BVLC/caffe
+  Caffe: a fast open framework for deep learning.
+  stars:23,826
+
+19:https://github.com/SnapDragon64/ACMFinalsSolutions
+  SnapDragon's solutions for the ACM ICPC World Finals problems.
+  stars:90
+
+20:https://github.com/Microsoft/LightGBM
+  A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks. It is under the umbrella of the DMTK(<a href="http://github.com/microsoft/dmtk">http://github.com/microsoft/dmtk</a>) project of Microsoft.
+  stars:5,280
+
+21:https://github.com/google/protobuf
+  Protocol Buffers - Google's data interchange format
+  stars:25,415
+
+22:https://github.com/riverar/mach2
+  Feature Control Multi-tool
+  stars:60
+
+23:https://github.com/telegramdesktop/tdesktop
+  Telegram Desktop messaging app
+  stars:7,079
+
+24:https://github.com/ApolloAuto/apollo
+  An open autonomous driving platform
+  stars:8,744
+
+25:https://github.com/google/leveldb
+  LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+  stars:13,405
+

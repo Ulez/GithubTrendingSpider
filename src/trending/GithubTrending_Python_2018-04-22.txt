@@ -1,0 +1,103 @@
+语言：Python
+时间：2018-04-22 22:08:33
+
+1:https://github.com/tensorflow/models
+  Models and examples built with TensorFlow
+  stars:33,520
+
+2:https://github.com/ayooshkathuria/pytorch-yolo-v3
+  A PyTorch implementation of the YOLO v3 object detection algorithm
+  stars:86
+
+3:https://github.com/shobrook/rebound
+  Command-line tool that instantly fetches Stack Overflow results when you get a compiler error
+  stars:1,536
+
+4:https://github.com/keras-team/keras
+  Deep Learning for humans
+  stars:28,564
+
+5:https://github.com/vinta/awesome-python
+  A curated list of awesome Python frameworks, libraries, software and resources
+  stars:48,813
+
+6:https://github.com/zulip/zulip
+  Zulip server - powerful open source team chat
+  stars:6,989
+
+7:https://github.com/m4ll0k/SMBrute
+  SMB Protocol Bruteforce
+  stars:49
+
+8:https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF
+  OReilly Hands On Machine Learning with Scikit Learn and TensorFlow (Sklearn与TensorFlow机器学习实用指南)
+  stars:111
+
+9:https://github.com/toddmotto/public-apis
+  A collective list of public JSON APIs for use in web development.
+  stars:35,825
+
+10:https://github.com/Yorko/mlcourse_open
+  OpenDataScience Machine Learning course. Both in English and Russian
+  stars:1,462
+
+11:https://github.com/jonathanslenders/python-prompt-toolkit
+  Library for building powerful interactive command lines in Python
+  stars:4,336
+
+12:https://github.com/rg3/youtube-dl
+  Command-line program to download videos from YouTube.com and other video sites
+  stars:36,166
+
+13:https://github.com/scikit-learn/scikit-learn
+  scikit-learn: machine learning in Python
+  stars:27,583
+
+14:https://github.com/donnemartin/system-design-primer
+  Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+  stars:25,422
+
+15:https://github.com/flipkart-incubator/RTA
+  Red team Arsenal - An intelligent scanner to detect security vulnerabilities in company's layer 7 assets.
+  stars:110
+
+16:https://github.com/qqwweee/keras-yolo3
+  A Keras implementation of YOLOv3 (Tensorflow backend)
+  stars:108
+
+17:https://github.com/deepfakes/faceswap
+  Non official project based on original /r/Deepfakes thread. Many thanks to him!
+  stars:5,207
+
+18:https://github.com/django/django
+  The Web framework for perfectionists with deadlines.
+  stars:33,348
+
+19:https://github.com/pallets/flask
+  The Python micro framework for building web applications.
+  stars:34,914
+
+20:https://github.com/bad-day/TelegramTUI
+  Telegram client on your terminal
+  stars:177
+
+21:https://github.com/ashnkumar/sketch-code
+  Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images.
+  stars:1,199
+
+22:https://github.com/home-assistant/home-assistant
+  <g-emoji class="g-emoji" alias="house_with_garden" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e1.png">🏡</g-emoji> Open-source home automation platform running on Python 3
+  stars:13,858
+
+23:https://github.com/ageitgey/face_recognition
+  The world's simplest facial recognition api for Python and the command line
+  stars:12,834
+
+24:https://github.com/openai/gym
+  A toolkit for developing and comparing reinforcement learning algorithms.
+  stars:11,555
+
+25:https://github.com/python/cpython
+  The Python programming language
+  stars:17,295
+

@@ -1,0 +1,103 @@
+语言：Kotlin
+时间：2018-04-22 22:08:33
+
+1:https://github.com/mukeshsolanki/liquidrefreshlayout
+  Liquid Refresh Layout is a simple SwipeToRefresh library that helps you easily integrate SwipeToRefresh and performs simple clean liquid animation
+  stars:41
+
+2:https://github.com/shadowsocks/shadowsocks-android
+  A shadowsocks client for Android
+  stars:14,179
+
+3:https://github.com/JetBrains/kotlin
+  The Kotlin Programming Language
+  stars:21,987
+
+4:https://github.com/android/android-ktx
+  A set of Kotlin extensions for Android app development.
+  stars:6,098
+
+5:https://github.com/kotlinsg/modular
+  Example of multi module android app.
+  stars:22
+
+6:https://github.com/KotlinBy/awesome-kotlin
+  A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+  stars:4,681
+
+7:https://github.com/ibhavikmakwana/Constraint-Layout-Animations
+  Key Frame Animation, following the visual illustration given by this video:
+  stars:51
+
+8:https://github.com/Kotlin/kotlinx.coroutines
+  Library support for Kotlin coroutines
+  stars:2,034
+
+9:https://github.com/burhanrashid52/YoutubeUX
+  With MVVM Architecture pattern using Android Architecture Components This is a sample app demonstrating Youtube player animation using constraint layout
+  stars:343
+
+10:https://github.com/vanniktech/gradle-dependency-graph-generator-plugin
+  Gradle plugin that generates dependency graphs from your project.
+  stars:318
+
+11:https://github.com/Kotlin/anko
+  Pleasant Android application development
+  stars:10,727
+
+12:https://github.com/EmberVulpix/Gaydar
+  Gay radar for gay people
+  stars:58
+
+13:https://github.com/google/flexbox-layout
+  Flexbox for Android
+  stars:11,217
+
+14:https://github.com/patrickyin/clean-architecture-android-kotlin
+  Using Uncle Bob's clean architecture with Kotlin language and the latest Android technologies(Rx, Dagger2 etc.).
+  stars:205
+
+15:https://github.com/JetBrains/kotlin-native
+  Kotlin/Native infrastructure
+  stars:3,961
+
+16:https://github.com/JetBrains/Exposed
+  Kotlin SQL Framework
+  stars:1,424
+
+17:https://github.com/kotlintest/kotlintest
+  Powerful, elegant and flexible Kotlin test framework
+  stars:847
+
+18:https://github.com/izhangzhihao/intellij-rainbow-brackets
+  Rainbow Brackets / Rainbow Parentheses for IntelliJ IDEA based IDEs
+  stars:561
+
+19:https://github.com/MrBIMC/RunInBackgroundPermissionSetter
+  App to set android's hidden RUN_IN_BACKGROUND permission. Requires root.
+  stars:77
+
+20:https://github.com/MyEtherWallet/ethereum-lists
+  A repository for maintaining lists of things like malicious URLs, fake token addresses, and so forth. We love lists.
+  stars:102
+
+21:https://github.com/duckduckgo/Android
+  DuckDuckGo Android App
+  stars:425
+
+22:https://github.com/grote/Transportr
+  The public transport companion that respects your privacy and your freedom.
+  stars:325
+
+23:https://github.com/chrisbanes/tivi
+  Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
+  stars:1,096
+
+24:https://github.com/vanyaland/Habito
+  Simple habit tracker app for Android
+  stars:30
+
+25:https://github.com/gojuno/composer
+  Reactive Android Instrumentation Test Runner.
+  stars:413
+

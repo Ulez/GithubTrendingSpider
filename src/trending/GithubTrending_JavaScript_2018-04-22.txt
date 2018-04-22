@@ -1,0 +1,103 @@
+语言：JavaScript
+时间：2018-04-22 22:08:29
+
+1:https://github.com/krasimir/react-in-patterns
+  A free book that talks about design patterns/techniques used while developing with React.
+  stars:6,291
+
+2:https://github.com/tehnokv/picojs
+  A face detection library in 200 lines of JavaScript
+  stars:1,497
+
+3:https://github.com/vuejs/vuepress
+  <g-emoji class="g-emoji" alias="memo" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Minimalistic Vue-powered static site generator
+  stars:5,132
+
+4:https://github.com/text-mask/text-mask
+  Input mask for React, Angular, Ember, Vue, &amp; plain JavaScript
+  stars:4,597
+
+5:https://github.com/FrontendMasters/front-end-handbook-2018
+  2018 edition of our front-end development handbook
+  stars:2,370
+
+6:https://github.com/vuejs/vue
+  <g-emoji class="g-emoji" alias="vulcan_salute" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f596.png">🖖</g-emoji> A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+  stars:91,762
+
+7:https://github.com/vzhou842/faster.js
+  faster.js is a Babel plugin that compiles idiomatic Javascript to faster, micro-optimized code.
+  stars:261
+
+8:https://github.com/drcmda/react-spring
+  <g-emoji class="g-emoji" alias="raised_hands" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f64c.png">🙌</g-emoji> Helping react-motion and animated to become best friends
+  stars:4,238
+
+9:https://github.com/marktext/marktext
+  <g-emoji class="g-emoji" alias="memo" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>Next generation markdown editor, running on platforms of MacOS Windows and Linux.
+  stars:3,967
+
+10:https://github.com/facebook/react
+  A declarative, efficient, and flexible JavaScript library for building user interfaces.
+  stars:94,130
+
+11:https://github.com/terkelg/tiny-glob
+  Super tiny and ~350% faster alternative to node-glob <g-emoji class="g-emoji" alias="rocket" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>
+  stars:340
+
+12:https://github.com/sindresorhus/slugify
+  Slugify a string
+  stars:268
+
+13:https://github.com/d3/d3
+  Bring data to life with SVG, Canvas and HTML. <g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji><g-emoji class="g-emoji" alias="tada" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji>
+  stars:75,071
+
+14:https://github.com/parcel-bundler/parcel
+  <g-emoji class="g-emoji" alias="package" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Blazing fast, zero configuration web application bundler
+  stars:21,615
+
+15:https://github.com/facebook/create-react-app
+  Create React apps with no build configuration.
+  stars:47,417
+
+16:https://github.com/axios/axios
+  Promise based HTTP client for the browser and node.js
+  stars:40,261
+
+17:https://github.com/iExecBlockchainComputing/iexec-sdk
+  iExec CLI client to develop, deploy and execute Dapps relying on iExec stack
+  stars:235
+
+18:https://github.com/facebook/react-native
+  A framework for building native apps with React.
+  stars:62,912
+
+19:https://github.com/airbnb/javascript
+  JavaScript Style Guide
+  stars:69,800
+
+20:https://github.com/zeit/hyper
+  A terminal built on web technologies
+  stars:22,541
+
+21:https://github.com/reactjs/redux
+  Predictable state container for JavaScript apps
+  stars:40,242
+
+22:https://github.com/GoogleChrome/puppeteer
+  Headless Chrome Node API
+  stars:30,689
+
+23:https://github.com/nodejs/node
+  Node.js JavaScript runtime <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png">✨</g-emoji><g-emoji class="g-emoji" alias="turtle" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f422.png">🐢</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
+  stars:47,870
+
+24:https://github.com/OutThisLife/imgblur
+  <a href="https://www.npmjs.com/package/imgblur" rel="nofollow">https://www.npmjs.com/package/imgblur</a>
+  stars:30
+
+25:https://github.com/ianstormtaylor/permit
+  An unopinionated authentication library for building Node.js APIs.
+  stars:208
+
