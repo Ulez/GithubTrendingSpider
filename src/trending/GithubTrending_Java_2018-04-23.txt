@@ -1,0 +1,103 @@
+语言：Java
+时间：2018-04-23 23:04:16
+
+1:https://github.com/LiangLuDev/WeYueReader
+  Android开源项目-微Yue电子书阅读（MD设计）
+  stars:291
+
+2:https://github.com/oracle/graal
+  GraalVM: Run Programs Faster Anywhere <g-emoji class="g-emoji" alias="rocket" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>
+  stars:3,790
+
+3:https://github.com/monkeyWie/proxyee-down
+  http下载工具，基于http代理，支持多连接分块下载
+  stars:6,732
+
+4:https://github.com/scwang90/MultiWaveHeader
+  Android 炫酷的多重水波纹 MultiWaveHeader Wave
+  stars:274
+
+5:https://github.com/spring-projects/spring-boot
+  Spring Boot
+  stars:23,676
+
+6:https://github.com/apache/incubator-dubbo
+  Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
+  stars:18,198
+
+7:https://github.com/Rabtman/AcgClub
+  一款纯粹的ACG聚合类App
+  stars:265
+
+8:https://github.com/iluwatar/java-design-patterns
+  Design patterns implemented in Java
+  stars:32,515
+
+9:https://github.com/scwang90/SmartRefreshLayout
+  <g-emoji class="g-emoji" alias="fire" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji>下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
+  stars:11,360
+
+10:https://github.com/jiajunhui/PlayerBase
+  PlayerBase将播放器的繁杂功能其业务组件化处理的框架方案
+  stars:220
+
+11:https://github.com/alipay/sofa-rpc
+  SOFARPC is a high-performance, high-extensibility, production-level Java RPC framework.
+  stars:530
+
+12:https://github.com/alipay/sofa-boot
+  SOFABoot is a framework that enhances Spring Boot and fully compatible with it, provides readiness check, class isolation, etc.
+  stars:729
+
+13:https://github.com/apache/rocketmq
+  Mirror of Apache RocketMQ
+  stars:4,156
+
+14:https://github.com/kdn251/interviews
+  Everything you need to know to get the job.
+  stars:22,515
+
+15:https://github.com/JeffLi1993/springboot-learning-example
+  spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
+  stars:4,143
+
+16:https://github.com/huburt-Hu/NewbieGuide
+  Android 快速实现新手引导层的库，通过简洁链式调用，一行代码实现引导层的显示
+  stars:769
+
+17:https://github.com/ReactiveX/RxJava
+  RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+  stars:32,540
+
+18:https://github.com/Exrick/xmall
+  基于SOA架构的分布式电商购物商城 前后端分离 前台商城:Vue全家桶 后台管理系统:Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper等
+  stars:1,239
+
+19:https://github.com/spring-projects/spring-framework
+  Spring Framework
+  stars:20,579
+
+20:https://github.com/netty/netty
+  Netty project - an event-driven asynchronous network application framework
+  stars:13,660
+
+21:https://github.com/Wechat-Group/weixin-java-tools
+  可能是目前最好最全的微信Java开发工具包，支持包括微信支付、开放平台、小程序、企业号和公众号等的开发
+  stars:6,123
+
+22:https://github.com/Yink/Amadeus
+  A side project that aims to replicate the Amadeus App shown in Steins;Gate 0.
+  stars:165
+
+23:https://github.com/apache/hadoop
+  Mirror of Apache Hadoop
+  stars:6,759
+
+24:https://github.com/Blankj/AndroidUtilCode
+  <g-emoji class="g-emoji" alias="fire" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Android developers should collect the following utils(updating).
+  stars:17,460
+
+25:https://github.com/elastic/elasticsearch
+  Open Source, Distributed, RESTful Search Engine
+  stars:30,419
+

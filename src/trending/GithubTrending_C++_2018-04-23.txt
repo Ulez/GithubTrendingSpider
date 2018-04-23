@@ -1,0 +1,103 @@
+语言：C++
+时间：2018-04-23 23:04:16
+
+1:https://github.com/apple/foundationdb
+  FoundationDB - the open source, distributed, transactional key-value store
+  stars:6,035
+
+2:https://github.com/tensorflow/tensorflow
+  Computation using data flow graphs for scalable machine learning
+  stars:97,283
+
+3:https://github.com/aseprite/aseprite
+  Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux)
+  stars:2,700
+
+4:https://github.com/opencv/opencv
+  Open Source Computer Vision Library
+  stars:24,022
+
+5:https://github.com/electron/electron
+  Build cross platform desktop apps with JavaScript, HTML, and CSS
+  stars:59,240
+
+6:https://github.com/bitcoin/bitcoin
+  Bitcoin Core integration/staging tree
+  stars:30,852
+
+7:https://github.com/pytorch/pytorch
+  Tensors and Dynamic neural networks in Python with strong GPU acceleration
+  stars:14,266
+
+8:https://github.com/google/protobuf
+  Protocol Buffers - Google's data interchange format
+  stars:25,444
+
+9:https://github.com/EOSIO/eos
+  An open source smart contract platform
+  stars:6,243
+
+10:https://github.com/ocornut/imgui
+  Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+  stars:10,621
+
+11:https://github.com/tesseract-ocr/tesseract
+  Tesseract Open Source OCR Engine (main repository)
+  stars:17,887
+
+12:https://github.com/apple/swift
+  The Swift Programming Language
+  stars:43,520
+
+13:https://github.com/BVLC/caffe
+  Caffe: a fast open framework for deep learning.
+  stars:23,837
+
+14:https://github.com/google/leveldb
+  LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+  stars:13,421
+
+15:https://github.com/changkun/modern-cpp-tutorial
+  <g-emoji class="g-emoji" alias="books" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> C++11/14/17 On the Fly
+  stars:2,170
+
+16:https://github.com/dmlc/xgboost
+  Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+  stars:11,684
+
+17:https://github.com/PaddlePaddle/Paddle
+  PArallel Distributed Deep LEarning
+  stars:6,774
+
+18:https://github.com/arendst/Sonoff-Tasmota
+  Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE or PlatformIO
+  stars:2,648
+
+19:https://github.com/grpc/grpc
+  The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+  stars:14,879
+
+20:https://github.com/glinscott/leela-chess
+  A chess adaption of GCP's Leela Zero
+  stars:471
+
+21:https://github.com/ApolloAuto/apollo
+  An open autonomous driving platform
+  stars:8,757
+
+22:https://github.com/ethereum/solidity
+  Solidity, the Contract-Oriented Programming Language
+  stars:4,582
+
+23:https://github.com/Microsoft/LightGBM
+  A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks. It is under the umbrella of the DMTK(<a href="http://github.com/microsoft/dmtk">http://github.com/microsoft/dmtk</a>) project of Microsoft.
+  stars:5,296
+
+24:https://github.com/mozilla/DeepSpeech
+  A TensorFlow implementation of Baidu's DeepSpeech architecture
+  stars:6,458
+
+25:https://github.com/ElDewrito/ElDorito
+  A Halo Online modification
+  stars:436
+

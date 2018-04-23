@@ -1,0 +1,103 @@
+语言：Python
+时间：2018-04-23 23:04:17
+
+1:https://github.com/tensorflow/models
+  Models and examples built with TensorFlow
+  stars:33,619
+
+2:https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF
+  OReilly Hands On Machine Learning with Scikit Learn and TensorFlow (Sklearn与TensorFlow机器学习实用指南)
+  stars:227
+
+3:https://github.com/qqwweee/keras-yolo3
+  A Keras implementation of YOLOv3 (Tensorflow backend)
+  stars:195
+
+4:https://github.com/YouChouNoBB/2018-tencent-ad-competition-baseline
+  2018腾讯广告算法大赛baseline 线上0.73
+  stars:142
+
+5:https://github.com/0xAX/linux-insides
+  A little bit about a linux kernel
+  stars:17,376
+
+6:https://github.com/ContextLab/hypertools
+  A python toolbox for gaining geometric insights into high-dimensional data
+  stars:506
+
+7:https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
+  Accompanying code for Paperspace tutorial series "How to Implement YOLO v3 Object Detector from Scratch"
+  stars:89
+
+8:https://github.com/donnemartin/system-design-primer
+  Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+  stars:25,486
+
+9:https://github.com/keras-team/keras
+  Deep Learning for humans
+  stars:28,613
+
+10:https://github.com/ayooshkathuria/pytorch-yolo-v3
+  A PyTorch implementation of the YOLO v3 object detection algorithm
+  stars:145
+
+11:https://github.com/vinta/awesome-python
+  A curated list of awesome Python frameworks, libraries, software and resources
+  stars:48,855
+
+12:https://github.com/m4ll0k/SMBrute
+  SMB Protocol Bruteforce
+  stars:101
+
+13:https://github.com/junyanz/BicycleGAN
+  [NIPS 2017] Toward Multimodal Image-to-Image Translation
+  stars:499
+
+14:https://github.com/BelBES/mpl.pytorch
+  Pytorch implementation of MaxPoolingLoss.
+  stars:120
+
+15:https://github.com/django/django
+  The Web framework for perfectionists with deadlines.
+  stars:33,384
+
+16:https://github.com/Mind0xP/Frida-Python-Binding
+  Easy to use Frida python binding script
+  stars:48
+
+17:https://github.com/shobrook/rebound
+  Command-line tool that instantly fetches Stack Overflow results when you get a compiler error
+  stars:1,580
+
+18:https://github.com/taki0112/MUNIT-Tensorflow
+  Simple Tensorflow implementation of "Multimodal Unsupervised Image-to-Image Translation"
+  stars:96
+
+19:https://github.com/ashnkumar/sketch-code
+  Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images.
+  stars:1,237
+
+20:https://github.com/ageitgey/face_recognition
+  The world's simplest facial recognition api for Python and the command line
+  stars:12,873
+
+21:https://github.com/toddmotto/public-apis
+  A collective list of public JSON APIs for use in web development.
+  stars:35,863
+
+22:https://github.com/scikit-learn/scikit-learn
+  scikit-learn: machine learning in Python
+  stars:27,616
+
+23:https://github.com/sixstars/starctf2018
+  Official repository containing files related to *ctf 2018
+  stars:42
+
+24:https://github.com/apachecn/MachineLearning
+  Machine Learning in Action（机器学习实战）
+  stars:3,403
+
+25:https://github.com/flipkart-incubator/RTA
+  Red team Arsenal - An intelligent scanner to detect security vulnerabilities in company's layer 7 assets.
+  stars:143
+
